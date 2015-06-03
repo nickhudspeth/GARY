@@ -1,0 +1,1364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"MIDI",
+				"MIDI_RX_LED_PIN"
+			],
+			[
+				"midi",
+				"midi_note_table"
+			],
+			[
+				"PI",
+				"PITCH_BEND_RANGE"
+			],
+			[
+				"uin",
+				"uint16_t"
+			],
+			[
+				"mcp",
+				"mcp492x_write_command"
+			],
+			[
+				"ac",
+				"active_note"
+			],
+			[
+				"poly",
+				"poly_buf"
+			],
+			[
+				"pol",
+				"poly_buf"
+			],
+			[
+				"po",
+				"poly_buf"
+			],
+			[
+				"MCP",
+				"MCP_INPUT_BUFFER"
+			],
+			[
+				"note",
+				"noteon_callback"
+			],
+			[
+				"u",
+				"uint16_t"
+			],
+			[
+				"head",
+				"head	C Implementation File Template"
+			],
+			[
+				"func",
+				"func	c_function_template"
+			],
+			[
+				"but",
+				"buttonArray"
+			],
+			[
+				"C_BUT",
+				"C_BUTTON_PORT"
+			],
+			[
+				"C_B",
+				"C_BUTTON_DDR"
+			],
+			[
+				"int",
+				"int8_t"
+			],
+			[
+				"hea",
+				"head	C Implementation File Template"
+			],
+			[
+				"comp",
+				"compareAscending"
+			],
+			[
+				"new",
+				"newSequence"
+			],
+			[
+				"curre",
+				"currentSequence"
+			],
+			[
+				"ex",
+				"exp	latex-mathsymbols"
+			],
+			[
+				"sqrt",
+				"sqrt{arg}	latex-document"
+			],
+			[
+				"bra",
+				"bra{text}	braket"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"implie",
+				"implies	amsmath"
+			],
+			[
+				"end",
+				"end{align}	phys115bhw3.tex"
+			],
+			[
+				"name",
+				"name_last	param"
+			],
+			[
+				"lon",
+				"lon_max	param"
+			],
+			[
+				"cover",
+				"coverage_points"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"war",
+				"warning	function"
+			],
+			[
+				"log",
+				"logging	module"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"underl",
+				"underline{text}	latex-document"
+			],
+			[
+				"subsection",
+				"subsection{title}	latex-document"
+			],
+			[
+				"sqr",
+				"sqrt{arg}	latex-document"
+			],
+			[
+				"inf",
+				"infty	latex-mathsymbols"
+			],
+			[
+				"imp",
+				"implies	amsmath"
+			],
+			[
+				"vec",
+				"vec{a}	latex-mathsymbols"
+			],
+			[
+				"subsec",
+				"subsection{title}	latex-document"
+			],
+			[
+				"ph",
+				"phi	latex-mathsymbols"
+			],
+			[
+				"hba",
+				"hbar	latex-mathsymbols"
+			],
+			[
+				"subsubse",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"subsub",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"ps",
+				"psi	latex-mathsymbols"
+			],
+			[
+				"subse",
+				"subsection{title}	latex-document"
+			],
+			[
+				"include",
+				"includegraphics{name}	latex-document"
+			],
+			[
+				"documentcla",
+				"documentclass{style}	latex-document"
+			],
+			[
+				"usepac",
+				"usepackage[options]{package}	latex-document"
+			],
+			[
+				"doc",
+				"documentclass{style}	latex-document"
+			],
+			[
+				"gsc",
+				"gsclk_port"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 10677,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "xnormidi/serial_midi.h",
+			"settings":
+			{
+				"buffer_size": 1356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/nam/.config/sublime-text-3/Packages/User/c_function_template.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "settings.h",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"SublimeAVR",
+					""
+				],
+				[
+					"SublimeAVR",
+					"Rebuild"
+				],
+				[
+					"SublimeAVR",
+					"Clean"
+				],
+				[
+					"SublimeAVR",
+					"Debug"
+				]
+			],
+			[
+				"SublimeAVR",
+				""
+			]
+		],
+		[
+			[
+				[
+					"SublimeAVR",
+					""
+				],
+				[
+					"SublimeAVR",
+					"Rebuild"
+				],
+				[
+					"SublimeAVR",
+					"Clean"
+				],
+				[
+					"SublimeAVR",
+					"Debug"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"SublimeAVR",
+				"Rebuild"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"last_filter": "avr:",
+		"selected_items":
+		[
+			[
+				"avr:",
+				"AVR: Create/Update Project"
+			],
+			[
+				"avr",
+				"AVR: Create/Update Project"
+			],
+			[
+				"sublimeavr",
+				"Build With: SublimeAVR"
+			],
+			[
+				"git:",
+				"Git: Add..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"AVR: Create/Update Project"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"gitam",
+				"Git: Amend Commit"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"git:ad",
+				"Git: Add..."
+			],
+			[
+				"git:a",
+				"Git: Add..."
+			],
+			[
+				"git:A",
+				"Git: Add..."
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"git: com",
+				"Git: Commit"
+			],
+			[
+				"astyle",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove	",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane/midi",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane/xnormidi"
+	],
+	"file_history":
+	[
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane/midi/serial_midi.c",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane/backplane.sublime-project",
+		"/home/nam/.config/sublime-text-3/Cache/Makefile/Make.build-language.cache",
+		"/home/nam/.config/sublime-text-3/Packages/AVR/SublimeAVR.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/SublimeAVR.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/CaseConversion.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane/backplane.sublime-workspace",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/software/backplane/midi/serial_midi.h",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/midi_cv_converter/report/midi_cv_converter.bib",
+		"/home/nam/Work/University/Physics 127AL/Synthesizer/midi_cv_converter/report/midi_cv_converter.tex",
+		"/home/nam/Work/RapidThought/Craft Vapery/Electronic Cigarette/Software/rev_2/src/settings.h",
+		"/home/nam/Work/RapidThought/Craft Vapery/Electronic Cigarette/Software/rev_2/src/Makefile",
+		"/home/nam/Work/RapidThought/Craft Vapery/Electronic Cigarette/Software/rev_2/src/main.c",
+		"/home/nam/Desktop/test.c",
+		"/home/nam/Work/RapidThought/Craft Vapery/Electronic Cigarette/Software/rev_2/SublimeAVR.sublime-project",
+		"/home/nam/Work/University/Physics 115C/lecture_notes/PHYS115C_Notes.tex",
+		"/home/nam/Work/University/Physics 125/lecture_notes/PHYS125_Notes.tex",
+		"/home/nam/Work/RapidThought/Craft Vapery/Electronic Cigarette/Software/new/Basic_template/SublimeAVR.sublime-project",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/timers.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/gpio.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/test/test.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/Makefile",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/a2d.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/usart.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/timers.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/main.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/SublimeAVR.sublime-project",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/sort.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/sequence.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/sort.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/global.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/a2d.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/encoders.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/gpio.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/sequence.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/log_example_usage.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/log.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/leds.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/encoders.c",
+		"/home/nam/.config/sublime-text-3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/defines.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/a.map",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/a.ppp",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/main.d",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/LIB_README.md",
+		"/home/nam/.config/sublime-text-3/Packages/User/c_function_template.sublime-snippet",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/lib/uartlibrary/uart.c",
+		"/home/nam/.config/sublime-text-3/Packages/User/c_include_file_template.sublime-snippet",
+		"/home/nam/.config/sublime-text-3/Packages/User/c_implementation_file_template.sublime-snippet",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/lib/uartlibrary/uart.h",
+		"/home/nam/.config/sublime-text-3/Packages/DoxyDoc/DoxyDoc.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/DoxyDoc.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/midi.h",
+		"/home/nam/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/leds.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/pindefs.h",
+		"/home/nam/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/settings.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/settings.h",
+		"/home/nam/Work/Projects/sublimeavr_test/main.c",
+		"/home/nam/Work/Projects/sublimeavr_test/Makefile",
+		"/home/nam/Work/Projects/sublimeavr_test/SublimeAVR.sublime-project",
+		"/home/nam/Work/Projects/sublimeavr_test/settings.h",
+		"/home/nam/Work/Projects/jehovah/jehovah.py",
+		"/home/nam/Work/University/Physics 101/Assignments/5/phys101hw5.tex",
+		"/home/nam/Work/Projects/jehovah/test.c",
+		"/home/nam/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/nam/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/nam/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/main.c",
+		"/home/nam/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/meeblip.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/arpeggio_board_def.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/debounce.c",
+		"/home/nam/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/arpeggio.ino",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/notes.txt",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/init.c",
+		"/home/nam/.config/sublime-text-3/Packages/Case Conversion/CaseConversion.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/Case Conversion/Default (Linux).sublime-keymap",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/include/stdlib.h",
+		"/home/nam/Work/University/Physics 115B/Assignments/3/phys115bhw3.tex",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/arpeggio.sublime-project",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/usart.c",
+		"/home/nam/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/lib/arduino/pins_arduino.h",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/avr/parity.h",
+		"/home/nam/.config/sublime-text-3/Packages/User/bh_core.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/LaTeXing.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/home/nam/Desktop/Super key (keyboard button) - Wikipedia, the free encyclopedia.html",
+		"/home/nam/.config/sublime-text-3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/AlignTab/AlignTab.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/nam/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/User/C++.sublime-settings",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/midi.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/src/README.md",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/sequence.c",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/sequence.h",
+		"/home/nam/Work/University/Physics 119B/Assignments/3/phys119bhw3.tex",
+		"/home/nam/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/lib/arduino/pins_arduino.h",
+		"/home/nam/Desktop/testpacket.json",
+		"/home/nam/Work/Projects/4g-Control/coverage-mapping/coveragemapping.db",
+		"/home/nam/Work/Projects/4g-Control/coverage-mapping/app-server.py",
+		"/home/nam/Downloads/Eagle_7.2.0_Linux/eagle-lin-7.2.0.tar.bz2",
+		"/home/nam/Work/University/Physics 115B/Lecture Notes/PHYS115B_Notes.tex",
+		"/home/nam/.conkyrc",
+		"/home/nam/Desktop/latex-test/test.tex",
+		"/home/nam/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/home/nam/.config/sublime-text-3/Packages/LaTeXing/LaTeX.sublime-build",
+		"/home/nam/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/nam/Work/Projects/Synthesizer/envelope/envelope.h",
+		"/home/nam/Work/Projects/Synthesizer/envelope/envelope.c",
+		"/home/nam/Work/Projects/LED Display/Software/TLC5955.h",
+		"/home/nam/Work/Projects/LED Display/Software/TLC5955.c",
+		"/home/nam/Desktop/TwitTest.py",
+		"/home/nam/Desktop/trash.c",
+		"/home/nam/Desktop/Main.java",
+		"/home/nam/tinderbot.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 82.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			"oldest",
+			"note_numbers",
+			"byte3",
+			"byte1",
+			"byte0",
+			"polyphony",
+			"POLYPHONY",
+			"MidiDevice",
+			"Mididevice",
+			"messages",
+			"make",
+			"uint8_t",
+			"of",
+			"tiny",
+			"10k\\Omega",
+			"100\\Omega",
+			"result",
+			"channel",
+			"vres",
+			"(n)",
+			"hbar",
+			" << ",
+			"src",
+			"void",
+			"  ",
+			"pitch",
+			".pitch",
+			"elapsed",
+			"->",
+			".",
+			"].",
+			"void",
+			"arp",
+			"MAX_ARPEGGIO_LENGTH",
+			".",
+			"enc [description]",
+			"scanInput",
+			"slider_1",
+			"ENC4",
+			"ENC3",
+			"ENC2",
+			"ENC1",
+			"ENC_4",
+			"ENC_3",
+			"ENC_2",
+			"ENC_1",
+			"ENC3",
+			"ENC2",
+			"ENC",
+			"ENC1",
+			"ENC0",
+			"ENC0_BTN_DDR",
+			"ENC0",
+			"ENC0_BTN_DDR",
+			"ENC0",
+			"ENC",
+			"ENC_1",
+			"sButton",
+			"banklevel",
+			"scan",
+			"bankLevelLed",
+			"[]",
+			"bankLevelLed",
+			"arp",
+			"usartSend",
+			"usartSend(\"Entering bankSelectAction \\n\")",
+			"usartSend",
+			"778",
+			"globals.ledArray[TEST_DLY",
+			"11",
+			"LED_",
+			"Fleury",
+			"end",
+			",1",
+			"xrange(0,end)",
+			",1",
+			"range",
+			"255",
+			"range",
+			"255",
+			":\n",
+			"and run",
+			"run",
+			"length",
+			"xrange(0,length)",
+			"range",
+			"length",
+			"0",
+			"255",
+			"\"%d.\"",
+			"s",
+			"globals.bankLevel.bankLevelLed",
+			"globals.bankLevel.bankLevelNum",
+			"&",
+			"681",
+			"676",
+			"enc",
+			"ENC",
+			"enc",
+			"ENC",
+			"read_encoder",
+			"ENC4",
+			"ENC3",
+			"ENC2",
+			"ENC1",
+			"1_",
+			"1_A",
+			"slotLEDs",
+			".pin",
+			"slotLEDs",
+			"globals.currentLocationLED = slotLEDs[globals.currentSongIndex].pin;",
+			"slotLEDs",
+			"currentLocationLED",
+			"slotLEDs",
+			"1_",
+			"_A",
+			"1_",
+			"1",
+			"_1",
+			"ENC1_BTN",
+			"_1",
+			"       ",
+			"      ",
+			"     ",
+			"       ",
+			"      ",
+			"C_BUTTON"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"MAX_SEQUENCE_LENGTH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1094,
+								1094
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "xnormidi/serial_midi.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1049,
+								1049
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/nam/.config/sublime-text-3/Packages/User/c_function_template.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "settings.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "backplane.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Work/Tangible/Arpeggio/Software/arpeggio_src_r2/arpeggio/arpeggio.sublime-project"
+			]
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 342.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

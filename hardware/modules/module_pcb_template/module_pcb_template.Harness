@@ -1,0 +1,6 @@
+Module_CV=CV_0,CV_1
+Module_Gate=GATE_0,GATE_1
+Module_GPIO=GPIO_0,GPIO_1,GPIO_2,GPIO_3
+Module_MIDI=MIDI_IN,MIDI_OUT
+Module_Power=+12V,-12V,+5V,+3.3V,GND
+Module_PWM=PWM_0,PWM_1

@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=module_pcb_template.SchDoc|Designator=U1|SchDesignator=U1|FileName=dual_header_card_60_100.SchDoc|SymbolType=Normal|RawFileName=dual_header_card_60_100.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=dual_header_card_60_100.SchDoc|Designator=U?|SchDesignator=U?|FileName=GARY_Backplane_ModuleSlot_CurrentBuffer.SchDoc|SymbolType=Normal|RawFileName=GARY_Backplane_ModuleSlot_CurrentBuffer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=module_pcb_template.SchDoc

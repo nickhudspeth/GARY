@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Background}{1}
+\contentsline {section}{\numberline {2}Goals and Objectives}{1}
+\contentsline {section}{\numberline {3}Significance}{1}
+\contentsline {section}{\numberline {4}Project Plan}{1}
+\contentsline {subsection}{\numberline {4.1}Proposed Design}{2}
+\contentsline {subsection}{\numberline {4.2}Timeline}{2}
