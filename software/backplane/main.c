@@ -37,8 +37,8 @@ LICENSE:
 #define V_MAX
 #define POLY 2
 #define PITCH_BEND_RANGE 1 // Pitch bend range, in steps //
-#define MIDI_RX_LED_PORT PORTB
-#define MIDI_RX_LED_PIN  PB0
+#define RETRIG 1 // Retrigger gate on each new note?
+
 
 #define SPI_DOUBLE_MODE 0
 
@@ -47,8 +47,12 @@ LICENSE:
 #define MCP_2X_GAIN      0
 
 /* PIN DEFINITIONS */
-
-
+#define MIDI_RX_LED_PORT PORTB
+#define MIDI_RX_LED_PIN  PB0
+#define GATE_0_PORT PORTC
+#define GATE_0_PIN  PC4
+#define GATE_1_PORT PORTC
+#define GATE_1_PIN  PC5
 /* MIDI-RELATED DEFINITIONS */
 #define USART_BAUDRATE 31250
 #define MIDI_CLOCK_SCALE (((F_CPU / (USART_BAUDRATE * 16UL))) - 1)
@@ -71,11 +75,33 @@ struct active_note poly_buf[POLY];
 /* Lookup table for MIDI note / MCP492x command translation */
 uint16_t midi_note_table[128];
 
+/* Counter to keep track of how many notes are being played */
+uint8_t poly_count = 0;
+
 MidiDevice *midi_device;
 
 
 /*******************    FUNCTION IMPLEMENTATIONS    ********************/
 
+/*************************************************************************
+ * Function :    set_gate()
+ * Purpose  :    Turns the gate on/off
+ * Input    :    unsigned char gate - Which gate to set
+ *               unsigned char state - Boolean value (0 = off, 1 = on)
+ * Returns  :    void
+ *************************************************************************/
+void set_gate(unsigned char gate unsigned char state)
+{
+    if (!gate) {
+        GATE_0_PORT &= ~_BV(GATE_0_PIN);
+        /* Toggle pin to reset if state should be high */
+        if (state) {GATE_0_PORT |= _BV(GATE_0_PIN);}
+    } else {
+        GATE_1_PORT &= ~_BV(GATE_1_PIN);
+        /* Toggle pin to reset if state should be high */
+        if (state) {GATE_1_PORT |= _BV(GATE_1_PIN);}
+    }
+}
 
 /*************************************************************************
  * Function :   mcp492x_write_command()
@@ -127,6 +153,8 @@ ISR(USART0_RX_vect)
 void noteon_callback(MidiDevice *device, uint8_t chan, uint8_t num,
                      uint8_t vel)
 {
+    /* Reset Gate_0 to active */
+    if (((poly_count == 0) || RETRIG)) {set_gate(0, 1);}
     if (poly_buf[1].val != 0) {
         /*** TWO NOTES CURRENTLY PLAYING ***/
 
@@ -157,6 +185,7 @@ void noteon_callback(MidiDevice *device, uint8_t chan, uint8_t num,
             poly_buf[0].val = num;
             poly_buf[0].adc = !(poly_buf[1].adc);
             //poly_buf[0].conv = ??
+            poly_count ++;
         } else {
             /*** NO NOTES CURRENTLY PLAYING ***/
 
@@ -166,6 +195,7 @@ void noteon_callback(MidiDevice *device, uint8_t chan, uint8_t num,
             poly_buf[0].val = num;
             poly_buf[0].adc = 0;
             //poly_buf[0].conv = ??
+            poly_count++;
 
         }
     }
@@ -208,6 +238,10 @@ void noteoff_callback(MidiDevice *device, uint8_t chan, uint8_t num,
     }
     /* Toggle MIDI RX LED */
     MIDI_RX_LED_PORT ^= _BV(MIDI_RX_LED_PIN);
+    (poly_count > 0) ? poly_count-- : poly_count = 0;
+
+    /* Turn off Gate 0 if no notes are being played */
+    if (poly_count == 0) {set_gate(0, 0);}
 }
 
 /*************************************************************************
