@@ -19,7 +19,6 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 main.o
  .text.mcp492x_write_command
                 0x0000000000000000       0x16 main.o
- .text.ISR      0x0000000000000000       0x2c main.o
  .text.init_gpio
                 0x0000000000000000       0x14 main.o
  .text.init_spi
@@ -170,7 +169,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x0000000000000000      0x262
+.text           0x0000000000000000      0x328
  *(.vectors)
  .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
                 0x0000000000000000                __vectors
@@ -248,27 +247,32 @@ END GROUP
                 0x000000000000008c                __vector_14
                 0x000000000000008c                __vector_10
                 0x000000000000008c                __vector_16
-                0x000000000000008c                __vector_18
                 0x000000000000008c                __vector_20
                 0x0000000000000090                . = ALIGN (0x2)
  *(.text.*)
- .text.noteon_callback
-                0x0000000000000090       0xf6 main.o
-                0x0000000000000090                noteon_callback
- .text.pitchbend_callback
-                0x0000000000000186       0x4a main.o
-                0x0000000000000186                pitchbend_callback
  .text.noteoff_callback
-                0x00000000000001d0        0x2 main.o
-                0x00000000000001d0                noteoff_callback
+                0x0000000000000090        0x2 main.o
+                0x0000000000000090                noteoff_callback
+ .text.pitchbend_callback
+                0x0000000000000092       0x4a main.o
+                0x0000000000000092                pitchbend_callback
+ .text.set_gate
+                0x00000000000000dc       0x16 main.o
+                0x00000000000000dc                set_gate
+ .text.noteon_callback
+                0x00000000000000f2      0x13c main.o
+                0x00000000000000f2                noteon_callback
+ .text.__vector_18
+                0x000000000000022e       0x6e main.o
+                0x000000000000022e                __vector_18
  .text.startup.main
-                0x00000000000001d2       0x8c main.o
-                0x00000000000001d2                main
-                0x000000000000025e                . = ALIGN (0x2)
+                0x000000000000029c       0x88 main.o
+                0x000000000000029c                main
+                0x0000000000000324                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x000000000000025e        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
-                0x000000000000025e                exit
-                0x000000000000025e                _exit
+ .fini9         0x0000000000000324        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                0x0000000000000324                exit
+                0x0000000000000324                _exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -287,11 +291,11 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x000000000000025e        0x4 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .fini0         0x0000000000000324        0x4 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
  *(.fini0)
-                0x0000000000000262                _etext = .
+                0x0000000000000328                _etext = .
 
-.data           0x0000000000800100        0x0 load address 0x0000000000000262
+.data           0x0000000000800100        0x0 load address 0x0000000000000328
                 0x0000000000800100                PROVIDE (__data_start, .)
  *(.data)
  .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
@@ -306,25 +310,28 @@ END GROUP
                 0x0000000000800100                _edata = .
                 0x0000000000800100                PROVIDE (__data_end, .)
 
-.bss            0x0000000000800100      0x106
+.bss            0x0000000000800100      0x107
                 0x0000000000800100                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
+ .bss.poly_count
+                0x0000000000800100        0x1 main.o
+                0x0000000000800100                poly_count
  *(COMMON)
- COMMON         0x0000000000800100      0x106 main.o
-                0x0000000000800100                poly_buf
-                0x0000000000800104                midi_note_table
-                0x0000000000800204                midi_device
-                0x0000000000800206                PROVIDE (__bss_end, .)
-                0x0000000000000262                __data_load_start = LOADADDR (.data)
-                0x0000000000000262                __data_load_end = (__data_load_start + SIZEOF (.data))
+ COMMON         0x0000000000800101      0x106 main.o
+                0x0000000000800101                poly_buf
+                0x0000000000800105                midi_note_table
+                0x0000000000800205                midi_device
+                0x0000000000800207                PROVIDE (__bss_end, .)
+                0x0000000000000328                __data_load_start = LOADADDR (.data)
+                0x0000000000000328                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x0000000000800206        0x0
-                0x0000000000800206                PROVIDE (__noinit_start, .)
+.noinit         0x0000000000800207        0x0
+                0x0000000000800207                PROVIDE (__noinit_start, .)
  *(.noinit*)
-                0x0000000000800206                PROVIDE (__noinit_end, .)
-                0x0000000000800206                _end = .
-                0x0000000000800206                PROVIDE (__heap_start, .)
+                0x0000000000800207                PROVIDE (__noinit_end, .)
+                0x0000000000800207                _end = .
+                0x0000000000800207                PROVIDE (__heap_start, .)
 
 .eeprom         0x0000000000810000        0x0
  *(.eeprom*)
@@ -424,7 +431,6 @@ LOAD linker stubs
 Cross Reference Table
 
 Symbol                                            File
-ISR                                               main.o
 __bad_interrupt                                   /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __bss_end                                         /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
 __bss_start                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
@@ -442,7 +448,8 @@ __vector_14                                       /usr/lib/gcc/avr/4.8.2/../../.
 __vector_15                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __vector_16                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __vector_17                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
-__vector_18                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       main.o
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __vector_19                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __vector_2                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __vector_20                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
@@ -461,7 +468,6 @@ __vector_9                                        /usr/lib/gcc/avr/4.8.2/../../.
 __vector_default                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 __vectors                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 _exit                                             /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
-cli                                               main.o
 exit                                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
                                                   /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
 init_gpio                                         main.o
@@ -480,5 +486,6 @@ noteoff_callback                                  main.o
 noteon_callback                                   main.o
 pitchbend_callback                                main.o
 poly_buf                                          main.o
-sei                                               main.o
+poly_count                                        main.o
 serial_midi_init_usart0                           main.o
+set_gate                                          main.o

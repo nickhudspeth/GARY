@@ -29,6 +29,7 @@ LICENSE:
 
 #include <avr/io.h>
 #include <util/delay.h>
+#include <avr/interrupt.h>
 #include "xnormidi/serial_midi.h"
 
 /*********************    CONSTANTS AND MACROS    **********************/
@@ -90,7 +91,7 @@ MidiDevice *midi_device;
  *               unsigned char state - Boolean value (0 = off, 1 = on)
  * Returns  :    void
  *************************************************************************/
-void set_gate(unsigned char gate unsigned char state)
+void set_gate(unsigned char gate, unsigned char state)
 {
     if (!gate) {
         GATE_0_PORT &= ~_BV(GATE_0_PIN);
@@ -135,7 +136,7 @@ void mcp492x_write_command(uint16_t ss, unsigned char adc, uint16_t data)
     return;
 }
 
-ISR(USART0_RX_vect)
+ISR(USART_RX_vect)
 {
     uint8_t inByte = UDR0;
     midi_device_input(midi_device, 1, &inByte);
@@ -215,7 +216,7 @@ void noteon_callback(MidiDevice *device, uint8_t chan, uint8_t num,
 void noteoff_callback(MidiDevice *device, uint8_t chan, uint8_t num,
                       uint8_t amt)
 {
-    uint8_t i, match;
+    uint8_t i, match = 0;
     for (i = 0 ; i < POLY; i++ ) {
         if (poly_buf[i].val == num) { break; }
     }
@@ -224,7 +225,7 @@ void noteoff_callback(MidiDevice *device, uint8_t chan, uint8_t num,
         /* Turn off the requested note and clear*/
         mcp492x_write_command(0, poly_buf[i].adc, 0);
         /* Update the note ordering in the poly buffer */
-        if (i = 0) {
+        if (i == 0) {
             poly_buf[0] = poly_buf[1];
             poly_buf[1].val = 0;
             poly_buf[1].adc = 0;
@@ -238,7 +239,7 @@ void noteoff_callback(MidiDevice *device, uint8_t chan, uint8_t num,
     }
     /* Toggle MIDI RX LED */
     MIDI_RX_LED_PORT ^= _BV(MIDI_RX_LED_PIN);
-    (poly_count > 0) ? poly_count-- : poly_count = 0;
+    poly_count = (poly_count > 0) ? (poly_count - 1) : 0;
 
     /* Turn off Gate 0 if no notes are being played */
     if (poly_count == 0) {set_gate(0, 0);}

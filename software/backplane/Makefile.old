@@ -6,7 +6,7 @@ SIZE    :=$(CROSS)size
 OBJCOPY :=$(CROSS)objcopy
 OBJDUMP :=$(CROSS)objdump
 
-TARGET=a
+TARGET=GARY_backplane
 MMCU?=atmega328p
 
 SOURCES=$(wildcard *.cpp) $(wildcard *.c)
@@ -18,8 +18,8 @@ OBJECTS=$(SOURCES:.cpp=.o)
 OBJECTS:=$(OBJECTS:.c=.o)
 
 CSTD?=c99
-COPT=-O2 -fdata-sections -ffunction-sections
-CFLAGS=-mmcu=$(MMCU) -std=$(CSTD) $(COPT) -Wall
+COPT=-O2 -fdata-sections -ffunction-sections 
+CFLAGS=-mmcu=$(MMCU) -std=$(CSTD) $(COPT) -Wall -v
 CFLAGS+=$(addprefix -I,$(INCLUDES))
 CFLAGS+=-include "$(SETTINGS)"
 
