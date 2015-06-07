@@ -1,0 +1,502 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=VCC Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=C4-2
+Removed Pin From Net: NetName=GND_M2 Pin=C?-1
+Removed Pin From Net: NetName=+12V_M2 Pin=C?-2
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-2
+Removed Pin From Net: NetName=CTRL_8A_M2 Pin=J?-0
+Removed Pin From Net: NetName=CTRL_8B_M2 Pin=J?-1
+Removed Pin From Net: NetName=CTRL_8C_M2 Pin=J?-2
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-1
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=NetR3_1 Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Pin From Net: NetName=NetR4_1 Pin=R4-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R4-2
+Removed Pin From Net: NetName=NetR5_1 Pin=R5-1
+Removed Pin From Net: NetName=NetR5_2 Pin=R5-2
+Removed Pin From Net: NetName=NetD1_2 Pin=R6-1
+Removed Pin From Net: NetName=NetR5_1 Pin=R6-2
+Removed Pin From Net: NetName=NetR7_1 Pin=R7-1
+Removed Pin From Net: NetName=NetR7_2 Pin=R7-2
+Removed Pin From Net: NetName=NetR8_1 Pin=R8-1
+Removed Pin From Net: NetName=NetR8_2 Pin=R8-2
+Removed Pin From Net: NetName=NetR8_1 Pin=R9-1
+Removed Pin From Net: NetName=RST Pin=R9-2
+Removed Pin From Net: NetName=NetR10_1 Pin=R10-1
+Removed Pin From Net: NetName=NetR10_2 Pin=R10-2
+Removed Pin From Net: NetName=NetD2_2 Pin=R11-1
+Removed Pin From Net: NetName=NetR11_2 Pin=R11-2
+Removed Pin From Net: NetName=GND_U13 Pin=R12-2
+Removed Pin From Net: NetName=NetR10_2 Pin=R13-1
+Removed Pin From Net: NetName=NetR13_2 Pin=R13-2
+Removed Pin From Net: NetName=NetR14_1 Pin=R14-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R14-2
+Removed Pin From Net: NetName=NetR15_1 Pin=R15-1
+Removed Pin From Net: NetName=GND_U13 Pin=R16-1
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-1
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-3
+Removed Pin From Net: NetName=MOSI Pin=U1-4
+Removed Pin From Net: NetName=NetR11_2 Pin=U1-5
+Removed Pin From Net: NetName=NetR5_2 Pin=U1-6
+Removed Pin From Net: NetName=NetR10_2 Pin=U1-7
+Removed Pin From Net: NetName=NetU1_8 Pin=U1-8
+Removed Pin From Net: NetName=NetR8_2 Pin=U1-9
+Removed Pin From Net: NetName=NetR10_1 Pin=U1-10
+Removed Pin From Net: NetName=-12V_U13 Pin=U1-11
+Removed Pin From Net: NetName=NetR3_1 Pin=U1-12
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-13
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-14
+Removed Pin From Net: NetName=PWM_0_M2 Pin=U?-1
+Removed Pin From Net: NetName=PWM_0_M2 Pin=U?-2
+Removed Pin From Net: NetName=+12V_M2 Pin=U?-4
+Removed Pin From Net: NetName=MIDI_OUT_BUF_U33 Pin=U?-8
+Removed Pin From Net: NetName=MIDI_OUT_BUF_U33 Pin=U?-9
+Removed Pin From Net: NetName=GND_M2 Pin=U?-11
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=+12V Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=GND_M0 Pin=C?-1
+Added Pin To Net: NetName=GND_M0 Pin=C?-1
+Added Pin To Net: NetName=GND_M0 Pin=C?-1
+Added Pin To Net: NetName=GND_M0 Pin=C?-1
+Added Pin To Net: NetName=GND_M1 Pin=C?-1
+Added Pin To Net: NetName=GND_M1 Pin=C?-1
+Added Pin To Net: NetName=GND_M1 Pin=C?-1
+Added Pin To Net: NetName=GND_M1 Pin=C?-1
+Added Pin To Net: NetName=GND_M2 Pin=C?-1
+Added Pin To Net: NetName=GND_M2 Pin=C?-1
+Added Pin To Net: NetName=GND_M2 Pin=C?-1
+Added Pin To Net: NetName=GND_M2 Pin=C?-1
+Added Pin To Net: NetName=+12V_M0 Pin=C?-2
+Added Pin To Net: NetName=+12V_M0 Pin=C?-2
+Added Pin To Net: NetName=+12V_M0 Pin=C?-2
+Added Pin To Net: NetName=+12V_M0 Pin=C?-2
+Added Pin To Net: NetName=+12V_M1 Pin=C?-2
+Added Pin To Net: NetName=+12V_M1 Pin=C?-2
+Added Pin To Net: NetName=+12V_M1 Pin=C?-2
+Added Pin To Net: NetName=+12V_M1 Pin=C?-2
+Added Pin To Net: NetName=+12V_M2 Pin=C?-2
+Added Pin To Net: NetName=+12V_M2 Pin=C?-2
+Added Pin To Net: NetName=+12V_M2 Pin=C?-2
+Added Pin To Net: NetName=+12V_M2 Pin=C?-2
+Added Pin To Net: NetName=GND_U11 Pin=D1-1
+Added Pin To Net: NetName=GND_U12 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND_U11 Pin=D2-2
+Added Pin To Net: NetName=GND_U12 Pin=D2-2
+Added Pin To Net: NetName=GND_U13 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=CTRL_1A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_1A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_1A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_1A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_1A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_1A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_2A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_2A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_2A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_3A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_3A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_3A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_4A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_4A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_4A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_5A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_5A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_5A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_6A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_6A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_6A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_7A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_7A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_7A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_8A_M0 Pin=J?-0
+Added Pin To Net: NetName=CTRL_8A_M1 Pin=J?-0
+Added Pin To Net: NetName=CTRL_8A_M2 Pin=J?-0
+Added Pin To Net: NetName=CTRL_1B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_1B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_1B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_1B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_1B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_1B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_2B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_2B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_2B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_3B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_3B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_3B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_4B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_4B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_4B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_5B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_5B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_5B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_6B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_6B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_6B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_7B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_7B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_7B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_8B_M0 Pin=J?-1
+Added Pin To Net: NetName=CTRL_8B_M1 Pin=J?-1
+Added Pin To Net: NetName=CTRL_8B_M2 Pin=J?-1
+Added Pin To Net: NetName=CTRL_1C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_1C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_1C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_1C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_1C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_1C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_2C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_2C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_2C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_3C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_3C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_3C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_4C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_4C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_4C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_5C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_5C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_5C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_6C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_6C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_6C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_7C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_7C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_7C_M2 Pin=J?-2
+Added Pin To Net: NetName=CTRL_8C_M0 Pin=J?-2
+Added Pin To Net: NetName=CTRL_8C_M1 Pin=J?-2
+Added Pin To Net: NetName=CTRL_8C_M2 Pin=J?-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=GND_U11 Pin=R1-2
+Added Pin To Net: NetName=GND_U12 Pin=R1-2
+Added Pin To Net: NetName=GND_U13 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=CV0_OUT Pin=R2-1
+Added Pin To Net: NetName=GND_U11 Pin=R3-1
+Added Pin To Net: NetName=GND_U12 Pin=R3-1
+Added Pin To Net: NetName=GND_U13 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetD1_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=GND_U11 Pin=R5-2
+Added Pin To Net: NetName=GND_U12 Pin=R5-2
+Added Pin To Net: NetName=GND_U13 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=CV1_OUT Pin=R6-1
+Added Pin To Net: NetName=NetD1_2 Pin=R6-1
+Added Pin To Net: NetName=GND_U11 Pin=R6-2
+Added Pin To Net: NetName=GND_U12 Pin=R6-2
+Added Pin To Net: NetName=GND_U13 Pin=R6-2
+Added Pin To Net: NetName=NetC2_2 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=GND_U11 Pin=R7-0
+Added Pin To Net: NetName=GND_U12 Pin=R7-0
+Added Pin To Net: NetName=GND_U13 Pin=R7-0
+Added Pin To Net: NetName=NetD1_2 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC1_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetC3_1 Pin=R8-1
+Added Pin To Net: NetName=NetC12_2 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetC1_2 Pin=R8-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_1 Pin=R9-1
+Added Pin To Net: NetName=GND_U11 Pin=R9-2
+Added Pin To Net: NetName=GND_U12 Pin=R9-2
+Added Pin To Net: NetName=GND_U13 Pin=R9-2
+Added Pin To Net: NetName=NetC3_2 Pin=R9-2
+Added Pin To Net: NetName=RST Pin=R9-2
+Added Pin To Net: NetName=NetD1_A Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetC1_2 Pin=R11-1
+Added Pin To Net: NetName=NetD2_2 Pin=R11-1
+Added Pin To Net: NetName=NetJ1_4 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=MIDI_IN Pin=R12-1
+Added Pin To Net: NetName=+5V Pin=R12-2
+Added Pin To Net: NetName=GND_U11 Pin=R12-2
+Added Pin To Net: NetName=GND_U12 Pin=R12-2
+Added Pin To Net: NetName=GND_U13 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR10_2 Pin=R13-1
+Added Pin To Net: NetName=NetR11_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetJ2_4 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetC1_1 Pin=R14-2
+Added Pin To Net: NetName=NetR14_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetJ2_5 Pin=R15-2
+Added Pin To Net: NetName=GND_U11 Pin=R16-1
+Added Pin To Net: NetName=GND_U12 Pin=R16-1
+Added Pin To Net: NetName=GND_U13 Pin=R16-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-1
+Added Pin To Net: NetName=CV_0_CS Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-3
+Added Pin To Net: NetName=SCK Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=+12V_U11 Pin=U1-4
+Added Pin To Net: NetName=+12V_U11 Pin=U1-4
+Added Pin To Net: NetName=+12V_U12 Pin=U1-4
+Added Pin To Net: NetName=+12V_U12 Pin=U1-4
+Added Pin To Net: NetName=+12V_U13 Pin=U1-4
+Added Pin To Net: NetName=+12V_U13 Pin=U1-4
+Added Pin To Net: NetName=MOSI Pin=U1-4
+Added Pin To Net: NetName=NetR8_1 Pin=U1-5
+Added Pin To Net: NetName=NetR11_2 Pin=U1-5
+Added Pin To Net: NetName=NetR5_2 Pin=U1-6
+Added Pin To Net: NetName=NetR5_2 Pin=U1-7
+Added Pin To Net: NetName=NetR10_2 Pin=U1-7
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Pin To Net: NetName=NetR8_2 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetC1_1 Pin=U1-9
+Added Pin To Net: NetName=NetR8_2 Pin=U1-9
+Added Pin To Net: NetName=GND_U11 Pin=U1-10
+Added Pin To Net: NetName=GND_U12 Pin=U1-10
+Added Pin To Net: NetName=GND_U13 Pin=U1-10
+Added Pin To Net: NetName=NetR10_1 Pin=U1-10
+Added Pin To Net: NetName=-12V_U11 Pin=U1-11
+Added Pin To Net: NetName=-12V_U11 Pin=U1-11
+Added Pin To Net: NetName=-12V_U12 Pin=U1-11
+Added Pin To Net: NetName=-12V_U12 Pin=U1-11
+Added Pin To Net: NetName=-12V_U13 Pin=U1-11
+Added Pin To Net: NetName=-12V_U13 Pin=U1-11
+Added Pin To Net: NetName=NetR3_1 Pin=U1-12
+Added Pin To Net: NetName=NetR1_2 Pin=U1-13
+Added Pin To Net: NetName=NetR1_2 Pin=U1-14
+Added Pin To Net: NetName=AUDIO_1_L_BUF_U31 Pin=U?-1
+Added Pin To Net: NetName=AUDIO_1_L_BUF_U32 Pin=U?-1
+Added Pin To Net: NetName=AUDIO_1_L_BUF_U33 Pin=U?-1
+Added Pin To Net: NetName=CV_0_BUF_U31 Pin=U?-1
+Added Pin To Net: NetName=CV_0_BUF_U32 Pin=U?-1
+Added Pin To Net: NetName=CV_0_BUF_U33 Pin=U?-1
+Added Pin To Net: NetName=GPIO_2_BUF_U31 Pin=U?-1
+Added Pin To Net: NetName=GPIO_2_BUF_U32 Pin=U?-1
+Added Pin To Net: NetName=GPIO_2_BUF_U33 Pin=U?-1
+Added Pin To Net: NetName=PWM_0_M0 Pin=U?-1
+Added Pin To Net: NetName=PWM_0_M1 Pin=U?-1
+Added Pin To Net: NetName=PWM_0_M2 Pin=U?-1
+Added Pin To Net: NetName=AUDIO_1_L_BUF_U31 Pin=U?-2
+Added Pin To Net: NetName=AUDIO_1_L_BUF_U32 Pin=U?-2
+Added Pin To Net: NetName=AUDIO_1_L_BUF_U33 Pin=U?-2
+Added Pin To Net: NetName=CV_0_BUF_U31 Pin=U?-2
+Added Pin To Net: NetName=CV_0_BUF_U32 Pin=U?-2
+Added Pin To Net: NetName=CV_0_BUF_U33 Pin=U?-2
+Added Pin To Net: NetName=GPIO_2_BUF_U31 Pin=U?-2
+Added Pin To Net: NetName=GPIO_2_BUF_U32 Pin=U?-2
+Added Pin To Net: NetName=GPIO_2_BUF_U33 Pin=U?-2
+Added Pin To Net: NetName=PWM_0_M0 Pin=U?-2
+Added Pin To Net: NetName=PWM_0_M1 Pin=U?-2
+Added Pin To Net: NetName=PWM_0_M2 Pin=U?-2
+Added Pin To Net: NetName=AUDIO_1_L_U31 Pin=U?-3
+Added Pin To Net: NetName=AUDIO_1_L_U32 Pin=U?-3
+Added Pin To Net: NetName=AUDIO_1_L_U33 Pin=U?-3
+Added Pin To Net: NetName=CV_0_U32 Pin=U?-3
+Added Pin To Net: NetName=CV_0_U33 Pin=U?-3
+Added Pin To Net: NetName=GPIO_2_U31 Pin=U?-3
+Added Pin To Net: NetName=GPIO_2_U32 Pin=U?-3
+Added Pin To Net: NetName=GPIO_2_U33 Pin=U?-3
+Added Pin To Net: NetName=PWM_1_U31 Pin=U?-3
+Added Pin To Net: NetName=PWM_1_U32 Pin=U?-3
+Added Pin To Net: NetName=+12V_M0 Pin=U?-4
+Added Pin To Net: NetName=+12V_M0 Pin=U?-4
+Added Pin To Net: NetName=+12V_M0 Pin=U?-4
+Added Pin To Net: NetName=+12V_M0 Pin=U?-4
+Added Pin To Net: NetName=+12V_M1 Pin=U?-4
+Added Pin To Net: NetName=+12V_M1 Pin=U?-4
+Added Pin To Net: NetName=+12V_M1 Pin=U?-4
+Added Pin To Net: NetName=+12V_M1 Pin=U?-4
+Added Pin To Net: NetName=+12V_M2 Pin=U?-4
+Added Pin To Net: NetName=+12V_M2 Pin=U?-4
+Added Pin To Net: NetName=+12V_M2 Pin=U?-4
+Added Pin To Net: NetName=+12V_M2 Pin=U?-4
+Added Pin To Net: NetName=AUDIO_1_R_U31 Pin=U?-5
+Added Pin To Net: NetName=AUDIO_1_R_U32 Pin=U?-5
+Added Pin To Net: NetName=AUDIO_1_R_U33 Pin=U?-5
+Added Pin To Net: NetName=GATE_1_U31 Pin=U?-5
+Added Pin To Net: NetName=GATE_1_U32 Pin=U?-5
+Added Pin To Net: NetName=GATE_1_U33 Pin=U?-5
+Added Pin To Net: NetName=GPIO_1_U31 Pin=U?-5
+Added Pin To Net: NetName=GPIO_1_U32 Pin=U?-5
+Added Pin To Net: NetName=GPIO_1_U33 Pin=U?-5
+Added Pin To Net: NetName=PWM_0_U31 Pin=U?-5
+Added Pin To Net: NetName=PWM_0_U32 Pin=U?-5
+Added Pin To Net: NetName=AUDIO_1_R_BUF_U31 Pin=U?-6
+Added Pin To Net: NetName=AUDIO_1_R_BUF_U32 Pin=U?-6
+Added Pin To Net: NetName=AUDIO_1_R_BUF_U33 Pin=U?-6
+Added Pin To Net: NetName=GATE_0_M0 Pin=U?-6
+Added Pin To Net: NetName=GATE_0_M1 Pin=U?-6
+Added Pin To Net: NetName=GATE_0_M2 Pin=U?-6
+Added Pin To Net: NetName=GPIO_1_BUF_U31 Pin=U?-6
+Added Pin To Net: NetName=GPIO_1_BUF_U32 Pin=U?-6
+Added Pin To Net: NetName=GPIO_1_BUF_U33 Pin=U?-6
+Added Pin To Net: NetName=PWM_0_BUF_U31 Pin=U?-6
+Added Pin To Net: NetName=PWM_0_BUF_U32 Pin=U?-6
+Added Pin To Net: NetName=AUDIO_1_R_BUF_U31 Pin=U?-7
+Added Pin To Net: NetName=AUDIO_1_R_BUF_U32 Pin=U?-7
+Added Pin To Net: NetName=AUDIO_1_R_BUF_U33 Pin=U?-7
+Added Pin To Net: NetName=GATE_0_M0 Pin=U?-7
+Added Pin To Net: NetName=GATE_0_M1 Pin=U?-7
+Added Pin To Net: NetName=GATE_0_M2 Pin=U?-7
+Added Pin To Net: NetName=GPIO_1_BUF_U31 Pin=U?-7
+Added Pin To Net: NetName=GPIO_1_BUF_U32 Pin=U?-7
+Added Pin To Net: NetName=GPIO_1_BUF_U33 Pin=U?-7
+Added Pin To Net: NetName=PWM_0_BUF_U31 Pin=U?-7
+Added Pin To Net: NetName=PWM_0_BUF_U32 Pin=U?-7
+Added Pin To Net: NetName=AUDIO_2_L_BUF_U31 Pin=U?-8
+Added Pin To Net: NetName=AUDIO_2_L_BUF_U32 Pin=U?-8
+Added Pin To Net: NetName=AUDIO_2_L_BUF_U33 Pin=U?-8
+Added Pin To Net: NetName=GATE_0_BUF_U31 Pin=U?-8
+Added Pin To Net: NetName=GATE_0_BUF_U32 Pin=U?-8
+Added Pin To Net: NetName=GATE_0_BUF_U33 Pin=U?-8
+Added Pin To Net: NetName=GPIO_0_BUF_U31 Pin=U?-8
+Added Pin To Net: NetName=GPIO_0_BUF_U32 Pin=U?-8
+Added Pin To Net: NetName=GPIO_0_BUF_U33 Pin=U?-8
+Added Pin To Net: NetName=MIDI_OUT_BUF_U31 Pin=U?-8
+Added Pin To Net: NetName=MIDI_OUT_BUF_U32 Pin=U?-8
+Added Pin To Net: NetName=MIDI_OUT_BUF_U33 Pin=U?-8
+Added Pin To Net: NetName=AUDIO_2_L_BUF_U31 Pin=U?-9
+Added Pin To Net: NetName=AUDIO_2_L_BUF_U32 Pin=U?-9
+Added Pin To Net: NetName=AUDIO_2_L_BUF_U33 Pin=U?-9
+Added Pin To Net: NetName=GATE_0_BUF_U31 Pin=U?-9
+Added Pin To Net: NetName=GATE_0_BUF_U32 Pin=U?-9
+Added Pin To Net: NetName=GATE_0_BUF_U33 Pin=U?-9
+Added Pin To Net: NetName=GPIO_0_BUF_U31 Pin=U?-9
+Added Pin To Net: NetName=GPIO_0_BUF_U32 Pin=U?-9
+Added Pin To Net: NetName=GPIO_0_BUF_U33 Pin=U?-9
+Added Pin To Net: NetName=MIDI_OUT_BUF_U31 Pin=U?-9
+Added Pin To Net: NetName=MIDI_OUT_BUF_U32 Pin=U?-9
+Added Pin To Net: NetName=MIDI_OUT_BUF_U33 Pin=U?-9
+Added Pin To Net: NetName=AUDIO_2_L_U31 Pin=U?-10
+Added Pin To Net: NetName=AUDIO_2_L_U32 Pin=U?-10
+Added Pin To Net: NetName=AUDIO_2_L_U33 Pin=U?-10
+Added Pin To Net: NetName=GATE_0_U31 Pin=U?-10
+Added Pin To Net: NetName=GATE_0_U32 Pin=U?-10
+Added Pin To Net: NetName=GATE_0_U33 Pin=U?-10
+Added Pin To Net: NetName=GPIO_0_U31 Pin=U?-10
+Added Pin To Net: NetName=GPIO_0_U32 Pin=U?-10
+Added Pin To Net: NetName=MIDI_OUT_U31 Pin=U?-10
+Added Pin To Net: NetName=MIDI_OUT_U32 Pin=U?-10
+Added Pin To Net: NetName=-12V_M0 Pin=U?-11
+Added Pin To Net: NetName=-12V_M1 Pin=U?-11
+Added Pin To Net: NetName=-12V_M2 Pin=U?-11
+Added Pin To Net: NetName=GND_M0 Pin=U?-11
+Added Pin To Net: NetName=GND_M0 Pin=U?-11
+Added Pin To Net: NetName=GND_M0 Pin=U?-11
+Added Pin To Net: NetName=GND_M1 Pin=U?-11
+Added Pin To Net: NetName=GND_M1 Pin=U?-11
+Added Pin To Net: NetName=GND_M1 Pin=U?-11
+Added Pin To Net: NetName=GND_M2 Pin=U?-11
+Added Pin To Net: NetName=GND_M2 Pin=U?-11
+Added Pin To Net: NetName=GND_M2 Pin=U?-11
+Added Pin To Net: NetName=AUDIO_2_R_U31 Pin=U?-12
+Added Pin To Net: NetName=AUDIO_2_R_U32 Pin=U?-12
+Added Pin To Net: NetName=AUDIO_2_R_U33 Pin=U?-12
+Added Pin To Net: NetName=CV_1_U31 Pin=U?-12
+Added Pin To Net: NetName=CV_1_U32 Pin=U?-12
+Added Pin To Net: NetName=GPIO_3_U31 Pin=U?-12
+Added Pin To Net: NetName=GPIO_3_U32 Pin=U?-12
+Added Pin To Net: NetName=GPIO_3_U33 Pin=U?-12
+Added Pin To Net: NetName=MIDI_IN_U31 Pin=U?-12
+Added Pin To Net: NetName=MIDI_IN_U32 Pin=U?-12
+Added Pin To Net: NetName=AUDIO_2_R_BUF_U31 Pin=U?-13
+Added Pin To Net: NetName=AUDIO_2_R_BUF_U32 Pin=U?-13
+Added Pin To Net: NetName=AUDIO_2_R_BUF_U33 Pin=U?-13
+Added Pin To Net: NetName=CV_0_M0 Pin=U?-13
+Added Pin To Net: NetName=CV_0_M1 Pin=U?-13
+Added Pin To Net: NetName=GPIO_3_BUF_U31 Pin=U?-13
+Added Pin To Net: NetName=GPIO_3_BUF_U32 Pin=U?-13
+Added Pin To Net: NetName=GPIO_3_BUF_U33 Pin=U?-13
+Added Pin To Net: NetName=MIDI_IN_BUF_U31 Pin=U?-13
+Added Pin To Net: NetName=MIDI_IN_BUF_U32 Pin=U?-13
+Added Pin To Net: NetName=AUDIO_2_R_BUF_U31 Pin=U?-14
+Added Pin To Net: NetName=AUDIO_2_R_BUF_U32 Pin=U?-14
+Added Pin To Net: NetName=AUDIO_2_R_BUF_U33 Pin=U?-14
+Added Pin To Net: NetName=CV_0_M0 Pin=U?-14
+Added Pin To Net: NetName=CV_0_M1 Pin=U?-14
+Added Pin To Net: NetName=GPIO_3_BUF_U31 Pin=U?-14
+Added Pin To Net: NetName=GPIO_3_BUF_U32 Pin=U?-14
+Added Pin To Net: NetName=GPIO_3_BUF_U33 Pin=U?-14
+Added Pin To Net: NetName=MIDI_IN_BUF_U31 Pin=U?-14
+Added Pin To Net: NetName=MIDI_IN_BUF_U32 Pin=U?-14
+Change Net Name : Old Net Name=MIDI_IN_BUF_U33 New Net Name=CV_0_M2
+Change Net Name : Old Net Name=MIDI_IN_U33 New Net Name=CV_1_U33
+Change Net Name : Old Net Name=MIDI_OUT_U33 New Net Name=GPIO_0_U33
+Change Net Name : Old Net Name=PWM_1_U33 New Net Name=CV_0_U31
+Added Pin To Net: NetName=MIDI_IN_BUF_U33 Pin=U?-13
+Added Pin To Net: NetName=MIDI_IN_BUF_U33 Pin=U?-14
+Added Net: Name=MIDI_IN_BUF_U33
+Added Pin To Net: NetName=MIDI_IN_U33 Pin=U?-12
+Added Net: Name=MIDI_IN_U33
+Added Pin To Net: NetName=MIDI_OUT_U33 Pin=U?-10
+Added Net: Name=MIDI_OUT_U33
+Added Pin To Net: NetName=PWM_1_U33 Pin=U?-3
+Added Net: Name=PWM_1_U33
+Added Member To Class: ClassName=U31 Member=Component C? (C7) Cap
+Added Member To Class: ClassName=U31 Member=Component C? (C8) Cap
+Added Member To Class: ClassName=U31 Member=Component C? (C6) Cap
+Added Member To Class: ClassName=U32 Member=Component C? (C6) Cap
+Added Member To Class: ClassName=U32 Member=Component C? (C8) Cap
+Added Member To Class: ClassName=U32 Member=Component C? (C7) Cap
+Added Member To Class: ClassName=U33 Member=Component C? (C7) Cap
+Added Member To Class: ClassName=U33 Member=Component C? (C8) Cap
+Added Member To Class: ClassName=U33 Member=Component C? (C6) Cap
+Added Member To Class: ClassName=M0 Member=Component J? (J7) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J9) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J4) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J5) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J3) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J6) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J2) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M0 Member=Component J? (J8) MODULE
+Added Member To Class: ClassName=M1 Member=Component J? (J2) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M1 Member=Component J? (J7) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M1 Member=Component J? (J6) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M1 Member=Component J? (J8) MODULE
+Added Member To Class: ClassName=M1 Member=Component J? (J5) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M1 Member=Component J? (J3) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M1 Member=Component J? (J4) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M1 Member=Component J? (J9) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J2) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J8) MODULE
+Added Member To Class: ClassName=M2 Member=Component J? (J9) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J5) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J4) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J6) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J7) CTRL_INPUT_Generic
+Added Member To Class: ClassName=M2 Member=Component J? (J3) CTRL_INPUT_Generic
+Added Member To Class: ClassName=U31 Member=Component U? (U5A) LM148J
+Added Member To Class: ClassName=U31 Member=Component U? (U3A) LM148J
+Added Member To Class: ClassName=U31 Member=Component U? (U4A) LM148J
+Added Member To Class: ClassName=U32 Member=Component U? (U3A) LM148J
+Added Member To Class: ClassName=U32 Member=Component U? (U5A) LM148J
+Added Member To Class: ClassName=U32 Member=Component U? (U4A) LM148J
+Added Member To Class: ClassName=U33 Member=Component U? (U5A) LM148J
+Added Member To Class: ClassName=U33 Member=Component U? (U4A) LM148J
+Added Member To Class: ClassName=U33 Member=Component U? (U3A) LM148J

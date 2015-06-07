@@ -1,0 +1,618 @@
+Added Component: Designator=C6(RAD-0.3)
+Added Component: Designator=C7(RAD-0.3)
+Added Component: Designator=C8(RAD-0.3)
+Added Component: Designator=C9(RAD-0.3)
+Added Component: Designator=C10(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=D3(LED-5MM-GREEN)
+Added Component: Designator=D?(LED-5MM-RED)
+Added Component: Designator=D?(DO-35)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot1(MODULE)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot2(MODULE)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(CTRL_INPUT)
+Added Component: Designator=J?_U_GARY_Backplane_ModuleSlot3(MODULE)
+Added Component: Designator=J?(SDS-50J)
+Added Component: Designator=J?(SDS-50J)
+Added Component: Designator=K1(HEADER-2X3)
+Added Component: Designator=K2(JMPR2)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=R10(AXIAL-0.7)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.7)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=R?(AXIAL-0.3)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=S?(SPST-2)
+Added Component: Designator=U4(28P3)
+Added Component: Designator=U5(PDIP300-P8)
+Added Component: Designator=U6(TI-P8)
+Added Component: Designator=U?(221A-06)
+Added Component: Designator=U?(N014)
+Added Component: Designator=U?(N014)
+Added Component: Designator=U?(DIP8)
+Added Component: Designator=U?(TI-P8)
+Added Component: Designator=U?(PDIP300-P8)
+Added Component: Designator=U?(TI-P8)
+Added Pin To Net: NetName=+3.3V_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-40
+Added Net: Name=+3.3V_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=+3.3V_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-40
+Added Net: Name=+3.3V_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=+3.3V_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-40
+Added Net: Name=+3.3V_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=+5V_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-41
+Added Net: Name=+5V_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=+5V_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-41
+Added Net: Name=+5V_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=+5V_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-41
+Added Net: Name=+5V_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=+5V Pin=C10-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=K1-2
+Added Pin To Net: NetName=+5V Pin=R9-1
+Added Pin To Net: NetName=+5V Pin=U4-7
+Added Pin To Net: NetName=+5V Pin=U4-20
+Added Pin To Net: NetName=+5V Pin=U4-21
+Added Pin To Net: NetName=+5V Pin=U5-1
+Added Pin To Net: NetName=+5V Pin=U5-6
+Added Pin To Net: NetName=+5V Pin=U5-7
+Added Pin To Net: NetName=+5V Pin=U?-1
+Added Pin To Net: NetName=+5V Pin=U?-6
+Added Pin To Net: NetName=+5V Pin=U?-7
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-37
+Added Net: Name=+12V_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=+12V_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-37
+Added Net: Name=+12V_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=+12V_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-37
+Added Net: Name=+12V_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=+12V Pin=C?-2
+Added Pin To Net: NetName=+12V Pin=C?-2
+Added Pin To Net: NetName=+12V Pin=U6-8
+Added Pin To Net: NetName=+12V Pin=U?-8
+Added Pin To Net: NetName=+12V Pin=U?-8
+Added Net: Name=+12V
+Added Pin To Net: NetName=-12V_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-39
+Added Net: Name=-12V_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=-12V_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-39
+Added Net: Name=-12V_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=-12V_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-39
+Added Net: Name=-12V_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=-12V Pin=C?-2
+Added Pin To Net: NetName=-12V Pin=C?-2
+Added Pin To Net: NetName=-12V Pin=U6-4
+Added Pin To Net: NetName=-12V Pin=U?-4
+Added Pin To Net: NetName=-12V Pin=U?-4
+Added Net: Name=-12V
+Added Pin To Net: NetName=AUDIO_1_L_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-42
+Added Net: Name=AUDIO_1_L_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=AUDIO_1_L_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-42
+Added Net: Name=AUDIO_1_L_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=AUDIO_1_L_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-42
+Added Net: Name=AUDIO_1_L_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=AUDIO_1_R_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-43
+Added Net: Name=AUDIO_1_R_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=AUDIO_1_R_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-43
+Added Net: Name=AUDIO_1_R_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=AUDIO_1_R_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-43
+Added Net: Name=AUDIO_1_R_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=AUDIO_2_L_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-44
+Added Net: Name=AUDIO_2_L_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=AUDIO_2_L_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-44
+Added Net: Name=AUDIO_2_L_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=AUDIO_2_L_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-44
+Added Net: Name=AUDIO_2_L_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=AUDIO_2_R_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-45
+Added Net: Name=AUDIO_2_R_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=AUDIO_2_R_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-45
+Added Net: Name=AUDIO_2_R_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=AUDIO_2_R_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-45
+Added Net: Name=AUDIO_2_R_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_1A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_1A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Net: Name=CTRL_1A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_1A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_1A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Net: Name=CTRL_1A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_1A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_1A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Net: Name=CTRL_1A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_1B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_1B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Net: Name=CTRL_1B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_1B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_1B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Net: Name=CTRL_1B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_1B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_1B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Net: Name=CTRL_1B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_1C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_1C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Net: Name=CTRL_1C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_1C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_1C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Net: Name=CTRL_1C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_1C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_1C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Net: Name=CTRL_1C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_2A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_2A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-3
+Added Net: Name=CTRL_2A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_2A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_2A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-3
+Added Net: Name=CTRL_2A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_2A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_2A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-3
+Added Net: Name=CTRL_2A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_2B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_2B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-4
+Added Net: Name=CTRL_2B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_2B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_2B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-4
+Added Net: Name=CTRL_2B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_2B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_2B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-4
+Added Net: Name=CTRL_2B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_2C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_2C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-5
+Added Net: Name=CTRL_2C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_2C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_2C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-5
+Added Net: Name=CTRL_2C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_2C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_2C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-5
+Added Net: Name=CTRL_2C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_3A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_3A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-6
+Added Net: Name=CTRL_3A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_3A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_3A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-6
+Added Net: Name=CTRL_3A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_3A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_3A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-6
+Added Net: Name=CTRL_3A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_3B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_3B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-7
+Added Net: Name=CTRL_3B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_3B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_3B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-7
+Added Net: Name=CTRL_3B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_3B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_3B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-7
+Added Net: Name=CTRL_3B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_3C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_3C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-8
+Added Net: Name=CTRL_3C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_3C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_3C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-8
+Added Net: Name=CTRL_3C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_3C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_3C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-8
+Added Net: Name=CTRL_3C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_4A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_4A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-9
+Added Net: Name=CTRL_4A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_4A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_4A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-9
+Added Net: Name=CTRL_4A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_4A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_4A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-9
+Added Net: Name=CTRL_4A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_4B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_4B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-10
+Added Net: Name=CTRL_4B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_4B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_4B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-10
+Added Net: Name=CTRL_4B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_4B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_4B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-10
+Added Net: Name=CTRL_4B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_4C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_4C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-11
+Added Net: Name=CTRL_4C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_4C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_4C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-11
+Added Net: Name=CTRL_4C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_4C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_4C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-11
+Added Net: Name=CTRL_4C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_5A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_5A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-12
+Added Net: Name=CTRL_5A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_5A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_5A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-12
+Added Net: Name=CTRL_5A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_5A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_5A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-12
+Added Net: Name=CTRL_5A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_5B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_5B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-13
+Added Net: Name=CTRL_5B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_5B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_5B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-13
+Added Net: Name=CTRL_5B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_5B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_5B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-13
+Added Net: Name=CTRL_5B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_5C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_5C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-14
+Added Net: Name=CTRL_5C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_5C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_5C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-14
+Added Net: Name=CTRL_5C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_5C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_5C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-14
+Added Net: Name=CTRL_5C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_6A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_6A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-15
+Added Net: Name=CTRL_6A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_6A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_6A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-15
+Added Net: Name=CTRL_6A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_6A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_6A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-15
+Added Net: Name=CTRL_6A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_6B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_6B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-16
+Added Net: Name=CTRL_6B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_6B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_6B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-16
+Added Net: Name=CTRL_6B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_6B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_6B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-16
+Added Net: Name=CTRL_6B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_6C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_6C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-17
+Added Net: Name=CTRL_6C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_6C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_6C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-17
+Added Net: Name=CTRL_6C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_6C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_6C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-17
+Added Net: Name=CTRL_6C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_7A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_7A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-18
+Added Net: Name=CTRL_7A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_7A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_7A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-18
+Added Net: Name=CTRL_7A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_7A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_7A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-18
+Added Net: Name=CTRL_7A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_7B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_7B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-19
+Added Net: Name=CTRL_7B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_7B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_7B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-19
+Added Net: Name=CTRL_7B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_7B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_7B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-19
+Added Net: Name=CTRL_7B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_7C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_7C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-20
+Added Net: Name=CTRL_7C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_7C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_7C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-20
+Added Net: Name=CTRL_7C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_7C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_7C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-20
+Added Net: Name=CTRL_7C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_8A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-0
+Added Pin To Net: NetName=CTRL_8A_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-21
+Added Net: Name=CTRL_8A_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_8A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-0
+Added Pin To Net: NetName=CTRL_8A_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-21
+Added Net: Name=CTRL_8A_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_8A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-0
+Added Pin To Net: NetName=CTRL_8A_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-21
+Added Net: Name=CTRL_8A_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_8B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-1
+Added Pin To Net: NetName=CTRL_8B_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-22
+Added Net: Name=CTRL_8B_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_8B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-1
+Added Pin To Net: NetName=CTRL_8B_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-22
+Added Net: Name=CTRL_8B_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_8B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-1
+Added Pin To Net: NetName=CTRL_8B_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-22
+Added Net: Name=CTRL_8B_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CTRL_8C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-2
+Added Pin To Net: NetName=CTRL_8C_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-23
+Added Net: Name=CTRL_8C_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CTRL_8C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-2
+Added Pin To Net: NetName=CTRL_8C_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-23
+Added Net: Name=CTRL_8C_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CTRL_8C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-2
+Added Pin To Net: NetName=CTRL_8C_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-23
+Added Net: Name=CTRL_8C_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CV0_OUT Pin=R8-1
+Added Pin To Net: NetName=CV0_OUT Pin=U6-7
+Added Net: Name=CV0_OUT
+Added Pin To Net: NetName=CV1_OUT Pin=R?-1
+Added Pin To Net: NetName=CV1_OUT Pin=U?-7
+Added Net: Name=CV1_OUT
+Added Pin To Net: NetName=CV_0_CS Pin=U4-16
+Added Pin To Net: NetName=CV_0_CS Pin=U5-2
+Added Net: Name=CV_0_CS
+Added Pin To Net: NetName=CV_1_CS Pin=U4-13
+Added Pin To Net: NetName=CV_1_CS Pin=U?-2
+Added Net: Name=CV_1_CS
+Added Pin To Net: NetName=CV_1_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-24
+Added Net: Name=CV_1_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CV_1_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-24
+Added Net: Name=CV_1_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CV_1_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-24
+Added Net: Name=CV_1_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=CV_2_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-26
+Added Net: Name=CV_2_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=CV_2_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-26
+Added Net: Name=CV_2_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=CV_2_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-26
+Added Net: Name=CV_2_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GATE_0 Pin=U4-27
+Added Net: Name=GATE_0
+Added Pin To Net: NetName=GATE_1_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-28
+Added Net: Name=GATE_1_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=GATE_1_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-28
+Added Net: Name=GATE_1_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=GATE_1_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-28
+Added Net: Name=GATE_1_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GATE_1 Pin=U4-28
+Added Net: Name=GATE_1
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-25
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-27
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-29
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-36
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-46
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-47
+Added Net: Name=GND_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-25
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-27
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-29
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-36
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-46
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-47
+Added Net: Name=GND_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-25
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-27
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-29
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-36
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-46
+Added Pin To Net: NetName=GND_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-47
+Added Net: Name=GND_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=GND Pin=K1-6
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-22
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_0_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-30
+Added Net: Name=GPIO_0_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=GPIO_0_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-30
+Added Net: Name=GPIO_0_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=GPIO_0_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-30
+Added Net: Name=GPIO_0_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GPIO_0 Pin=U4-23
+Added Net: Name=GPIO_0
+Added Pin To Net: NetName=GPIO_1_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-31
+Added Net: Name=GPIO_1_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=GPIO_1_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-31
+Added Net: Name=GPIO_1_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=GPIO_1_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-31
+Added Net: Name=GPIO_1_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GPIO_1 Pin=U4-24
+Added Net: Name=GPIO_1
+Added Pin To Net: NetName=GPIO_2_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-32
+Added Net: Name=GPIO_2_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=GPIO_2_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-32
+Added Net: Name=GPIO_2_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=GPIO_2_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-32
+Added Net: Name=GPIO_2_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GPIO_2 Pin=U4-25
+Added Net: Name=GPIO_2
+Added Pin To Net: NetName=GPIO_3_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-33
+Added Net: Name=GPIO_3_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=GPIO_3_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-33
+Added Net: Name=GPIO_3_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=GPIO_3_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-33
+Added Net: Name=GPIO_3_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=GPIO_3 Pin=U4-26
+Added Net: Name=GPIO_3
+Added Pin To Net: NetName=MIDI_IN_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-34
+Added Net: Name=MIDI_IN_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=MIDI_IN_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-34
+Added Net: Name=MIDI_IN_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=MIDI_IN_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-34
+Added Net: Name=MIDI_IN_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=MIDI_IN Pin=R?-1
+Added Pin To Net: NetName=MIDI_IN Pin=U?-6
+Added Net: Name=MIDI_IN
+Added Pin To Net: NetName=MIDI_OUT_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-35
+Added Net: Name=MIDI_OUT_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=MIDI_OUT_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-35
+Added Net: Name=MIDI_OUT_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=MIDI_OUT_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-35
+Added Net: Name=MIDI_OUT_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=MIDI Pin=U?-3
+Added Net: Name=MIDI
+Added Pin To Net: NetName=MISO Pin=K1-1
+Added Pin To Net: NetName=MISO Pin=U4-18
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=K1-4
+Added Pin To Net: NetName=MOSI Pin=U4-17
+Added Pin To Net: NetName=MOSI Pin=U5-4
+Added Pin To Net: NetName=MOSI Pin=U?-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R11-1
+Added Pin To Net: NetName=NetC6_2 Pin=S1-2
+Added Pin To Net: NetName=NetC6_2 Pin=U6-5
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=S?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-5
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R12-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=J?-5
+Added Pin To Net: NetName=NetD?_1 Pin=U?-3
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=U?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_A Pin=R?-1
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=R?-1
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=R?-2
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=U6-6
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=S1-1
+Added Pin To Net: NetName=NetR10_1 Pin=U6-1
+Added Pin To Net: NetName=NetR10_1 Pin=U6-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R11-2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U4-14
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-7
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU5_8 Pin=U5-8
+Added Pin To Net: NetName=NetU5_8 Pin=U6-3
+Added Net: Name=NetU5_8
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-4
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-8
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=PWM_0 Pin=U4-12
+Added Net: Name=PWM_0
+Added Pin To Net: NetName=PWM_1 Pin=U4-11
+Added Net: Name=PWM_1
+Added Pin To Net: NetName=PWR_AUX_U_GARY_Backplane_ModuleSlot1 Pin=J?_U_GARY_Backplane_ModuleSlot1-38
+Added Net: Name=PWR_AUX_U_GARY_Backplane_ModuleSlot1
+Added Pin To Net: NetName=PWR_AUX_U_GARY_Backplane_ModuleSlot2 Pin=J?_U_GARY_Backplane_ModuleSlot2-38
+Added Net: Name=PWR_AUX_U_GARY_Backplane_ModuleSlot2
+Added Pin To Net: NetName=PWR_AUX_U_GARY_Backplane_ModuleSlot3 Pin=J?_U_GARY_Backplane_ModuleSlot3-38
+Added Net: Name=PWR_AUX_U_GARY_Backplane_ModuleSlot3
+Added Pin To Net: NetName=RST Pin=K1-5
+Added Pin To Net: NetName=RST Pin=K2-1
+Added Pin To Net: NetName=RST Pin=R9-2
+Added Pin To Net: NetName=RST Pin=U4-1
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=K1-3
+Added Pin To Net: NetName=SCK Pin=U4-19
+Added Pin To Net: NetName=SCK Pin=U5-3
+Added Pin To Net: NetName=SCK Pin=U?-3
+Added Net: Name=SCK
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=U?-3
+Added Net: Name=VCC
+Added Class: Name=Designator
+Added Class: Name=U_GARY_Backplane_ModuleSlot1
+Added Class: Name=U_GARY_Backplane_ModuleSlot2
+Added Class: Name=U_GARY_Backplane_ModuleSlot3
+Added Class: Name=U_MIDI_CV_Converter
+Added Class: Name=U_MIDI_INPUT
+Added Class: Name=U_MIDI_OUTPUT
+Added Class: Name=GARY_Backplane_ModuleSlot
+Added Class: Name=LFO_3-Wave
+Added Room: Name=Designator
+Added Room: Name=U_GARY_Backplane_ModuleSlot1
+Added Room: Name=U_GARY_Backplane_ModuleSlot2
+Added Room: Name=U_GARY_Backplane_ModuleSlot3
+Added Room: Name=U_MIDI_CV_Converter
+Added Room: Name=U_MIDI_INPUT
+Added Room: Name=U_MIDI_OUTPUT

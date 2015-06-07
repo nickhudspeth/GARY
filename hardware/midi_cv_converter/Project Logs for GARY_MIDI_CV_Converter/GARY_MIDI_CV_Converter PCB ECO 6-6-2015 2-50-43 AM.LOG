@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetR4_0 Pin=R4-0
+Removed Pin From Net: NetName=NetR3_2 Pin=R4-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R4-2
+Removed Pin From Net: NetName=NetR14_0 Pin=R14-0
+Removed Pin From Net: NetName=NetR15_1 Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R15-2
+Removed Pin From Net: NetName=NetR20_0 Pin=R20-0
+Removed Pin From Net: NetName=NetR18_2 Pin=R20-1
+Removed Pin From Net: NetName=NetR18_2 Pin=R20-2
+Removed Pin From Net: NetName=NetR24_0 Pin=R24-0
+Removed Pin From Net: NetName=NetD6_2 Pin=R26-1
+Removed Pin From Net: NetName=NetR25_1 Pin=R26-2
+Removed Pin From Net: NetName=NetR30_0 Pin=R30-0
+Removed Pin From Net: NetName=NetR28_2 Pin=R30-1
+Removed Pin From Net: NetName=NetR28_2 Pin=R30-2
+Removed Pin From Net: NetName=NetR34_0 Pin=R34-0
+Removed Pin From Net: NetName=NetK4_2 Pin=R37-1
+Removed Pin From Net: NetName=+5 Pin=R37-2
+Removed Pin From Net: NetName=NetR40_0 Pin=R40-0
+Removed Pin From Net: NetName=NetR38_2 Pin=R40-1
+Removed Pin From Net: NetName=NetR38_2 Pin=R40-2
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R20
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R30
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=R40
+Change Component DesignItemId : Designator=R14 Old DesignItemId=POT New DesignItemId=Res1
+Change Component DesignItemId : Designator=R24 Old DesignItemId=POT New DesignItemId=Res1
+Change Component DesignItemId : Designator=R34 Old DesignItemId=POT New DesignItemId=Res1
+Change Component Footprint: Designator=R14 Old Footprint=POT New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R24 Old Footprint=POT New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R34 Old Footprint=POT New Footprint=AXIAL-0.3
+Change Component Comment : Designator=R14 Old Comment=GLIDE TIME New Comment=
+Change Component Comment : Designator=R24 Old Comment=GLIDE TIME New Comment=
+Change Component Comment : Designator=R34 Old Comment=GLIDE TIME New Comment=
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R34 NewDesignator=R37
+Added Component: Designator=R4(POT)
+Added Component: Designator=R4(POT)
+Added Component: Designator=R4(POT)
+Added Component: Designator=R?(POT)
+Added Component: Designator=R?(POT)
+Added Component: Designator=R?(POT)
+Added Component: Designator=R?(POT)
+Added Pin To Net: NetName=NetR4_0 Pin=R4-0
+Added Pin To Net: NetName=NetR14_0 Pin=R4-0
+Added Pin To Net: NetName=NetR24_0 Pin=R4-0
+Added Pin To Net: NetName=NetR34_0 Pin=R4-0
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetD6_2 Pin=R26-1
+Added Pin To Net: NetName=NetR25_1 Pin=R26-2
+Added Pin To Net: NetName=NetK4_2 Pin=R37-1
+Added Pin To Net: NetName=+5 Pin=R37-2
+Added Pin To Net: NetName=NetR10_0 Pin=R?-0
+Added Pin To Net: NetName=NetR20_0 Pin=R?-0
+Added Pin To Net: NetName=NetR30_0 Pin=R?-0
+Added Pin To Net: NetName=NetR40_0 Pin=R?-0
+Added Pin To Net: NetName=NetR8_2 Pin=R?-1
+Added Pin To Net: NetName=NetR18_2 Pin=R?-1
+Added Pin To Net: NetName=NetR28_2 Pin=R?-1
+Added Pin To Net: NetName=NetR38_2 Pin=R?-1
+Added Pin To Net: NetName=NetR8_2 Pin=R?-2
+Added Pin To Net: NetName=NetR18_2 Pin=R?-2
+Added Pin To Net: NetName=NetR28_2 Pin=R?-2
+Added Pin To Net: NetName=NetR38_2 Pin=R?-2
+Change Net Name : Old Net Name=NetR10_0 New Net Name=NetR?_0
+Change Net Name : Old Net Name=NetR14_0 New Net Name=NetR4_0
+Change Net Name : Old Net Name=NetR20_0 New Net Name=NetR?_0
+Change Net Name : Old Net Name=NetR24_0 New Net Name=NetR4_0
+Change Net Name : Old Net Name=NetR30_0 New Net Name=NetR?_0
+Change Net Name : Old Net Name=NetR34_0 New Net Name=NetR4_0
+Change Net Name : Old Net Name=NetR40_0 New Net Name=NetR?_0
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-2
+Added Pin To Net: NetName=NetR4_1 Pin=R23-2
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R4 GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R4 GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R4 GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R21 (R1) 
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R32 (R2) 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R? GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R? GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R? GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R? GLIDE TIME

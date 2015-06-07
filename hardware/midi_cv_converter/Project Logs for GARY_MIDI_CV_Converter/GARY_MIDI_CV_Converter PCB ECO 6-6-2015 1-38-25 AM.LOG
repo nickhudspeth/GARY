@@ -1,0 +1,90 @@
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C13
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C14
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C15
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C21
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C22
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C26
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C27
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C28
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C29
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C30
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=C41
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=C42
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=D3
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=D4
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=D9
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=K4
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=K5
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=K6
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R10
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R12
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R13
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R14
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R15
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R16
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R17
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R18
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R37
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R38
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R38
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=S3
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=S4
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=U5
+Removed Member From Class: ClassName=S? Member=U5
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=U6
+Removed Member From Class: ClassName=Current Buffer Member=U8
+Added Component: Designator=U11(28P3)
+Added Pin To Net: NetName=RST Pin=U11-1
+Added Pin To Net: NetName=NetU11_2 Pin=U11-2
+Added Pin To Net: NetName=GATE Pin=U11-4
+Added Pin To Net: NetName=C\S\ Pin=U11-5
+Added Pin To Net: NetName=+5 Pin=U11-7
+Added Pin To Net: NetName=GND Pin=U11-8
+Added Pin To Net: NetName=PWM_0 Pin=U11-11
+Added Pin To Net: NetName=PWM_1 Pin=U11-12
+Added Pin To Net: NetName=NetR38_2 Pin=U11-14
+Added Pin To Net: NetName=MOSI Pin=U11-17
+Added Pin To Net: NetName=MISO Pin=U11-18
+Added Pin To Net: NetName=SCK Pin=U11-19
+Added Pin To Net: NetName=+5 Pin=U11-20
+Added Pin To Net: NetName=+5 Pin=U11-21
+Added Pin To Net: NetName=GND Pin=U11-22
+Added Pin To Net: NetName=GPIO_0 Pin=U11-23
+Added Pin To Net: NetName=GPIO_1 Pin=U11-24
+Added Pin To Net: NetName=GPIO_2 Pin=U11-25
+Added Pin To Net: NetName=GPIO_3 Pin=U11-26
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C1 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C2 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C3 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C4 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C5 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C6 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C7 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C8 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C9 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component C10 Cap
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component C11 (C1) Cap
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component C12 (C2) Cap
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component D1 D Zener
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component D2 D Zener
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component D3 (D1) D Zener
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component K1 MIDI RESET
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component K2 (K1) MIDI RESET
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component K3 (K1) MIDI RESET
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R1 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R2 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R3 (R4) GLIDE_TIME_0
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R4 (R3) 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R5 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R6 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R7 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R8 (R9) GLIDE_TIME_1
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R9 (R8) 
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R10 (R1) 
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R11 (R2) 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component S1 GLIDE_0
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component S2 GLIDE_1
+Added Member To Class: ClassName=Current Buffer Member=Component U2 (U4A) LM148J
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component U3 (U1A) LM148J
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component U4 (U2) MCP4922-E/P
+Added Member To Class: ClassName=S? Member=Component U11 (U5) ATmega328-PU

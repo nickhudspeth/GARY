@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR14_0 Pin=R4-0
+Removed Pin From Net: NetName=NetR14_0 Pin=R9-0
+Removed Pin From Net: NetName=NetR14_0 Pin=R10-0
+Removed Pin From Net: NetName=NetR?4_0 Pin=R?1-0
+Removed Pin From Net: NetName=NetR?4_0 Pin=R?2-0
+Removed Pin From Net: NetName=NetR?4_0 Pin=R?3-0
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R10
+Added Pin To Net: NetName=NetR4_0 Pin=R4-0
+Added Pin To Net: NetName=NetR9_0 Pin=R9-0
+Added Pin To Net: NetName=NetR10_0 Pin=R10-0
+Added Pin To Net: NetName=NetR?1_0 Pin=R?1-0
+Added Pin To Net: NetName=NetR?2_0 Pin=R?2-0
+Added Pin To Net: NetName=NetR?3_0 Pin=R?3-0
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R4 GLIDE TIME

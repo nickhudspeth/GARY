@@ -36,13 +36,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=backplane.SchDoc
+DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Device Sheets\Morrow\Audio\Synthesizer\MIDI_CV_Converter\DAC.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=0
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -52,6 +52,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
+DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Device Sheets\Morrow\Audio\Synthesizer\MIDI_CV_Converter\CV_GATE_Current_Buffer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document3]
+DocumentPath=backplane.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document4]
 DocumentPath=module_slot\module_slot_CON.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -67,7 +99,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document3]
+[Document5]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Microchip\Microchip Mixed Signal.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +115,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document6]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Texas Instruments\TI Amplifiers and Linear Operational Amplifier General Purpose.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +131,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document7]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\vh_altium_library.intLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +147,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document8]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\ON Semiconductor\ON Semi Power Mgt Voltage Regulator\Project Outputs for ON Semi Power Mgt Voltage Regulator\ON Semi Power Mgt Voltage Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +163,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document9]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Atmel\Atmel Microcontroller 8-Bit megaAVR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,7 +179,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document10]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Renesas Technology\Renesas Logic.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -163,7 +195,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document11]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\CUI\SDS-50J.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +211,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document12]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Miscellaneous Devices\Project Outputs for Miscellaneous Devices\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,7 +227,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document13]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Lite-On\Lite-On 6N138 Optocoupler.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -211,7 +243,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document14]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,8 +259,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document15]
 DocumentPath=power_supply\power_supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document16]
+DocumentPath=backplane.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -243,8 +291,72 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
-DocumentPath=power_supply\power_supply.Harness
+[Document17]
+DocumentPath=GARY_backplane.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document18]
+DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Device Sheets\Morrow\Audio\Synthesizer\CV_GATE_Current_Buffer.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document19]
+DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Device Sheets\Morrow\Audio\Synthesizer\MIDI_CV_Converter\DAC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document20]
+DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Device Sheets\Morrow\Audio\Synthesizer\LFO_3-Wave\LFO_3-Wave_Oscillator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document21]
+DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Device Sheets\Morrow\Audio\Synthesizer\LFO_3-Wave\LFO_3-Wave_SummingAmplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetR4_0 Pin=R4-0
+Change Component Designator: OldDesignator=R4 NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R?4
+Added Component: Designator=R4(POT)
+Added Component: Designator=R9(POT)
+Added Component: Designator=R14(POT)
+Added Component: Designator=R?1(POT)
+Added Component: Designator=R?2(POT)
+Added Component: Designator=R?3(POT)
+Added Pin To Net: NetName=NetR4_0 Pin=R4-0
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_0 Pin=R9-0
+Added Pin To Net: NetName=NetR4_0 Pin=R10-0
+Added Pin To Net: NetName=NetR4_0 Pin=R14-0
+Added Pin To Net: NetName=NetR?_0 Pin=R?1-0
+Added Pin To Net: NetName=NetR8_2 Pin=R?1-1
+Added Pin To Net: NetName=NetR8_2 Pin=R?1-2
+Added Pin To Net: NetName=NetR?_0 Pin=R?2-0
+Added Pin To Net: NetName=NetR18_2 Pin=R?2-1
+Added Pin To Net: NetName=NetR18_2 Pin=R?2-2
+Added Pin To Net: NetName=NetR?_0 Pin=R?3-0
+Added Pin To Net: NetName=NetR28_2 Pin=R?3-1
+Added Pin To Net: NetName=NetR28_2 Pin=R?3-2
+Change Net Name : Old Net Name=NetR4_0 New Net Name=NetR9_0
+Change Net Name : Old Net Name=NetR4_0 New Net Name=NetR10_0
+Change Net Name : Old Net Name=NetR4_0 New Net Name=NetR14_0
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR?_0 New Net Name=NetR?1_0
+Change Net Name : Old Net Name=NetR?_0 New Net Name=NetR?2_0
+Change Net Name : Old Net Name=NetR?_0 New Net Name=NetR?3_0
+Change Net Name : Old Net Name=NetR?_0 New Net Name=NetR?4_0
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-2
+Added Pin To Net: NetName=NetR9_1 Pin=R13-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-2
+Added Pin To Net: NetName=NetR14_1 Pin=R33-2
+Added Net: Name=NetR14_1
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R4 GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R9 (R4) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R10 (R4) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R14 (R4) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R15 (R5) 
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R26 (R6) 
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R37 (R7) 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R?1 (R?) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R?2 (R?) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R?3 (R?) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R?4 (R?) GLIDE TIME

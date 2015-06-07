@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetR?1_0 Pin=R?1-0
+Removed Pin From Net: NetName=NetR8_2 Pin=R?1-1
+Removed Pin From Net: NetName=NetR8_2 Pin=R?1-2
+Removed Pin From Net: NetName=NetR?2_0 Pin=R?2-0
+Removed Pin From Net: NetName=NetR18_2 Pin=R?2-1
+Removed Pin From Net: NetName=NetR18_2 Pin=R?2-2
+Removed Pin From Net: NetName=NetR?3_0 Pin=R?3-0
+Removed Pin From Net: NetName=NetR?4_0 Pin=R?4-0
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R?1
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R?2
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R?3
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=R?4
+Added Component: Designator=R19(POT)
+Added Component: Designator=R20(POT)
+Added Component: Designator=R24(POT)
+Added Component: Designator=R29(POT)
+Added Pin To Net: NetName=NetR?1_0 Pin=R19-0
+Added Pin To Net: NetName=NetR8_2 Pin=R19-1
+Added Pin To Net: NetName=NetR8_2 Pin=R19-2
+Added Pin To Net: NetName=NetR?2_0 Pin=R20-0
+Added Pin To Net: NetName=NetR18_2 Pin=R20-1
+Added Pin To Net: NetName=NetR18_2 Pin=R20-2
+Added Pin To Net: NetName=NetR?3_0 Pin=R24-0
+Added Pin To Net: NetName=NetR?4_0 Pin=R29-0
+Change Net Name : Old Net Name=NetR?1_0 New Net Name=NetR19_0
+Change Net Name : Old Net Name=NetR?2_0 New Net Name=NetR20_0
+Change Net Name : Old Net Name=NetR?3_0 New Net Name=NetR24_0
+Change Net Name : Old Net Name=NetR?4_0 New Net Name=NetR29_0
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-2
+Added Pin To Net: NetName=NetR24_1 Pin=R28-2
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-2
+Added Pin To Net: NetName=NetR29_1 Pin=R38-2
+Added Net: Name=NetR29_1
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R19 (R9) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R20 (R9) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R24 (R9) GLIDE TIME
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component R29 (R9) GLIDE TIME
