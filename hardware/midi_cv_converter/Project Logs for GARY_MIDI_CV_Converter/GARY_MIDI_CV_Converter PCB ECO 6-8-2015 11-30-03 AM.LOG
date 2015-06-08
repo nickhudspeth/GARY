@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=K5-1
+Removed Pin From Net: NetName=RST Pin=K5-2
+Removed Pin From Net: NetName=RST Pin=R41-1
+Removed Pin From Net: NetName=+5 Pin=R41-2
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C5
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=C6
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=C15
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=C16
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=C25
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=C26
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=C35
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=C36
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R3
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R4
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R8
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R9
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R10
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R13
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=R14
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R18
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=R19
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=R20
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R23
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R24
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R28
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=R29
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=R33
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=R38
+Removed Member From Class: ClassName=S? Member=R41
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=S1
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=S2
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=S3
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=S4
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=S5
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=S6
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=S7
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=S8
+Change Component DesignItemId : Designator=R4 Old DesignItemId=POT New DesignItemId=Res1
+Change Component Footprint: Designator=R4 Old Footprint=POT New Footprint=AXIAL-0.3
+Change Component Comment : Designator=R4 Old Comment=GLIDE TIME New Comment=
+Added Component: Designator=K7(JMPR2)
+Added Component: Designator=K8(JMPR2)
+Added Pin To Net: NetName=+5 Pin=K5-2
+Added Pin To Net: NetName=+5 Pin=K7-2
+Added Pin To Net: NetName=GND Pin=K8-1
+Added Pin To Net: NetName=RST Pin=K8-2
+Added Pin To Net: NetName=RST Pin=R3-1
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=LIN/EXPO Pin=K5-1
+Added Pin To Net: NetName=LIN/EXPO Pin=R8-2
+Added Pin To Net: NetName=LIN/EXPO Pin=U11-28
+Added Net: Name=LIN/EXPO
+Added Pin To Net: NetName=MONO/POLY Pin=K7-1
+Added Pin To Net: NetName=MONO/POLY Pin=R4-2
+Added Pin To Net: NetName=MONO/POLY Pin=U11-27
+Added Net: Name=MONO/POLY
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Pin To Net: NetName=NetU3_1 Pin=U3-2
+Added Pin To Net: NetName=NetU3_1 Pin=U3-5
+Added Net: Name=NetU3_1
+Added Pin To Net: NetName=NetU3_10 Pin=U3-10
+Added Pin To Net: NetName=NetU3_10 Pin=U3-13
+Added Pin To Net: NetName=NetU3_10 Pin=U3-14
+Added Net: Name=NetU3_10
+Added Pin To Net: NetName=NetU5_1 Pin=U5-1
+Added Pin To Net: NetName=NetU5_1 Pin=U5-2
+Added Pin To Net: NetName=NetU5_1 Pin=U5-5
+Added Net: Name=NetU5_1
+Added Pin To Net: NetName=NetU5_10 Pin=U5-10
+Added Pin To Net: NetName=NetU5_10 Pin=U5-13
+Added Pin To Net: NetName=NetU5_10 Pin=U5-14
+Added Net: Name=NetU5_10
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Pin To Net: NetName=NetU7_1 Pin=U7-2
+Added Pin To Net: NetName=NetU7_1 Pin=U7-5
+Added Net: Name=NetU7_1
+Added Pin To Net: NetName=NetU7_10 Pin=U7-10
+Added Pin To Net: NetName=NetU7_10 Pin=U7-13
+Added Pin To Net: NetName=NetU7_10 Pin=U7-14
+Added Net: Name=NetU7_10
+Added Pin To Net: NetName=NetU9_1 Pin=U9-1
+Added Pin To Net: NetName=NetU9_1 Pin=U9-2
+Added Pin To Net: NetName=NetU9_1 Pin=U9-5
+Added Net: Name=NetU9_1
+Added Pin To Net: NetName=NetU9_10 Pin=U9-10
+Added Pin To Net: NetName=NetU9_10 Pin=U9-13
+Added Pin To Net: NetName=NetU9_10 Pin=U9-14
+Added Net: Name=NetU9_10
+Added Member To Class: ClassName=S? Member=Component K7 (K2) RESET
+Added Member To Class: ClassName=S? Member=Component K8 (K5) RESET
+Added Member To Class: ClassName=S? Member=Component R3 
+Added Member To Class: ClassName=S? Member=Component R4 
+Added Member To Class: ClassName=S? Member=Component R8 

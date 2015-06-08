@@ -1,0 +1,16 @@
+Change Net Name : Old Net Name=CS New Net Name=CHIP_SEL_Digital-Analog Converter_0
+Change Net Name : Old Net Name=GPIO_0 New Net Name=NetU1_6
+Change Net Name : Old Net Name=GPIO_1 New Net Name=NetU1_13
+Change Net Name : Old Net Name=GPIO_2 New Net Name=NetU2_6
+Change Net Name : Old Net Name=GPIO_3 New Net Name=NetU2_13
+Change Net Name : Old Net Name=PWM_0 New Net Name=NetU1_1
+Change Net Name : Old Net Name=PWM_1 New Net Name=NetU1_8
+Added Pin To Net: NetName=CHIP_SEL_Digital-Analog Converter_1 Pin=U6-3
+Added Pin To Net: NetName=CHIP_SEL_Digital-Analog Converter_1 Pin=U11-6
+Added Net: Name=CHIP_SEL_Digital-Analog Converter_1
+Added Pin To Net: NetName=CHIP_SEL_Digital-Analog Converter_2 Pin=U8-3
+Added Pin To Net: NetName=CHIP_SEL_Digital-Analog Converter_2 Pin=U11-9
+Added Net: Name=CHIP_SEL_Digital-Analog Converter_2
+Added Pin To Net: NetName=CHIP_SEL_Digital-Analog Converter_3 Pin=U10-3
+Added Pin To Net: NetName=CHIP_SEL_Digital-Analog Converter_3 Pin=U11-10
+Added Net: Name=CHIP_SEL_Digital-Analog Converter_3

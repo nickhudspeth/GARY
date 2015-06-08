@@ -1,11 +1,11 @@
 [Design]
 Version=1.0
 HierarchyMode=2
-ChannelRoomNamingStyle=0
+ChannelRoomNamingStyle=4
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component
+ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -37,7 +37,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Top Sheet.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -69,7 +69,7 @@ GenerateClassCluster=0
 
 [Document3]
 DocumentPath=CV_GATE_Current_Buffer.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 
 [Document6]
 DocumentPath=MIDI_CV_Converter.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -229,6 +229,22 @@ GenerateClassCluster=0
 
 [Document13]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Library\Atmel\Atmel Microcontroller 8-Bit megaAVR.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document14]
+DocumentPath=CV_GATE_Current_Buffer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -1,0 +1,15 @@
+Change Net Name : Old Net Name=NetD1_2 New Net Name=CV_0_A
+Change Net Name : Old Net Name=NetD2_2 New Net Name=CV_0_B
+Change Net Name : Old Net Name=NetD3_2 New Net Name=CV_1_B
+Change Net Name : Old Net Name=NetD4_2 New Net Name=CV_1_A
+Change Net Name : Old Net Name=NetD5_2 New Net Name=CV_2_A
+Change Net Name : Old Net Name=NetD6_2 New Net Name=CV_2_B
+Change Net Name : Old Net Name=NetD7_2 New Net Name=CV_3_A
+Change Net Name : Old Net Name=NetD8_2 New Net Name=CV_3_B
+Change Net Name : Old Net Name=NetU1_1 New Net Name=PWM_0
+Change Net Name : Old Net Name=NetU1_6 New Net Name=GPIO_0
+Change Net Name : Old Net Name=NetU1_8 New Net Name=PWM_1
+Change Net Name : Old Net Name=NetU1_13 New Net Name=GPIO_1
+Change Net Name : Old Net Name=NetU2_1 New Net Name=GATE
+Change Net Name : Old Net Name=NetU2_6 New Net Name=GPIO_2
+Change Net Name : Old Net Name=NetU2_13 New Net Name=GPIO_3
