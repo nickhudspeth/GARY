@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=LIN/EXPO Pin=K5-1
+Removed Pin From Net: NetName=+5 Pin=K5-2
+Removed Member From Class: ClassName=S? Member=K8
+Change Component Designator: OldDesignator=C1 NewDesignator=C1_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C2 NewDesignator=C2_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C3 NewDesignator=C3_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C4 NewDesignator=C4_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C7 NewDesignator=C7_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C8 NewDesignator=C8_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C9 NewDesignator=C9_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=C11 NewDesignator=C1_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C12 NewDesignator=C2_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C13 NewDesignator=C3_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C14 NewDesignator=C4_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C17 NewDesignator=C7_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C18 NewDesignator=C8_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C19 NewDesignator=C9_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C20 NewDesignator=C10_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=C21 NewDesignator=C1_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C22 NewDesignator=C2_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C23 NewDesignator=C3_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C24 NewDesignator=C4_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C27 NewDesignator=C7_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C28 NewDesignator=C8_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C29 NewDesignator=C9_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C30 NewDesignator=C10_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=C31 NewDesignator=C1_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C32 NewDesignator=C2_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C33 NewDesignator=C3_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C34 NewDesignator=C4_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C37 NewDesignator=C7_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C38 NewDesignator=C8_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C39 NewDesignator=C9_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C40 NewDesignator=C10_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=C41 NewDesignator=C11
+Change Component Designator: OldDesignator=C42 NewDesignator=C12
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=D2 NewDesignator=D2_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=D3 NewDesignator=D1_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=D4 NewDesignator=D2_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=D5 NewDesignator=D1_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=D6 NewDesignator=D2_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=D7 NewDesignator=D1_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=D8 NewDesignator=D2_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=D9 NewDesignator=D3
+Change Component Designator: OldDesignator=K1 NewDesignator=K1_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=K2 NewDesignator=K1_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=K3 NewDesignator=K1_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=K4 NewDesignator=K1_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=K6 NewDesignator=K3
+Change Component Designator: OldDesignator=K7 NewDesignator=K2
+Change Component Designator: OldDesignator=K8 NewDesignator=K5
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=R6 NewDesignator=R6_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=R11 NewDesignator=R1_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=R12 NewDesignator=R2_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=R15 NewDesignator=R5_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=R16 NewDesignator=R6_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=R17 NewDesignator=R7_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=R21 NewDesignator=R1_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=R22 NewDesignator=R2_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=R25 NewDesignator=R5_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=R26 NewDesignator=R6_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=R27 NewDesignator=R7_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=R31 NewDesignator=R1_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=R32 NewDesignator=R2_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=R35 NewDesignator=R5_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=R36 NewDesignator=R6_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=R37 NewDesignator=R7_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=R42 NewDesignator=R11
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U1_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=U4 NewDesignator=U2_Digital-Analog Converter_0
+Change Component Designator: OldDesignator=U5 NewDesignator=U1_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=U6 NewDesignator=U2_Digital-Analog Converter_1
+Change Component Designator: OldDesignator=U7 NewDesignator=U1_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=U8 NewDesignator=U2_Digital-Analog Converter_2
+Change Component Designator: OldDesignator=U9 NewDesignator=U1_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=U10 NewDesignator=U2_Digital-Analog Converter_3
+Change Component Designator: OldDesignator=U11 NewDesignator=U5
+Added Component: Designator=K4(JMPR2)
+Added Pin To Net: NetName=LIN/EXPO Pin=K4-1
+Added Pin To Net: NetName=+5 Pin=K4-2
+Change Net Name : Old Net Name=NetD9_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetK1_2 New Net Name=NetK1_Digital-Analog Converter_0_2
+Change Net Name : Old Net Name=NetK2_2 New Net Name=NetK1_Digital-Analog Converter_1_2
+Change Net Name : Old Net Name=NetK3_2 New Net Name=NetK1_Digital-Analog Converter_2_2
+Change Net Name : Old Net Name=NetK4_2 New Net Name=NetK1_Digital-Analog Converter_3_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR1_Digital-Analog Converter_0_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR5_Digital-Analog Converter_0_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR1_Digital-Analog Converter_1_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR5_Digital-Analog Converter_1_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR1_Digital-Analog Converter_2_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR5_Digital-Analog Converter_2_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR1_Digital-Analog Converter_3_1
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR5_Digital-Analog Converter_3_1
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetU1_1 New Net Name=NetU3_1
+Change Net Name : Old Net Name=NetU1_6 New Net Name=NetU3_6
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetU3_8
+Change Net Name : Old Net Name=NetU1_13 New Net Name=NetU3_13
+Change Net Name : Old Net Name=NetU2_6 New Net Name=NetU4_6
+Change Net Name : Old Net Name=NetU2_13 New Net Name=NetU4_13
+Change Net Name : Old Net Name=NetU3_1 New Net Name=NetU1_Digital-Analog Converter_0_1
+Change Net Name : Old Net Name=NetU3_3 New Net Name=NetU1_Digital-Analog Converter_0_3
+Change Net Name : Old Net Name=NetU3_10 New Net Name=NetU1_Digital-Analog Converter_0_10
+Change Net Name : Old Net Name=NetU3_12 New Net Name=NetU1_Digital-Analog Converter_0_12
+Change Net Name : Old Net Name=NetU5_1 New Net Name=NetU1_Digital-Analog Converter_1_1
+Change Net Name : Old Net Name=NetU5_3 New Net Name=NetU1_Digital-Analog Converter_1_3
+Change Net Name : Old Net Name=NetU5_10 New Net Name=NetU1_Digital-Analog Converter_1_10
+Change Net Name : Old Net Name=NetU5_12 New Net Name=NetU1_Digital-Analog Converter_1_12
+Change Net Name : Old Net Name=NetU7_1 New Net Name=NetU1_Digital-Analog Converter_2_1
+Change Net Name : Old Net Name=NetU7_3 New Net Name=NetU1_Digital-Analog Converter_2_3
+Change Net Name : Old Net Name=NetU7_10 New Net Name=NetU1_Digital-Analog Converter_2_10
+Change Net Name : Old Net Name=NetU7_12 New Net Name=NetU1_Digital-Analog Converter_2_12
+Change Net Name : Old Net Name=NetU9_1 New Net Name=NetU1_Digital-Analog Converter_3_1
+Change Net Name : Old Net Name=NetU9_3 New Net Name=NetU1_Digital-Analog Converter_3_3
+Change Net Name : Old Net Name=NetU9_10 New Net Name=NetU1_Digital-Analog Converter_3_10
+Change Net Name : Old Net Name=NetU9_12 New Net Name=NetU1_Digital-Analog Converter_3_12
+Change Net Name : Old Net Name=NetU11_2 New Net Name=NetU5_2
+Added Member To Class: ClassName=S? Member=Component K4 RESET

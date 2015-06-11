@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GPIO_3 Pin=U2-12
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=C33
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=C34
+Removed Member From Class: ClassName=Digital-Analog Converter_3 Member=K6
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=K7
+Removed Member From Class: ClassName=Digital-Analog Converter_2 Member=R21
+Removed Member From Class: ClassName=Digital-Analog Converter_0 Member=U2
+Removed Member From Class: ClassName=Digital-Analog Converter_1 Member=U11
+Change Component Comment : Designator=K6 Old Comment=RESET New Comment=LIN/EXP
+Change Component Comment : Designator=K7 Old Comment=RESET New Comment=MONO/POLY
+Added Pin To Net: NetName=GPIO_3 Pin=U2-10
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Pin To Net: NetName=NetU2_8 Pin=U2-9
+Added Net: Name=NetU2_8
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component C11 (C3) Cap
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component C12 (C4) Cap
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component K2 (K1) MIDI RESET
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component K3 (K1) MIDI RESET
+Added Member To Class: ClassName=Digital-Analog Converter_3 Member=Component K4 (K1) MIDI RESET
+Added Member To Class: ClassName=S? Member=Component K5 (K3) MCU PROG
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R3 (R5) 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component R4 (R6) 
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component R8 (R5) 
+Added Member To Class: ClassName=Digital-Analog Converter_2 Member=Component R11 (R1) 
+Added Member To Class: ClassName=Digital-Analog Converter_0 Member=Component U4 (U2) MCP4922-E/P
+Added Member To Class: ClassName=Digital-Analog Converter_1 Member=Component U5 (U1A) LM148J
