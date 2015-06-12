@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R7 Old Comment=Trim New Comment=Sine Trim
+Change Component Comment : Designator=R23 Old Comment=Trim New Comment=Sine Trim
+Change Component Comment : Designator=R39 Old Comment=Trim New Comment=Sine Trim
+Change Component Comment : Designator=R55 Old Comment=Trim New Comment=Sine Trim
+Change Component Comment : Designator=R71 Old Comment=Trim New Comment=Sine Trim
+Added Member To Class: ClassName=MIDI_OUT Member=Component U12 (U2A) SN74LS14N

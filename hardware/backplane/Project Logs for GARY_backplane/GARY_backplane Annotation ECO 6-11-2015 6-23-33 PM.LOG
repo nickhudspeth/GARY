@@ -1,0 +1,5 @@
+Change Component Physical Designator: Old Designator=J1 New Designator=J4
+Change Component Physical Designator: Old Designator=R14_MIDI_OUT New Designator=R2_MIDI_OUT
+Change Component Physical Designator: Old Designator=R14_MIDI_THRU New Designator=R2_MIDI_THRU
+Change Component Physical Designator: Old Designator=R15_MIDI_OUT New Designator=R3_MIDI_OUT
+Change Component Physical Designator: Old Designator=R15_MIDI_THRU New Designator=R3_MIDI_THRU

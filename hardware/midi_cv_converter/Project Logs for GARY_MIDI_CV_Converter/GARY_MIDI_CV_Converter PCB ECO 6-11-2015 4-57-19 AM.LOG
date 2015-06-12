@@ -1,0 +1,26 @@
+Added Component: Designator=J1(MIDI-CV CONVERTER MODULE)
+Added Pin To Net: NetName=+5 Pin=J1-0
+Added Pin To Net: NetName=+5 Pin=J1-0
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=-12 Pin=J1-2
+Added Pin To Net: NetName=-12 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetD7_2 Pin=J1-18
+Added Pin To Net: NetName=NetD7_2 Pin=J1-18
+Added Pin To Net: NetName=NetD8_2 Pin=J1-19
+Added Pin To Net: NetName=NetD8_2 Pin=J1-19
+Added Pin To Net: NetName=+12 Pin=J1-20
+Added Pin To Net: NetName=+12 Pin=J1-20
+Added Pin To Net: NetName=-12 Pin=J1-21
+Added Pin To Net: NetName=-12 Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Member To Class: ClassName=Top Sheet Member=Component J1 MIDI_CV_Converter

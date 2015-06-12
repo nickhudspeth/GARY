@@ -1,0 +1,290 @@
+Change Component Physical Designator: Old Designator=C1 New Designator=C21
+Change Component Physical Designator: Old Designator=C2 New Designator=C22
+Change Component Physical Designator: Old Designator=C3 New Designator=C23
+Change Component Physical Designator: Old Designator=C4 New Designator=C24
+Change Component Physical Designator: Old Designator=C5_LFO_01_OSCILLATOR1 New Designator=C1
+Change Component Physical Designator: Old Designator=C5_LFO_12_OSCILLATOR2 New Designator=C2
+Change Component Physical Designator: Old Designator=C5_LFO_23_OSCILLATOR3 New Designator=C3
+Change Component Physical Designator: Old Designator=C5_LFO_34_OSCILLATOR4 New Designator=C4
+Change Component Physical Designator: Old Designator=C5_LFO_OSC5_OSCILLATOR5 New Designator=C5
+Change Component Physical Designator: Old Designator=C6_LFO_01_SUMMING AMPLIFIER1 New Designator=C6
+Change Component Physical Designator: Old Designator=C6_LFO_12_SUMMING AMPLIFIER2 New Designator=C9
+Change Component Physical Designator: Old Designator=C6_LFO_23_SUMMING AMPLIFIER3 New Designator=C12
+Change Component Physical Designator: Old Designator=C6_LFO_34_SUMMING AMPLIFIER4 New Designator=C15
+Change Component Physical Designator: Old Designator=C6_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=C18
+Change Component Physical Designator: Old Designator=C7_LFO_01_SUMMING AMPLIFIER1 New Designator=C7
+Change Component Physical Designator: Old Designator=C7_LFO_12_SUMMING AMPLIFIER2 New Designator=C10
+Change Component Physical Designator: Old Designator=C7_LFO_23_SUMMING AMPLIFIER3 New Designator=C13
+Change Component Physical Designator: Old Designator=C7_LFO_34_SUMMING AMPLIFIER4 New Designator=C16
+Change Component Physical Designator: Old Designator=C7_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=C19
+Change Component Physical Designator: Old Designator=C8_LFO_01_SUMMING AMPLIFIER1 New Designator=C8
+Change Component Physical Designator: Old Designator=C8_LFO_12_SUMMING AMPLIFIER2 New Designator=C11
+Change Component Physical Designator: Old Designator=C8_LFO_23_SUMMING AMPLIFIER3 New Designator=C14
+Change Component Physical Designator: Old Designator=C8_LFO_34_SUMMING AMPLIFIER4 New Designator=C17
+Change Component Physical Designator: Old Designator=C8_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=C20
+Change Component Physical Designator: Old Designator=D1 New Designator=D12
+Change Component Physical Designator: Old Designator=D2 New Designator=D11
+Change Component Physical Designator: Old Designator=D2_LFO_01_OSCILLATOR1 New Designator=D1
+Change Component Physical Designator: Old Designator=D2_LFO_12_OSCILLATOR2 New Designator=D3
+Change Component Physical Designator: Old Designator=D2_LFO_23_OSCILLATOR3 New Designator=D5
+Change Component Physical Designator: Old Designator=D2_LFO_34_OSCILLATOR4 New Designator=D7
+Change Component Physical Designator: Old Designator=D2_LFO_OSC5_OSCILLATOR5 New Designator=D9
+Change Component Physical Designator: Old Designator=D3_LFO_01_OSCILLATOR1 New Designator=D2
+Change Component Physical Designator: Old Designator=D3_LFO_12_OSCILLATOR2 New Designator=D4
+Change Component Physical Designator: Old Designator=D3_LFO_23_OSCILLATOR3 New Designator=D6
+Change Component Physical Designator: Old Designator=D3_LFO_34_OSCILLATOR4 New Designator=D8
+Change Component Physical Designator: Old Designator=D3_LFO_OSC5_OSCILLATOR5 New Designator=D10
+Change Component Physical Designator: Old Designator=J1 New Designator=J10
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_01 New Designator=J1
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_05 New Designator=J13
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_12 New Designator=J22
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_16 New Designator=J31
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_23 New Designator=J40
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_27 New Designator=J49
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_34 New Designator=J58
+Change Component Physical Designator: Old Designator=J1_ModuleSlot_38 New Designator=J67
+Change Component Physical Designator: Old Designator=J2 New Designator=J12
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_01 New Designator=J2
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_05 New Designator=J14
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_12 New Designator=J23
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_16 New Designator=J32
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_23 New Designator=J41
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_27 New Designator=J50
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_34 New Designator=J59
+Change Component Physical Designator: Old Designator=J2_ModuleSlot_38 New Designator=J68
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_01 New Designator=J3
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_05 New Designator=J15
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_12 New Designator=J24
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_16 New Designator=J33
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_23 New Designator=J42
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_27 New Designator=J51
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_34 New Designator=J60
+Change Component Physical Designator: Old Designator=J3_ModuleSlot_38 New Designator=J69
+Change Component Physical Designator: Old Designator=J4 New Designator=J11
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_01 New Designator=J4
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_05 New Designator=J16
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_12 New Designator=J25
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_16 New Designator=J34
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_23 New Designator=J43
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_27 New Designator=J52
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_34 New Designator=J61
+Change Component Physical Designator: Old Designator=J4_ModuleSlot_38 New Designator=J70
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_01 New Designator=J5
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_05 New Designator=J17
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_12 New Designator=J26
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_16 New Designator=J35
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_23 New Designator=J44
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_27 New Designator=J53
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_34 New Designator=J62
+Change Component Physical Designator: Old Designator=J5_ModuleSlot_38 New Designator=J71
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_01 New Designator=J6
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_05 New Designator=J18
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_12 New Designator=J27
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_16 New Designator=J36
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_23 New Designator=J45
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_27 New Designator=J54
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_34 New Designator=J63
+Change Component Physical Designator: Old Designator=J6_ModuleSlot_38 New Designator=J72
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_01 New Designator=J7
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_05 New Designator=J19
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_12 New Designator=J28
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_16 New Designator=J37
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_23 New Designator=J46
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_27 New Designator=J55
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_34 New Designator=J64
+Change Component Physical Designator: Old Designator=J7_ModuleSlot_38 New Designator=J73
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_01 New Designator=J9
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_05 New Designator=J21
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_12 New Designator=J30
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_16 New Designator=J39
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_23 New Designator=J48
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_27 New Designator=J57
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_34 New Designator=J66
+Change Component Physical Designator: Old Designator=J8_ModuleSlot_38 New Designator=J75
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_01 New Designator=J8
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_05 New Designator=J20
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_12 New Designator=J29
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_16 New Designator=J38
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_23 New Designator=J47
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_27 New Designator=J56
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_34 New Designator=J65
+Change Component Physical Designator: Old Designator=J9_ModuleSlot_38 New Designator=J74
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_01 New Designator=P1
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_05 New Designator=P2
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_12 New Designator=P3
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_16 New Designator=P4
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_23 New Designator=P5
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_27 New Designator=P6
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_34 New Designator=P7
+Change Component Physical Designator: Old Designator=P1_ModuleSlot_38 New Designator=P8
+Change Component Physical Designator: Old Designator=R1 New Designator=R131
+Change Component Physical Designator: Old Designator=R2 New Designator=R129
+Change Component Physical Designator: Old Designator=R2_LFO_01_OSCILLATOR1 New Designator=R1
+Change Component Physical Designator: Old Designator=R2_LFO_12_OSCILLATOR2 New Designator=R17
+Change Component Physical Designator: Old Designator=R2_LFO_23_OSCILLATOR3 New Designator=R33
+Change Component Physical Designator: Old Designator=R2_LFO_34_OSCILLATOR4 New Designator=R49
+Change Component Physical Designator: Old Designator=R2_LFO_OSC5_OSCILLATOR5 New Designator=R65
+Change Component Physical Designator: Old Designator=R3 New Designator=R130
+Change Component Physical Designator: Old Designator=R3_LFO_01_OSCILLATOR1 New Designator=R2
+Change Component Physical Designator: Old Designator=R3_LFO_12_OSCILLATOR2 New Designator=R18
+Change Component Physical Designator: Old Designator=R3_LFO_23_OSCILLATOR3 New Designator=R34
+Change Component Physical Designator: Old Designator=R3_LFO_34_OSCILLATOR4 New Designator=R50
+Change Component Physical Designator: Old Designator=R3_LFO_OSC5_OSCILLATOR5 New Designator=R66
+Change Component Physical Designator: Old Designator=R4_LFO_01_OSCILLATOR1 New Designator=R3
+Change Component Physical Designator: Old Designator=R4_LFO_12_OSCILLATOR2 New Designator=R19
+Change Component Physical Designator: Old Designator=R4_LFO_23_OSCILLATOR3 New Designator=R35
+Change Component Physical Designator: Old Designator=R4_LFO_34_OSCILLATOR4 New Designator=R51
+Change Component Physical Designator: Old Designator=R4_LFO_OSC5_OSCILLATOR5 New Designator=R67
+Change Component Physical Designator: Old Designator=R5_LFO_01_OSCILLATOR1 New Designator=R4
+Change Component Physical Designator: Old Designator=R5_LFO_12_OSCILLATOR2 New Designator=R20
+Change Component Physical Designator: Old Designator=R5_LFO_23_OSCILLATOR3 New Designator=R36
+Change Component Physical Designator: Old Designator=R5_LFO_34_OSCILLATOR4 New Designator=R52
+Change Component Physical Designator: Old Designator=R5_LFO_OSC5_OSCILLATOR5 New Designator=R68
+Change Component Physical Designator: Old Designator=R6_LFO_01_OSCILLATOR1 New Designator=R5
+Change Component Physical Designator: Old Designator=R6_LFO_12_OSCILLATOR2 New Designator=R21
+Change Component Physical Designator: Old Designator=R6_LFO_23_OSCILLATOR3 New Designator=R37
+Change Component Physical Designator: Old Designator=R6_LFO_34_OSCILLATOR4 New Designator=R53
+Change Component Physical Designator: Old Designator=R6_LFO_OSC5_OSCILLATOR5 New Designator=R69
+Change Component Physical Designator: Old Designator=R7_LFO_01_OSCILLATOR1 New Designator=R6
+Change Component Physical Designator: Old Designator=R7_LFO_12_OSCILLATOR2 New Designator=R22
+Change Component Physical Designator: Old Designator=R7_LFO_23_OSCILLATOR3 New Designator=R38
+Change Component Physical Designator: Old Designator=R7_LFO_34_OSCILLATOR4 New Designator=R54
+Change Component Physical Designator: Old Designator=R7_LFO_OSC5_OSCILLATOR5 New Designator=R70
+Change Component Physical Designator: Old Designator=R8_LFO_01_OSCILLATOR1 New Designator=R7
+Change Component Physical Designator: Old Designator=R8_LFO_12_OSCILLATOR2 New Designator=R23
+Change Component Physical Designator: Old Designator=R8_LFO_23_OSCILLATOR3 New Designator=R39
+Change Component Physical Designator: Old Designator=R8_LFO_34_OSCILLATOR4 New Designator=R55
+Change Component Physical Designator: Old Designator=R8_LFO_OSC5_OSCILLATOR5 New Designator=R71
+Change Component Physical Designator: Old Designator=R9_LFO_01_OSCILLATOR1 New Designator=R8
+Change Component Physical Designator: Old Designator=R9_LFO_12_OSCILLATOR2 New Designator=R24
+Change Component Physical Designator: Old Designator=R9_LFO_23_OSCILLATOR3 New Designator=R40
+Change Component Physical Designator: Old Designator=R9_LFO_34_OSCILLATOR4 New Designator=R56
+Change Component Physical Designator: Old Designator=R9_LFO_OSC5_OSCILLATOR5 New Designator=R72
+Change Component Physical Designator: Old Designator=R10_LFO_01_OSCILLATOR1 New Designator=R9
+Change Component Physical Designator: Old Designator=R10_LFO_12_OSCILLATOR2 New Designator=R25
+Change Component Physical Designator: Old Designator=R10_LFO_23_OSCILLATOR3 New Designator=R41
+Change Component Physical Designator: Old Designator=R10_LFO_34_OSCILLATOR4 New Designator=R57
+Change Component Physical Designator: Old Designator=R10_LFO_OSC5_OSCILLATOR5 New Designator=R73
+Change Component Physical Designator: Old Designator=R11 New Designator=R126
+Change Component Physical Designator: Old Designator=R11_LFO_01_OSCILLATOR1 New Designator=R10
+Change Component Physical Designator: Old Designator=R11_LFO_12_OSCILLATOR2 New Designator=R26
+Change Component Physical Designator: Old Designator=R11_LFO_23_OSCILLATOR3 New Designator=R42
+Change Component Physical Designator: Old Designator=R11_LFO_34_OSCILLATOR4 New Designator=R58
+Change Component Physical Designator: Old Designator=R11_LFO_OSC5_OSCILLATOR5 New Designator=R74
+Change Component Physical Designator: Old Designator=R12 New Designator=R127
+Change Component Physical Designator: Old Designator=R12_LFO_01_OSCILLATOR1 New Designator=R11
+Change Component Physical Designator: Old Designator=R12_LFO_12_OSCILLATOR2 New Designator=R27
+Change Component Physical Designator: Old Designator=R12_LFO_23_OSCILLATOR3 New Designator=R43
+Change Component Physical Designator: Old Designator=R12_LFO_34_OSCILLATOR4 New Designator=R59
+Change Component Physical Designator: Old Designator=R12_LFO_OSC5_OSCILLATOR5 New Designator=R75
+Change Component Physical Designator: Old Designator=R13 New Designator=R128
+Change Component Physical Designator: Old Designator=R13_LFO_01_OSCILLATOR1 New Designator=R12
+Change Component Physical Designator: Old Designator=R13_LFO_12_OSCILLATOR2 New Designator=R28
+Change Component Physical Designator: Old Designator=R13_LFO_23_OSCILLATOR3 New Designator=R44
+Change Component Physical Designator: Old Designator=R13_LFO_34_OSCILLATOR4 New Designator=R60
+Change Component Physical Designator: Old Designator=R13_LFO_OSC5_OSCILLATOR5 New Designator=R76
+Change Component Physical Designator: Old Designator=R14_LFO_01_OSCILLATOR1 New Designator=R13
+Change Component Physical Designator: Old Designator=R14_LFO_12_OSCILLATOR2 New Designator=R29
+Change Component Physical Designator: Old Designator=R14_LFO_23_OSCILLATOR3 New Designator=R45
+Change Component Physical Designator: Old Designator=R14_LFO_34_OSCILLATOR4 New Designator=R61
+Change Component Physical Designator: Old Designator=R14_LFO_OSC5_OSCILLATOR5 New Designator=R77
+Change Component Physical Designator: Old Designator=R15_LFO_01_OSCILLATOR1 New Designator=R14
+Change Component Physical Designator: Old Designator=R15_LFO_12_OSCILLATOR2 New Designator=R30
+Change Component Physical Designator: Old Designator=R15_LFO_23_OSCILLATOR3 New Designator=R46
+Change Component Physical Designator: Old Designator=R15_LFO_34_OSCILLATOR4 New Designator=R62
+Change Component Physical Designator: Old Designator=R15_LFO_OSC5_OSCILLATOR5 New Designator=R78
+Change Component Physical Designator: Old Designator=R16_LFO_01_OSCILLATOR1 New Designator=R15
+Change Component Physical Designator: Old Designator=R16_LFO_12_OSCILLATOR2 New Designator=R31
+Change Component Physical Designator: Old Designator=R16_LFO_23_OSCILLATOR3 New Designator=R47
+Change Component Physical Designator: Old Designator=R16_LFO_34_OSCILLATOR4 New Designator=R63
+Change Component Physical Designator: Old Designator=R16_LFO_OSC5_OSCILLATOR5 New Designator=R79
+Change Component Physical Designator: Old Designator=R17_LFO_01_OSCILLATOR1 New Designator=R16
+Change Component Physical Designator: Old Designator=R17_LFO_12_OSCILLATOR2 New Designator=R32
+Change Component Physical Designator: Old Designator=R17_LFO_23_OSCILLATOR3 New Designator=R48
+Change Component Physical Designator: Old Designator=R17_LFO_34_OSCILLATOR4 New Designator=R64
+Change Component Physical Designator: Old Designator=R17_LFO_OSC5_OSCILLATOR5 New Designator=R80
+Change Component Physical Designator: Old Designator=R18_LFO_01_SUMMING AMPLIFIER1 New Designator=R81
+Change Component Physical Designator: Old Designator=R18_LFO_12_SUMMING AMPLIFIER2 New Designator=R90
+Change Component Physical Designator: Old Designator=R18_LFO_23_SUMMING AMPLIFIER3 New Designator=R99
+Change Component Physical Designator: Old Designator=R18_LFO_34_SUMMING AMPLIFIER4 New Designator=R108
+Change Component Physical Designator: Old Designator=R18_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R117
+Change Component Physical Designator: Old Designator=R19_LFO_01_SUMMING AMPLIFIER1 New Designator=R82
+Change Component Physical Designator: Old Designator=R19_LFO_12_SUMMING AMPLIFIER2 New Designator=R91
+Change Component Physical Designator: Old Designator=R19_LFO_23_SUMMING AMPLIFIER3 New Designator=R100
+Change Component Physical Designator: Old Designator=R19_LFO_34_SUMMING AMPLIFIER4 New Designator=R109
+Change Component Physical Designator: Old Designator=R19_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R118
+Change Component Physical Designator: Old Designator=R20_LFO_01_SUMMING AMPLIFIER1 New Designator=R83
+Change Component Physical Designator: Old Designator=R20_LFO_12_SUMMING AMPLIFIER2 New Designator=R92
+Change Component Physical Designator: Old Designator=R20_LFO_23_SUMMING AMPLIFIER3 New Designator=R101
+Change Component Physical Designator: Old Designator=R20_LFO_34_SUMMING AMPLIFIER4 New Designator=R110
+Change Component Physical Designator: Old Designator=R20_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R119
+Change Component Physical Designator: Old Designator=R21_LFO_01_SUMMING AMPLIFIER1 New Designator=R84
+Change Component Physical Designator: Old Designator=R21_LFO_12_SUMMING AMPLIFIER2 New Designator=R93
+Change Component Physical Designator: Old Designator=R21_LFO_23_SUMMING AMPLIFIER3 New Designator=R102
+Change Component Physical Designator: Old Designator=R21_LFO_34_SUMMING AMPLIFIER4 New Designator=R111
+Change Component Physical Designator: Old Designator=R21_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R120
+Change Component Physical Designator: Old Designator=R22_LFO_01_SUMMING AMPLIFIER1 New Designator=R85
+Change Component Physical Designator: Old Designator=R22_LFO_12_SUMMING AMPLIFIER2 New Designator=R94
+Change Component Physical Designator: Old Designator=R22_LFO_23_SUMMING AMPLIFIER3 New Designator=R103
+Change Component Physical Designator: Old Designator=R22_LFO_34_SUMMING AMPLIFIER4 New Designator=R112
+Change Component Physical Designator: Old Designator=R22_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R121
+Change Component Physical Designator: Old Designator=R23_LFO_01_SUMMING AMPLIFIER1 New Designator=R86
+Change Component Physical Designator: Old Designator=R23_LFO_12_SUMMING AMPLIFIER2 New Designator=R95
+Change Component Physical Designator: Old Designator=R23_LFO_23_SUMMING AMPLIFIER3 New Designator=R104
+Change Component Physical Designator: Old Designator=R23_LFO_34_SUMMING AMPLIFIER4 New Designator=R113
+Change Component Physical Designator: Old Designator=R23_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R122
+Change Component Physical Designator: Old Designator=R24_LFO_01_SUMMING AMPLIFIER1 New Designator=R87
+Change Component Physical Designator: Old Designator=R24_LFO_12_SUMMING AMPLIFIER2 New Designator=R96
+Change Component Physical Designator: Old Designator=R24_LFO_23_SUMMING AMPLIFIER3 New Designator=R105
+Change Component Physical Designator: Old Designator=R24_LFO_34_SUMMING AMPLIFIER4 New Designator=R114
+Change Component Physical Designator: Old Designator=R24_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R123
+Change Component Physical Designator: Old Designator=R25_LFO_01_SUMMING AMPLIFIER1 New Designator=R88
+Change Component Physical Designator: Old Designator=R25_LFO_12_SUMMING AMPLIFIER2 New Designator=R97
+Change Component Physical Designator: Old Designator=R25_LFO_23_SUMMING AMPLIFIER3 New Designator=R106
+Change Component Physical Designator: Old Designator=R25_LFO_34_SUMMING AMPLIFIER4 New Designator=R115
+Change Component Physical Designator: Old Designator=R25_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R124
+Change Component Physical Designator: Old Designator=R26_LFO_01_SUMMING AMPLIFIER1 New Designator=R89
+Change Component Physical Designator: Old Designator=R26_LFO_12_SUMMING AMPLIFIER2 New Designator=R98
+Change Component Physical Designator: Old Designator=R26_LFO_23_SUMMING AMPLIFIER3 New Designator=R107
+Change Component Physical Designator: Old Designator=R26_LFO_34_SUMMING AMPLIFIER4 New Designator=R116
+Change Component Physical Designator: Old Designator=R26_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=R125
+Change Component Physical Designator: Old Designator=R99 New Designator=R132
+Change Component Physical Designator: Old Designator=U1 New Designator=U13
+Change Component Physical Designator: Old Designator=U2_LFO_01_OSCILLATOR1 New Designator=U1
+Change Component Physical Designator: Old Designator=U2_LFO_01_OSCILLATOR1 New Designator=U1
+Change Component Physical Designator: Old Designator=U2_LFO_01_OSCILLATOR1 New Designator=U1
+Change Component Physical Designator: Old Designator=U2_LFO_01_OSCILLATOR1 New Designator=U1
+Change Component Physical Designator: Old Designator=U2_LFO_12_OSCILLATOR2 New Designator=U2
+Change Component Physical Designator: Old Designator=U2_LFO_12_OSCILLATOR2 New Designator=U2
+Change Component Physical Designator: Old Designator=U2_LFO_12_OSCILLATOR2 New Designator=U2
+Change Component Physical Designator: Old Designator=U2_LFO_12_OSCILLATOR2 New Designator=U2
+Change Component Physical Designator: Old Designator=U2_LFO_23_OSCILLATOR3 New Designator=U3
+Change Component Physical Designator: Old Designator=U2_LFO_23_OSCILLATOR3 New Designator=U3
+Change Component Physical Designator: Old Designator=U2_LFO_23_OSCILLATOR3 New Designator=U3
+Change Component Physical Designator: Old Designator=U2_LFO_23_OSCILLATOR3 New Designator=U3
+Change Component Physical Designator: Old Designator=U2_LFO_34_OSCILLATOR4 New Designator=U4
+Change Component Physical Designator: Old Designator=U2_LFO_34_OSCILLATOR4 New Designator=U4
+Change Component Physical Designator: Old Designator=U2_LFO_34_OSCILLATOR4 New Designator=U4
+Change Component Physical Designator: Old Designator=U2_LFO_34_OSCILLATOR4 New Designator=U4
+Change Component Physical Designator: Old Designator=U2_LFO_OSC5_OSCILLATOR5 New Designator=U5
+Change Component Physical Designator: Old Designator=U2_LFO_OSC5_OSCILLATOR5 New Designator=U5
+Change Component Physical Designator: Old Designator=U2_LFO_OSC5_OSCILLATOR5 New Designator=U5
+Change Component Physical Designator: Old Designator=U2_LFO_OSC5_OSCILLATOR5 New Designator=U5
+Change Component Physical Designator: Old Designator=U3_LFO_01_SUMMING AMPLIFIER1 New Designator=U6
+Change Component Physical Designator: Old Designator=U3_LFO_01_SUMMING AMPLIFIER1 New Designator=U6
+Change Component Physical Designator: Old Designator=U3_LFO_01_SUMMING AMPLIFIER1 New Designator=U6
+Change Component Physical Designator: Old Designator=U3_LFO_12_SUMMING AMPLIFIER2 New Designator=U7
+Change Component Physical Designator: Old Designator=U3_LFO_12_SUMMING AMPLIFIER2 New Designator=U7
+Change Component Physical Designator: Old Designator=U3_LFO_12_SUMMING AMPLIFIER2 New Designator=U7
+Change Component Physical Designator: Old Designator=U3_LFO_23_SUMMING AMPLIFIER3 New Designator=U8
+Change Component Physical Designator: Old Designator=U3_LFO_23_SUMMING AMPLIFIER3 New Designator=U8
+Change Component Physical Designator: Old Designator=U3_LFO_23_SUMMING AMPLIFIER3 New Designator=U8
+Change Component Physical Designator: Old Designator=U3_LFO_34_SUMMING AMPLIFIER4 New Designator=U9
+Change Component Physical Designator: Old Designator=U3_LFO_34_SUMMING AMPLIFIER4 New Designator=U9
+Change Component Physical Designator: Old Designator=U3_LFO_34_SUMMING AMPLIFIER4 New Designator=U9
+Change Component Physical Designator: Old Designator=U3_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=U10
+Change Component Physical Designator: Old Designator=U3_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=U10
+Change Component Physical Designator: Old Designator=U3_LFO_OSC5_SUMMING AMPLIFIER5 New Designator=U10
+Change Component Physical Designator: Old Designator=U6 New Designator=U11
+Change Component Physical Designator: Old Designator=U7 New Designator=U12
+Change Component Physical Designator: Old Designator=U7 New Designator=U12

@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=S? New Net Name=S1
+Change Room Name: Old Name=S? New Name=S1
+Change Room Scope: Old Scope=InComponentClass('S?') New Scope=InComponentClass('S1')

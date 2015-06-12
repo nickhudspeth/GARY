@@ -1,0 +1,35 @@
+Added Pin To Net: NetName=NetD1_2 Pin=J1-12
+Added Pin To Net: NetName=NetD1_2 Pin=J1-12
+Added Pin To Net: NetName=NetD2_2 Pin=J1-13
+Added Pin To Net: NetName=NetD2_2 Pin=J1-13
+Added Pin To Net: NetName=NetD3_2 Pin=J1-14
+Added Pin To Net: NetName=NetD3_2 Pin=J1-14
+Added Pin To Net: NetName=NetD4_2 Pin=J1-15
+Added Pin To Net: NetName=NetD4_2 Pin=J1-15
+Added Pin To Net: NetName=NetD5_2 Pin=J1-16
+Added Pin To Net: NetName=NetD5_2 Pin=J1-16
+Added Pin To Net: NetName=NetD6_2 Pin=J1-17
+Added Pin To Net: NetName=NetD6_2 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=U1-1
+Added Pin To Net: NetName=NetJ1_6 Pin=U1-2
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=U1-8
+Added Pin To Net: NetName=NetJ1_7 Pin=U1-9
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Net: Name=NetJ1_9
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Net: Name=NetJ1_11
+Added Member To Class: ClassName=Top Sheet Member=Component J1 MIDI_CV_Converter

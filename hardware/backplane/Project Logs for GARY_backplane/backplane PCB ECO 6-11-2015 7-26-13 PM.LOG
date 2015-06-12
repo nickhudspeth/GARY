@@ -1,0 +1,1898 @@
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=C5_LFO_01_OSCILLATOR1(CAPR5-4X5)
+Added Component: Designator=C5_LFO_12_OSCILLATOR2(CAPR5-4X5)
+Added Component: Designator=C5_LFO_23_OSCILLATOR3(CAPR5-4X5)
+Added Component: Designator=C5_LFO_34_OSCILLATOR4(CAPR5-4X5)
+Added Component: Designator=C5_LFO_OSC5_OSCILLATOR5(CAPR5-4X5)
+Added Component: Designator=C6_LFO_01_SUMMING AMPLIFIER1(CAPR5-4X5)
+Added Component: Designator=C6_LFO_12_SUMMING AMPLIFIER2(CAPR5-4X5)
+Added Component: Designator=C6_LFO_23_SUMMING AMPLIFIER3(CAPR5-4X5)
+Added Component: Designator=C6_LFO_34_SUMMING AMPLIFIER4(CAPR5-4X5)
+Added Component: Designator=C6_LFO_OSC5_SUMMING AMPLIFIER5(CAPR5-4X5)
+Added Component: Designator=C7_LFO_01_SUMMING AMPLIFIER1(CAPR5-4X5)
+Added Component: Designator=C7_LFO_12_SUMMING AMPLIFIER2(CAPR5-4X5)
+Added Component: Designator=C7_LFO_23_SUMMING AMPLIFIER3(CAPR5-4X5)
+Added Component: Designator=C7_LFO_34_SUMMING AMPLIFIER4(CAPR5-4X5)
+Added Component: Designator=C7_LFO_OSC5_SUMMING AMPLIFIER5(CAPR5-4X5)
+Added Component: Designator=C8_LFO_01_SUMMING AMPLIFIER1(CAPR5-4X5)
+Added Component: Designator=C8_LFO_12_SUMMING AMPLIFIER2(CAPR5-4X5)
+Added Component: Designator=C8_LFO_23_SUMMING AMPLIFIER3(CAPR5-4X5)
+Added Component: Designator=C8_LFO_34_SUMMING AMPLIFIER4(CAPR5-4X5)
+Added Component: Designator=C8_LFO_OSC5_SUMMING AMPLIFIER5(CAPR5-4X5)
+Added Component: Designator=D1(LED-5MM-RED)
+Added Component: Designator=D2_LFO_01_OSCILLATOR1(DO-35)
+Added Component: Designator=D2_LFO_12_OSCILLATOR2(DO-35)
+Added Component: Designator=D2_LFO_23_OSCILLATOR3(DO-35)
+Added Component: Designator=D2_LFO_34_OSCILLATOR4(DO-35)
+Added Component: Designator=D2_LFO_OSC5_OSCILLATOR5(DO-35)
+Added Component: Designator=D2(DO-35)
+Added Component: Designator=D3_LFO_01_OSCILLATOR1(DO-35)
+Added Component: Designator=D3_LFO_12_OSCILLATOR2(DO-35)
+Added Component: Designator=D3_LFO_23_OSCILLATOR3(DO-35)
+Added Component: Designator=D3_LFO_34_OSCILLATOR4(DO-35)
+Added Component: Designator=D3_LFO_OSC5_OSCILLATOR5(DO-35)
+Added Component: Designator=J1_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J1_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J1(MIDI-CV CONVERTER SOCKET)
+Added Component: Designator=J2_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J2_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J2(SDS-50J)
+Added Component: Designator=J3_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J3_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J4_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J4(SDS-50J)
+Added Component: Designator=J5_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J5_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J6_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J7_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=J8_ModuleSlot_01(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_05(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_12(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_16(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_23(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_27(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_34(MODULE_MODULE_V0)
+Added Component: Designator=J8_ModuleSlot_38(MODULE_MODULE_V0)
+Added Component: Designator=J9_ModuleSlot_01(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_05(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_12(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_16(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_23(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_27(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_34(CTRL_INPUT)
+Added Component: Designator=J9_ModuleSlot_38(CTRL_INPUT)
+Added Component: Designator=P1_ModuleSlot_01(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_05(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_12(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_16(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_23(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_27(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_34(HDR1X2)
+Added Component: Designator=P1_ModuleSlot_38(HDR1X2)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R2_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R2_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R2_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R2_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R3_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R3_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R3_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R3_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R4_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R4_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R4_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R4_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R5_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R5_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R5_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R5_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R5_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R6_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R6_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R6_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R6_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R6_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R7_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R7_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R7_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R7_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R7_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R8_LFO_01_OSCILLATOR1(3362 TrimPot)
+Added Component: Designator=R8_LFO_12_OSCILLATOR2(3362 TrimPot)
+Added Component: Designator=R8_LFO_23_OSCILLATOR3(3362 TrimPot)
+Added Component: Designator=R8_LFO_34_OSCILLATOR4(3362 TrimPot)
+Added Component: Designator=R8_LFO_OSC5_OSCILLATOR5(3362 TrimPot)
+Added Component: Designator=R9_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R9_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R9_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R9_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R9_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R10_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R10_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R10_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R10_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R10_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R11_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R11_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R11_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R11_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R11_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R12_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R12_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R12_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R12_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Component: Designator=R13_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R13_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R13_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R13_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R13_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R13(AXIAL-0.3)
+Added Component: Designator=R14_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R14_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R14_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R14_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R14_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R15_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R15_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R15_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R15_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R15_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R16_LFO_01_OSCILLATOR1(POT)
+Added Component: Designator=R16_LFO_12_OSCILLATOR2(POT)
+Added Component: Designator=R16_LFO_23_OSCILLATOR3(POT)
+Added Component: Designator=R16_LFO_34_OSCILLATOR4(POT)
+Added Component: Designator=R16_LFO_OSC5_OSCILLATOR5(POT)
+Added Component: Designator=R17_LFO_01_OSCILLATOR1(AXIAL-0.3)
+Added Component: Designator=R17_LFO_12_OSCILLATOR2(AXIAL-0.3)
+Added Component: Designator=R17_LFO_23_OSCILLATOR3(AXIAL-0.3)
+Added Component: Designator=R17_LFO_34_OSCILLATOR4(AXIAL-0.3)
+Added Component: Designator=R17_LFO_OSC5_OSCILLATOR5(AXIAL-0.3)
+Added Component: Designator=R18_LFO_01_SUMMING AMPLIFIER1(POT)
+Added Component: Designator=R18_LFO_12_SUMMING AMPLIFIER2(POT)
+Added Component: Designator=R18_LFO_23_SUMMING AMPLIFIER3(POT)
+Added Component: Designator=R18_LFO_34_SUMMING AMPLIFIER4(POT)
+Added Component: Designator=R18_LFO_OSC5_SUMMING AMPLIFIER5(POT)
+Added Component: Designator=R19_LFO_01_SUMMING AMPLIFIER1(AXIAL-0.3)
+Added Component: Designator=R19_LFO_12_SUMMING AMPLIFIER2(AXIAL-0.3)
+Added Component: Designator=R19_LFO_23_SUMMING AMPLIFIER3(AXIAL-0.3)
+Added Component: Designator=R19_LFO_34_SUMMING AMPLIFIER4(AXIAL-0.3)
+Added Component: Designator=R19_LFO_OSC5_SUMMING AMPLIFIER5(AXIAL-0.3)
+Added Component: Designator=R20_LFO_01_SUMMING AMPLIFIER1(AXIAL-0.3)
+Added Component: Designator=R20_LFO_12_SUMMING AMPLIFIER2(AXIAL-0.3)
+Added Component: Designator=R20_LFO_23_SUMMING AMPLIFIER3(AXIAL-0.3)
+Added Component: Designator=R20_LFO_34_SUMMING AMPLIFIER4(AXIAL-0.3)
+Added Component: Designator=R20_LFO_OSC5_SUMMING AMPLIFIER5(AXIAL-0.3)
+Added Component: Designator=R21_LFO_01_SUMMING AMPLIFIER1(AXIAL-0.3)
+Added Component: Designator=R21_LFO_12_SUMMING AMPLIFIER2(AXIAL-0.3)
+Added Component: Designator=R21_LFO_23_SUMMING AMPLIFIER3(AXIAL-0.3)
+Added Component: Designator=R21_LFO_34_SUMMING AMPLIFIER4(AXIAL-0.3)
+Added Component: Designator=R21_LFO_OSC5_SUMMING AMPLIFIER5(AXIAL-0.3)
+Added Component: Designator=R22_LFO_01_SUMMING AMPLIFIER1(POT)
+Added Component: Designator=R22_LFO_12_SUMMING AMPLIFIER2(POT)
+Added Component: Designator=R22_LFO_23_SUMMING AMPLIFIER3(POT)
+Added Component: Designator=R22_LFO_34_SUMMING AMPLIFIER4(POT)
+Added Component: Designator=R22_LFO_OSC5_SUMMING AMPLIFIER5(POT)
+Added Component: Designator=R23_LFO_01_SUMMING AMPLIFIER1(AXIAL-0.3)
+Added Component: Designator=R23_LFO_12_SUMMING AMPLIFIER2(AXIAL-0.3)
+Added Component: Designator=R23_LFO_23_SUMMING AMPLIFIER3(AXIAL-0.3)
+Added Component: Designator=R23_LFO_34_SUMMING AMPLIFIER4(AXIAL-0.3)
+Added Component: Designator=R23_LFO_OSC5_SUMMING AMPLIFIER5(AXIAL-0.3)
+Added Component: Designator=R24_LFO_01_SUMMING AMPLIFIER1(POT)
+Added Component: Designator=R24_LFO_12_SUMMING AMPLIFIER2(POT)
+Added Component: Designator=R24_LFO_23_SUMMING AMPLIFIER3(POT)
+Added Component: Designator=R24_LFO_34_SUMMING AMPLIFIER4(POT)
+Added Component: Designator=R24_LFO_OSC5_SUMMING AMPLIFIER5(POT)
+Added Component: Designator=R25_LFO_01_SUMMING AMPLIFIER1(POT)
+Added Component: Designator=R25_LFO_12_SUMMING AMPLIFIER2(POT)
+Added Component: Designator=R25_LFO_23_SUMMING AMPLIFIER3(POT)
+Added Component: Designator=R25_LFO_34_SUMMING AMPLIFIER4(POT)
+Added Component: Designator=R25_LFO_OSC5_SUMMING AMPLIFIER5(POT)
+Added Component: Designator=R26_LFO_01_SUMMING AMPLIFIER1(AXIAL-0.3)
+Added Component: Designator=R26_LFO_12_SUMMING AMPLIFIER2(AXIAL-0.3)
+Added Component: Designator=R26_LFO_23_SUMMING AMPLIFIER3(AXIAL-0.3)
+Added Component: Designator=R26_LFO_34_SUMMING AMPLIFIER4(AXIAL-0.3)
+Added Component: Designator=R26_LFO_OSC5_SUMMING AMPLIFIER5(AXIAL-0.3)
+Added Component: Designator=R99(AXIAL-0.3)
+Added Component: Designator=U1(221A-06)
+Added Component: Designator=U2_LFO_01_OSCILLATOR1(J14A)
+Added Component: Designator=U2_LFO_12_OSCILLATOR2(J14A)
+Added Component: Designator=U2_LFO_23_OSCILLATOR3(J14A)
+Added Component: Designator=U2_LFO_34_OSCILLATOR4(J14A)
+Added Component: Designator=U2_LFO_OSC5_OSCILLATOR5(J14A)
+Added Component: Designator=U3_LFO_01_SUMMING AMPLIFIER1(J14A)
+Added Component: Designator=U3_LFO_12_SUMMING AMPLIFIER2(J14A)
+Added Component: Designator=U3_LFO_23_SUMMING AMPLIFIER3(J14A)
+Added Component: Designator=U3_LFO_34_SUMMING AMPLIFIER4(J14A)
+Added Component: Designator=U3_LFO_OSC5_SUMMING AMPLIFIER5(J14A)
+Added Component: Designator=U6(DIP8)
+Added Component: Designator=U7(N014)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D2_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=GND Pin=D2_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=GND Pin=D2_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=GND Pin=D2_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=GND Pin=D2_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=GND Pin=D3_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=GND Pin=D3_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=GND Pin=D3_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=GND Pin=D3_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=GND Pin=D3_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=+5V Pin=J1-0
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=-12V Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=+12V Pin=J1-20
+Added Pin To Net: NetName=-12V Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetD2_1 Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_01-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_01-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_01-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_01-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_01-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_01-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_01-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_01-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_01-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_05-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_05-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_05-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_05-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_05-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_05-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_05-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_05-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_05-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_12-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_12-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_12-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_12-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_12-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_12-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_12-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_12-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_12-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_16-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_16-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_16-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_16-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_16-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_16-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_16-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_16-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_16-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_23-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_23-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_23-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_23-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_23-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_23-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_23-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_23-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_23-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_27-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_27-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_27-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_27-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_27-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_27-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_27-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_27-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_27-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_34-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_34-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_34-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_34-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_34-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_34-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_34-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_34-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_34-47
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_38-24
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_38-25
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_38-26
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_38-36
+Added Pin To Net: NetName=+12V Pin=J8_ModuleSlot_38-37
+Added Pin To Net: NetName=-12V Pin=J8_ModuleSlot_38-39
+Added Pin To Net: NetName=+5V Pin=J8_ModuleSlot_38-41
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_38-46
+Added Pin To Net: NetName=GND Pin=J8_ModuleSlot_38-47
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetJ2_4 Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=GND Pin=R2_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=GND Pin=R2_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=GND Pin=R2_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=GND Pin=R2_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetJ2_5 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R6_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=GND Pin=R6_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=GND Pin=R6_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=GND Pin=R6_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=GND Pin=R6_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=GND Pin=R7_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=GND Pin=R7_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=GND Pin=R7_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=GND Pin=R7_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=GND Pin=R7_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=GND Pin=R10_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=GND Pin=R10_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=GND Pin=R10_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=GND Pin=R10_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=GND Pin=R10_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetD2_2 Pin=R11-1
+Added Pin To Net: NetName=+5V Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R13_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=GND Pin=R13_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=GND Pin=R13_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=GND Pin=R13_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=GND Pin=R13_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=GND Pin=R17_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=GND Pin=R17_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=GND Pin=R17_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=GND Pin=R17_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=GND Pin=R17_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=GND Pin=R18_LFO_01_SUMMING AMPLIFIER1-0
+Added Pin To Net: NetName=GND Pin=R18_LFO_12_SUMMING AMPLIFIER2-0
+Added Pin To Net: NetName=GND Pin=R18_LFO_23_SUMMING AMPLIFIER3-0
+Added Pin To Net: NetName=GND Pin=R18_LFO_34_SUMMING AMPLIFIER4-0
+Added Pin To Net: NetName=GND Pin=R18_LFO_OSC5_SUMMING AMPLIFIER5-0
+Added Pin To Net: NetName=GND Pin=R20_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=GND Pin=R20_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=GND Pin=R20_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=GND Pin=R20_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=GND Pin=R20_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=GND Pin=R22_LFO_01_SUMMING AMPLIFIER1-0
+Added Pin To Net: NetName=GND Pin=R22_LFO_12_SUMMING AMPLIFIER2-0
+Added Pin To Net: NetName=GND Pin=R22_LFO_23_SUMMING AMPLIFIER3-0
+Added Pin To Net: NetName=GND Pin=R22_LFO_34_SUMMING AMPLIFIER4-0
+Added Pin To Net: NetName=GND Pin=R22_LFO_OSC5_SUMMING AMPLIFIER5-0
+Added Pin To Net: NetName=GND Pin=R24_LFO_01_SUMMING AMPLIFIER1-0
+Added Pin To Net: NetName=GND Pin=R24_LFO_12_SUMMING AMPLIFIER2-0
+Added Pin To Net: NetName=GND Pin=R24_LFO_23_SUMMING AMPLIFIER3-0
+Added Pin To Net: NetName=GND Pin=R24_LFO_34_SUMMING AMPLIFIER4-0
+Added Pin To Net: NetName=GND Pin=R24_LFO_OSC5_SUMMING AMPLIFIER5-0
+Added Pin To Net: NetName=GND Pin=R25_LFO_01_SUMMING AMPLIFIER1-0
+Added Pin To Net: NetName=GND Pin=R25_LFO_12_SUMMING AMPLIFIER2-0
+Added Pin To Net: NetName=GND Pin=R25_LFO_23_SUMMING AMPLIFIER3-0
+Added Pin To Net: NetName=GND Pin=R25_LFO_34_SUMMING AMPLIFIER4-0
+Added Pin To Net: NetName=GND Pin=R25_LFO_OSC5_SUMMING AMPLIFIER5-0
+Added Pin To Net: NetName=NetD1_A Pin=R99-1
+Added Pin To Net: NetName=VCC Pin=R99-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=+12V Pin=U2_LFO_01_OSCILLATOR1-4
+Added Pin To Net: NetName=GND Pin=U2_LFO_01_OSCILLATOR1-5
+Added Pin To Net: NetName=GND Pin=U2_LFO_01_OSCILLATOR1-9
+Added Pin To Net: NetName=-12V Pin=U2_LFO_01_OSCILLATOR1-11
+Added Pin To Net: NetName=+12V Pin=U2_LFO_12_OSCILLATOR2-4
+Added Pin To Net: NetName=GND Pin=U2_LFO_12_OSCILLATOR2-5
+Added Pin To Net: NetName=GND Pin=U2_LFO_12_OSCILLATOR2-9
+Added Pin To Net: NetName=-12V Pin=U2_LFO_12_OSCILLATOR2-11
+Added Pin To Net: NetName=+12V Pin=U2_LFO_23_OSCILLATOR3-4
+Added Pin To Net: NetName=GND Pin=U2_LFO_23_OSCILLATOR3-5
+Added Pin To Net: NetName=GND Pin=U2_LFO_23_OSCILLATOR3-9
+Added Pin To Net: NetName=-12V Pin=U2_LFO_23_OSCILLATOR3-11
+Added Pin To Net: NetName=+12V Pin=U2_LFO_34_OSCILLATOR4-4
+Added Pin To Net: NetName=GND Pin=U2_LFO_34_OSCILLATOR4-5
+Added Pin To Net: NetName=GND Pin=U2_LFO_34_OSCILLATOR4-9
+Added Pin To Net: NetName=-12V Pin=U2_LFO_34_OSCILLATOR4-11
+Added Pin To Net: NetName=+12V Pin=U2_LFO_OSC5_OSCILLATOR5-4
+Added Pin To Net: NetName=GND Pin=U2_LFO_OSC5_OSCILLATOR5-5
+Added Pin To Net: NetName=GND Pin=U2_LFO_OSC5_OSCILLATOR5-9
+Added Pin To Net: NetName=-12V Pin=U2_LFO_OSC5_OSCILLATOR5-11
+Added Pin To Net: NetName=+12V Pin=U3_LFO_01_SUMMING AMPLIFIER1-4
+Added Pin To Net: NetName=-12V Pin=U3_LFO_01_SUMMING AMPLIFIER1-11
+Added Pin To Net: NetName=+12V Pin=U3_LFO_12_SUMMING AMPLIFIER2-4
+Added Pin To Net: NetName=-12V Pin=U3_LFO_12_SUMMING AMPLIFIER2-11
+Added Pin To Net: NetName=+12V Pin=U3_LFO_23_SUMMING AMPLIFIER3-4
+Added Pin To Net: NetName=-12V Pin=U3_LFO_23_SUMMING AMPLIFIER3-11
+Added Pin To Net: NetName=+12V Pin=U3_LFO_34_SUMMING AMPLIFIER4-4
+Added Pin To Net: NetName=-12V Pin=U3_LFO_34_SUMMING AMPLIFIER4-11
+Added Pin To Net: NetName=+12V Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-4
+Added Pin To Net: NetName=-12V Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-11
+Added Pin To Net: NetName=NetD2_2 Pin=U6-2
+Added Pin To Net: NetName=NetD2_1 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=NetR13_2 Pin=U6-7
+Added Pin To Net: NetName=+5V Pin=U6-8
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Pin To Net: NetName=NetR3_1 Pin=U7-2
+Added Pin To Net: NetName=NetU7_1 Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=VCC Pin=U7-14
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_01-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_05-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_12-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_16-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_23-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_27-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_34-40
+Added Pin To Net: NetName=+3.3V Pin=J8_ModuleSlot_38-40
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=ADSR_ADSR_0 Pin=J8_ModuleSlot_01-56
+Added Net: Name=ADSR_ADSR_0
+Added Pin To Net: NetName=ADSR_ADSR_1 Pin=J8_ModuleSlot_12-56
+Added Net: Name=ADSR_ADSR_1
+Added Pin To Net: NetName=ADSR_ADSR_2 Pin=J8_ModuleSlot_23-56
+Added Net: Name=ADSR_ADSR_2
+Added Pin To Net: NetName=ADSR_ADSR_3 Pin=J8_ModuleSlot_34-56
+Added Net: Name=ADSR_ADSR_3
+Added Pin To Net: NetName=ADSR_ADSR_OSC Pin=J8_ModuleSlot_05-56
+Added Pin To Net: NetName=ADSR_ADSR_OSC Pin=J8_ModuleSlot_16-56
+Added Pin To Net: NetName=ADSR_ADSR_OSC Pin=J8_ModuleSlot_27-56
+Added Pin To Net: NetName=ADSR_ADSR_OSC Pin=J8_ModuleSlot_38-56
+Added Net: Name=ADSR_ADSR_OSC
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_01 Pin=J8_ModuleSlot_01-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_01 Pin=J8_ModuleSlot_01-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_01 Pin=P1_ModuleSlot_01-2
+Added Net: Name=AUDIO_IN_ModuleSlot_01
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_05 Pin=J8_ModuleSlot_05-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_05 Pin=J8_ModuleSlot_05-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_05 Pin=P1_ModuleSlot_05-2
+Added Net: Name=AUDIO_IN_ModuleSlot_05
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_12 Pin=J8_ModuleSlot_01-44
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_12 Pin=J8_ModuleSlot_01-45
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_12 Pin=J8_ModuleSlot_12-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_12 Pin=J8_ModuleSlot_12-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_12 Pin=P1_ModuleSlot_01-1
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_12 Pin=P1_ModuleSlot_12-2
+Added Net: Name=AUDIO_IN_ModuleSlot_12
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_16 Pin=J8_ModuleSlot_16-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_16 Pin=J8_ModuleSlot_16-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_16 Pin=P1_ModuleSlot_16-2
+Added Net: Name=AUDIO_IN_ModuleSlot_16
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_23 Pin=J8_ModuleSlot_12-44
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_23 Pin=J8_ModuleSlot_12-45
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_23 Pin=J8_ModuleSlot_23-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_23 Pin=J8_ModuleSlot_23-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_23 Pin=P1_ModuleSlot_12-1
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_23 Pin=P1_ModuleSlot_23-2
+Added Net: Name=AUDIO_IN_ModuleSlot_23
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_27 Pin=J8_ModuleSlot_27-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_27 Pin=J8_ModuleSlot_27-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_27 Pin=P1_ModuleSlot_27-2
+Added Net: Name=AUDIO_IN_ModuleSlot_27
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_34 Pin=J8_ModuleSlot_23-44
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_34 Pin=J8_ModuleSlot_23-45
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_34 Pin=J8_ModuleSlot_34-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_34 Pin=J8_ModuleSlot_34-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_34 Pin=P1_ModuleSlot_23-1
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_34 Pin=P1_ModuleSlot_34-2
+Added Net: Name=AUDIO_IN_ModuleSlot_34
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_38 Pin=J8_ModuleSlot_38-42
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_38 Pin=J8_ModuleSlot_38-43
+Added Pin To Net: NetName=AUDIO_IN_ModuleSlot_38 Pin=P1_ModuleSlot_38-2
+Added Net: Name=AUDIO_IN_ModuleSlot_38
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_05 Pin=J8_ModuleSlot_05-44
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_05 Pin=J8_ModuleSlot_05-45
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_05 Pin=P1_ModuleSlot_05-1
+Added Net: Name=AUDIO_OUT_ModuleSlot_05
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_16 Pin=J8_ModuleSlot_16-44
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_16 Pin=J8_ModuleSlot_16-45
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_16 Pin=P1_ModuleSlot_16-1
+Added Net: Name=AUDIO_OUT_ModuleSlot_16
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_27 Pin=J8_ModuleSlot_27-44
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_27 Pin=J8_ModuleSlot_27-45
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_27 Pin=P1_ModuleSlot_27-1
+Added Net: Name=AUDIO_OUT_ModuleSlot_27
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_34 Pin=J8_ModuleSlot_34-44
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_34 Pin=J8_ModuleSlot_34-45
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_34 Pin=P1_ModuleSlot_34-1
+Added Net: Name=AUDIO_OUT_ModuleSlot_34
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_38 Pin=J8_ModuleSlot_38-44
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_38 Pin=J8_ModuleSlot_38-45
+Added Pin To Net: NetName=AUDIO_OUT_ModuleSlot_38 Pin=P1_ModuleSlot_38-1
+Added Net: Name=AUDIO_OUT_ModuleSlot_38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_01-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_05-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_12-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_16-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_23-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_27-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_34-38
+Added Pin To Net: NetName=AUX Pin=J8_ModuleSlot_38-38
+Added Net: Name=AUX
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_01 Pin=J1_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_01 Pin=J8_ModuleSlot_01-0
+Added Net: Name=CTRL_1A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_05 Pin=J1_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_05 Pin=J8_ModuleSlot_05-0
+Added Net: Name=CTRL_1A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_12 Pin=J1_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_12 Pin=J8_ModuleSlot_12-0
+Added Net: Name=CTRL_1A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_16 Pin=J1_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_16 Pin=J8_ModuleSlot_16-0
+Added Net: Name=CTRL_1A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_23 Pin=J1_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_23 Pin=J8_ModuleSlot_23-0
+Added Net: Name=CTRL_1A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_27 Pin=J1_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_27 Pin=J8_ModuleSlot_27-0
+Added Net: Name=CTRL_1A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_34 Pin=J1_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_34 Pin=J8_ModuleSlot_34-0
+Added Net: Name=CTRL_1A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_38 Pin=J1_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_1A_ModuleSlot_38 Pin=J8_ModuleSlot_38-0
+Added Net: Name=CTRL_1A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_01 Pin=J1_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_01 Pin=J8_ModuleSlot_01-1
+Added Net: Name=CTRL_1B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_05 Pin=J1_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_05 Pin=J8_ModuleSlot_05-1
+Added Net: Name=CTRL_1B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_12 Pin=J1_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_12 Pin=J8_ModuleSlot_12-1
+Added Net: Name=CTRL_1B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_16 Pin=J1_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_16 Pin=J8_ModuleSlot_16-1
+Added Net: Name=CTRL_1B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_23 Pin=J1_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_23 Pin=J8_ModuleSlot_23-1
+Added Net: Name=CTRL_1B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_27 Pin=J1_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_27 Pin=J8_ModuleSlot_27-1
+Added Net: Name=CTRL_1B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_34 Pin=J1_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_34 Pin=J8_ModuleSlot_34-1
+Added Net: Name=CTRL_1B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_38 Pin=J1_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_1B_ModuleSlot_38 Pin=J8_ModuleSlot_38-1
+Added Net: Name=CTRL_1B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_01 Pin=J1_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_01 Pin=J8_ModuleSlot_01-2
+Added Net: Name=CTRL_1C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_05 Pin=J1_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_05 Pin=J8_ModuleSlot_05-2
+Added Net: Name=CTRL_1C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_12 Pin=J1_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_12 Pin=J8_ModuleSlot_12-2
+Added Net: Name=CTRL_1C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_16 Pin=J1_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_16 Pin=J8_ModuleSlot_16-2
+Added Net: Name=CTRL_1C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_23 Pin=J1_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_23 Pin=J8_ModuleSlot_23-2
+Added Net: Name=CTRL_1C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_27 Pin=J1_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_27 Pin=J8_ModuleSlot_27-2
+Added Net: Name=CTRL_1C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_34 Pin=J1_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_34 Pin=J8_ModuleSlot_34-2
+Added Net: Name=CTRL_1C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_38 Pin=J1_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_1C_ModuleSlot_38 Pin=J8_ModuleSlot_38-2
+Added Net: Name=CTRL_1C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_01 Pin=J2_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_01 Pin=J8_ModuleSlot_01-3
+Added Net: Name=CTRL_2A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_05 Pin=J2_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_05 Pin=J8_ModuleSlot_05-3
+Added Net: Name=CTRL_2A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_12 Pin=J2_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_12 Pin=J8_ModuleSlot_12-3
+Added Net: Name=CTRL_2A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_16 Pin=J2_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_16 Pin=J8_ModuleSlot_16-3
+Added Net: Name=CTRL_2A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_23 Pin=J2_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_23 Pin=J8_ModuleSlot_23-3
+Added Net: Name=CTRL_2A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_27 Pin=J2_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_27 Pin=J8_ModuleSlot_27-3
+Added Net: Name=CTRL_2A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_34 Pin=J2_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_34 Pin=J8_ModuleSlot_34-3
+Added Net: Name=CTRL_2A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_38 Pin=J2_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_2A_ModuleSlot_38 Pin=J8_ModuleSlot_38-3
+Added Net: Name=CTRL_2A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_01 Pin=J2_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_01 Pin=J8_ModuleSlot_01-4
+Added Net: Name=CTRL_2B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_05 Pin=J2_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_05 Pin=J8_ModuleSlot_05-4
+Added Net: Name=CTRL_2B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_12 Pin=J2_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_12 Pin=J8_ModuleSlot_12-4
+Added Net: Name=CTRL_2B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_16 Pin=J2_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_16 Pin=J8_ModuleSlot_16-4
+Added Net: Name=CTRL_2B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_23 Pin=J2_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_23 Pin=J8_ModuleSlot_23-4
+Added Net: Name=CTRL_2B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_27 Pin=J2_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_27 Pin=J8_ModuleSlot_27-4
+Added Net: Name=CTRL_2B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_34 Pin=J2_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_34 Pin=J8_ModuleSlot_34-4
+Added Net: Name=CTRL_2B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_38 Pin=J2_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_2B_ModuleSlot_38 Pin=J8_ModuleSlot_38-4
+Added Net: Name=CTRL_2B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_01 Pin=J2_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_01 Pin=J8_ModuleSlot_01-5
+Added Net: Name=CTRL_2C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_05 Pin=J2_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_05 Pin=J8_ModuleSlot_05-5
+Added Net: Name=CTRL_2C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_12 Pin=J2_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_12 Pin=J8_ModuleSlot_12-5
+Added Net: Name=CTRL_2C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_16 Pin=J2_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_16 Pin=J8_ModuleSlot_16-5
+Added Net: Name=CTRL_2C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_23 Pin=J2_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_23 Pin=J8_ModuleSlot_23-5
+Added Net: Name=CTRL_2C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_27 Pin=J2_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_27 Pin=J8_ModuleSlot_27-5
+Added Net: Name=CTRL_2C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_34 Pin=J2_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_34 Pin=J8_ModuleSlot_34-5
+Added Net: Name=CTRL_2C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_38 Pin=J2_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_2C_ModuleSlot_38 Pin=J8_ModuleSlot_38-5
+Added Net: Name=CTRL_2C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_01 Pin=J3_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_01 Pin=J8_ModuleSlot_01-6
+Added Net: Name=CTRL_3A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_05 Pin=J3_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_05 Pin=J8_ModuleSlot_05-6
+Added Net: Name=CTRL_3A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_12 Pin=J3_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_12 Pin=J8_ModuleSlot_12-6
+Added Net: Name=CTRL_3A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_16 Pin=J3_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_16 Pin=J8_ModuleSlot_16-6
+Added Net: Name=CTRL_3A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_23 Pin=J3_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_23 Pin=J8_ModuleSlot_23-6
+Added Net: Name=CTRL_3A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_27 Pin=J3_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_27 Pin=J8_ModuleSlot_27-6
+Added Net: Name=CTRL_3A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_34 Pin=J3_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_34 Pin=J8_ModuleSlot_34-6
+Added Net: Name=CTRL_3A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_38 Pin=J3_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_3A_ModuleSlot_38 Pin=J8_ModuleSlot_38-6
+Added Net: Name=CTRL_3A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_01 Pin=J3_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_01 Pin=J8_ModuleSlot_01-7
+Added Net: Name=CTRL_3B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_05 Pin=J3_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_05 Pin=J8_ModuleSlot_05-7
+Added Net: Name=CTRL_3B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_12 Pin=J3_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_12 Pin=J8_ModuleSlot_12-7
+Added Net: Name=CTRL_3B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_16 Pin=J3_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_16 Pin=J8_ModuleSlot_16-7
+Added Net: Name=CTRL_3B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_23 Pin=J3_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_23 Pin=J8_ModuleSlot_23-7
+Added Net: Name=CTRL_3B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_27 Pin=J3_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_27 Pin=J8_ModuleSlot_27-7
+Added Net: Name=CTRL_3B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_34 Pin=J3_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_34 Pin=J8_ModuleSlot_34-7
+Added Net: Name=CTRL_3B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_38 Pin=J3_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_3B_ModuleSlot_38 Pin=J8_ModuleSlot_38-7
+Added Net: Name=CTRL_3B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_01 Pin=J3_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_01 Pin=J8_ModuleSlot_01-8
+Added Net: Name=CTRL_3C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_05 Pin=J3_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_05 Pin=J8_ModuleSlot_05-8
+Added Net: Name=CTRL_3C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_12 Pin=J3_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_12 Pin=J8_ModuleSlot_12-8
+Added Net: Name=CTRL_3C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_16 Pin=J3_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_16 Pin=J8_ModuleSlot_16-8
+Added Net: Name=CTRL_3C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_23 Pin=J3_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_23 Pin=J8_ModuleSlot_23-8
+Added Net: Name=CTRL_3C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_27 Pin=J3_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_27 Pin=J8_ModuleSlot_27-8
+Added Net: Name=CTRL_3C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_34 Pin=J3_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_34 Pin=J8_ModuleSlot_34-8
+Added Net: Name=CTRL_3C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_38 Pin=J3_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_3C_ModuleSlot_38 Pin=J8_ModuleSlot_38-8
+Added Net: Name=CTRL_3C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_01 Pin=J4_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_01 Pin=J8_ModuleSlot_01-9
+Added Net: Name=CTRL_4A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_05 Pin=J4_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_05 Pin=J8_ModuleSlot_05-9
+Added Net: Name=CTRL_4A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_12 Pin=J4_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_12 Pin=J8_ModuleSlot_12-9
+Added Net: Name=CTRL_4A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_16 Pin=J4_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_16 Pin=J8_ModuleSlot_16-9
+Added Net: Name=CTRL_4A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_23 Pin=J4_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_23 Pin=J8_ModuleSlot_23-9
+Added Net: Name=CTRL_4A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_27 Pin=J4_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_27 Pin=J8_ModuleSlot_27-9
+Added Net: Name=CTRL_4A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_34 Pin=J4_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_34 Pin=J8_ModuleSlot_34-9
+Added Net: Name=CTRL_4A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_38 Pin=J4_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_4A_ModuleSlot_38 Pin=J8_ModuleSlot_38-9
+Added Net: Name=CTRL_4A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_01 Pin=J4_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_01 Pin=J8_ModuleSlot_01-10
+Added Net: Name=CTRL_4B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_05 Pin=J4_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_05 Pin=J8_ModuleSlot_05-10
+Added Net: Name=CTRL_4B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_12 Pin=J4_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_12 Pin=J8_ModuleSlot_12-10
+Added Net: Name=CTRL_4B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_16 Pin=J4_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_16 Pin=J8_ModuleSlot_16-10
+Added Net: Name=CTRL_4B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_23 Pin=J4_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_23 Pin=J8_ModuleSlot_23-10
+Added Net: Name=CTRL_4B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_27 Pin=J4_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_27 Pin=J8_ModuleSlot_27-10
+Added Net: Name=CTRL_4B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_34 Pin=J4_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_34 Pin=J8_ModuleSlot_34-10
+Added Net: Name=CTRL_4B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_38 Pin=J4_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_4B_ModuleSlot_38 Pin=J8_ModuleSlot_38-10
+Added Net: Name=CTRL_4B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_01 Pin=J4_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_01 Pin=J8_ModuleSlot_01-11
+Added Net: Name=CTRL_4C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_05 Pin=J4_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_05 Pin=J8_ModuleSlot_05-11
+Added Net: Name=CTRL_4C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_12 Pin=J4_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_12 Pin=J8_ModuleSlot_12-11
+Added Net: Name=CTRL_4C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_16 Pin=J4_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_16 Pin=J8_ModuleSlot_16-11
+Added Net: Name=CTRL_4C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_23 Pin=J4_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_23 Pin=J8_ModuleSlot_23-11
+Added Net: Name=CTRL_4C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_27 Pin=J4_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_27 Pin=J8_ModuleSlot_27-11
+Added Net: Name=CTRL_4C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_34 Pin=J4_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_34 Pin=J8_ModuleSlot_34-11
+Added Net: Name=CTRL_4C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_38 Pin=J4_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_4C_ModuleSlot_38 Pin=J8_ModuleSlot_38-11
+Added Net: Name=CTRL_4C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_01 Pin=J5_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_01 Pin=J8_ModuleSlot_01-12
+Added Net: Name=CTRL_5A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_05 Pin=J5_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_05 Pin=J8_ModuleSlot_05-12
+Added Net: Name=CTRL_5A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_12 Pin=J5_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_12 Pin=J8_ModuleSlot_12-12
+Added Net: Name=CTRL_5A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_16 Pin=J5_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_16 Pin=J8_ModuleSlot_16-12
+Added Net: Name=CTRL_5A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_23 Pin=J5_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_23 Pin=J8_ModuleSlot_23-12
+Added Net: Name=CTRL_5A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_27 Pin=J5_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_27 Pin=J8_ModuleSlot_27-12
+Added Net: Name=CTRL_5A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_34 Pin=J5_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_34 Pin=J8_ModuleSlot_34-12
+Added Net: Name=CTRL_5A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_38 Pin=J5_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_5A_ModuleSlot_38 Pin=J8_ModuleSlot_38-12
+Added Net: Name=CTRL_5A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_01 Pin=J5_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_01 Pin=J8_ModuleSlot_01-13
+Added Net: Name=CTRL_5B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_05 Pin=J5_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_05 Pin=J8_ModuleSlot_05-13
+Added Net: Name=CTRL_5B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_12 Pin=J5_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_12 Pin=J8_ModuleSlot_12-13
+Added Net: Name=CTRL_5B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_16 Pin=J5_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_16 Pin=J8_ModuleSlot_16-13
+Added Net: Name=CTRL_5B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_23 Pin=J5_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_23 Pin=J8_ModuleSlot_23-13
+Added Net: Name=CTRL_5B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_27 Pin=J5_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_27 Pin=J8_ModuleSlot_27-13
+Added Net: Name=CTRL_5B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_34 Pin=J5_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_34 Pin=J8_ModuleSlot_34-13
+Added Net: Name=CTRL_5B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_38 Pin=J5_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_5B_ModuleSlot_38 Pin=J8_ModuleSlot_38-13
+Added Net: Name=CTRL_5B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_01 Pin=J5_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_01 Pin=J8_ModuleSlot_01-14
+Added Net: Name=CTRL_5C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_05 Pin=J5_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_05 Pin=J8_ModuleSlot_05-14
+Added Net: Name=CTRL_5C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_12 Pin=J5_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_12 Pin=J8_ModuleSlot_12-14
+Added Net: Name=CTRL_5C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_16 Pin=J5_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_16 Pin=J8_ModuleSlot_16-14
+Added Net: Name=CTRL_5C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_23 Pin=J5_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_23 Pin=J8_ModuleSlot_23-14
+Added Net: Name=CTRL_5C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_27 Pin=J5_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_27 Pin=J8_ModuleSlot_27-14
+Added Net: Name=CTRL_5C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_34 Pin=J5_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_34 Pin=J8_ModuleSlot_34-14
+Added Net: Name=CTRL_5C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_38 Pin=J5_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_5C_ModuleSlot_38 Pin=J8_ModuleSlot_38-14
+Added Net: Name=CTRL_5C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_01 Pin=J6_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_01 Pin=J8_ModuleSlot_01-15
+Added Net: Name=CTRL_6A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_05 Pin=J6_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_05 Pin=J8_ModuleSlot_05-15
+Added Net: Name=CTRL_6A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_12 Pin=J6_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_12 Pin=J8_ModuleSlot_12-15
+Added Net: Name=CTRL_6A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_16 Pin=J6_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_16 Pin=J8_ModuleSlot_16-15
+Added Net: Name=CTRL_6A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_23 Pin=J6_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_23 Pin=J8_ModuleSlot_23-15
+Added Net: Name=CTRL_6A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_27 Pin=J6_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_27 Pin=J8_ModuleSlot_27-15
+Added Net: Name=CTRL_6A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_34 Pin=J6_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_34 Pin=J8_ModuleSlot_34-15
+Added Net: Name=CTRL_6A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_38 Pin=J6_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_6A_ModuleSlot_38 Pin=J8_ModuleSlot_38-15
+Added Net: Name=CTRL_6A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_01 Pin=J6_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_01 Pin=J8_ModuleSlot_01-16
+Added Net: Name=CTRL_6B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_05 Pin=J6_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_05 Pin=J8_ModuleSlot_05-16
+Added Net: Name=CTRL_6B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_12 Pin=J6_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_12 Pin=J8_ModuleSlot_12-16
+Added Net: Name=CTRL_6B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_16 Pin=J6_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_16 Pin=J8_ModuleSlot_16-16
+Added Net: Name=CTRL_6B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_23 Pin=J6_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_23 Pin=J8_ModuleSlot_23-16
+Added Net: Name=CTRL_6B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_27 Pin=J6_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_27 Pin=J8_ModuleSlot_27-16
+Added Net: Name=CTRL_6B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_34 Pin=J6_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_34 Pin=J8_ModuleSlot_34-16
+Added Net: Name=CTRL_6B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_38 Pin=J6_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_6B_ModuleSlot_38 Pin=J8_ModuleSlot_38-16
+Added Net: Name=CTRL_6B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_01 Pin=J6_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_01 Pin=J8_ModuleSlot_01-17
+Added Net: Name=CTRL_6C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_05 Pin=J6_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_05 Pin=J8_ModuleSlot_05-17
+Added Net: Name=CTRL_6C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_12 Pin=J6_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_12 Pin=J8_ModuleSlot_12-17
+Added Net: Name=CTRL_6C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_16 Pin=J6_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_16 Pin=J8_ModuleSlot_16-17
+Added Net: Name=CTRL_6C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_23 Pin=J6_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_23 Pin=J8_ModuleSlot_23-17
+Added Net: Name=CTRL_6C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_27 Pin=J6_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_27 Pin=J8_ModuleSlot_27-17
+Added Net: Name=CTRL_6C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_34 Pin=J6_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_34 Pin=J8_ModuleSlot_34-17
+Added Net: Name=CTRL_6C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_38 Pin=J6_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_6C_ModuleSlot_38 Pin=J8_ModuleSlot_38-17
+Added Net: Name=CTRL_6C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_01 Pin=J7_ModuleSlot_01-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_01 Pin=J8_ModuleSlot_01-18
+Added Net: Name=CTRL_7A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_05 Pin=J7_ModuleSlot_05-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_05 Pin=J8_ModuleSlot_05-18
+Added Net: Name=CTRL_7A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_12 Pin=J7_ModuleSlot_12-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_12 Pin=J8_ModuleSlot_12-18
+Added Net: Name=CTRL_7A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_16 Pin=J7_ModuleSlot_16-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_16 Pin=J8_ModuleSlot_16-18
+Added Net: Name=CTRL_7A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_23 Pin=J7_ModuleSlot_23-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_23 Pin=J8_ModuleSlot_23-18
+Added Net: Name=CTRL_7A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_27 Pin=J7_ModuleSlot_27-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_27 Pin=J8_ModuleSlot_27-18
+Added Net: Name=CTRL_7A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_34 Pin=J7_ModuleSlot_34-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_34 Pin=J8_ModuleSlot_34-18
+Added Net: Name=CTRL_7A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_38 Pin=J7_ModuleSlot_38-0
+Added Pin To Net: NetName=CTRL_7A_ModuleSlot_38 Pin=J8_ModuleSlot_38-18
+Added Net: Name=CTRL_7A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_01 Pin=J7_ModuleSlot_01-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_01 Pin=J8_ModuleSlot_01-19
+Added Net: Name=CTRL_7B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_05 Pin=J7_ModuleSlot_05-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_05 Pin=J8_ModuleSlot_05-19
+Added Net: Name=CTRL_7B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_12 Pin=J7_ModuleSlot_12-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_12 Pin=J8_ModuleSlot_12-19
+Added Net: Name=CTRL_7B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_16 Pin=J7_ModuleSlot_16-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_16 Pin=J8_ModuleSlot_16-19
+Added Net: Name=CTRL_7B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_23 Pin=J7_ModuleSlot_23-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_23 Pin=J8_ModuleSlot_23-19
+Added Net: Name=CTRL_7B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_27 Pin=J7_ModuleSlot_27-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_27 Pin=J8_ModuleSlot_27-19
+Added Net: Name=CTRL_7B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_34 Pin=J7_ModuleSlot_34-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_34 Pin=J8_ModuleSlot_34-19
+Added Net: Name=CTRL_7B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_38 Pin=J7_ModuleSlot_38-1
+Added Pin To Net: NetName=CTRL_7B_ModuleSlot_38 Pin=J8_ModuleSlot_38-19
+Added Net: Name=CTRL_7B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_01 Pin=J7_ModuleSlot_01-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_01 Pin=J8_ModuleSlot_01-20
+Added Net: Name=CTRL_7C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_05 Pin=J7_ModuleSlot_05-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_05 Pin=J8_ModuleSlot_05-20
+Added Net: Name=CTRL_7C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_12 Pin=J7_ModuleSlot_12-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_12 Pin=J8_ModuleSlot_12-20
+Added Net: Name=CTRL_7C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_16 Pin=J7_ModuleSlot_16-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_16 Pin=J8_ModuleSlot_16-20
+Added Net: Name=CTRL_7C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_23 Pin=J7_ModuleSlot_23-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_23 Pin=J8_ModuleSlot_23-20
+Added Net: Name=CTRL_7C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_27 Pin=J7_ModuleSlot_27-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_27 Pin=J8_ModuleSlot_27-20
+Added Net: Name=CTRL_7C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_34 Pin=J7_ModuleSlot_34-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_34 Pin=J8_ModuleSlot_34-20
+Added Net: Name=CTRL_7C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_38 Pin=J7_ModuleSlot_38-2
+Added Pin To Net: NetName=CTRL_7C_ModuleSlot_38 Pin=J8_ModuleSlot_38-20
+Added Net: Name=CTRL_7C_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_01 Pin=J8_ModuleSlot_01-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_01 Pin=J9_ModuleSlot_01-0
+Added Net: Name=CTRL_8A_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_05 Pin=J8_ModuleSlot_05-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_05 Pin=J9_ModuleSlot_05-0
+Added Net: Name=CTRL_8A_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_12 Pin=J8_ModuleSlot_12-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_12 Pin=J9_ModuleSlot_12-0
+Added Net: Name=CTRL_8A_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_16 Pin=J8_ModuleSlot_16-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_16 Pin=J9_ModuleSlot_16-0
+Added Net: Name=CTRL_8A_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_23 Pin=J8_ModuleSlot_23-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_23 Pin=J9_ModuleSlot_23-0
+Added Net: Name=CTRL_8A_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_27 Pin=J8_ModuleSlot_27-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_27 Pin=J9_ModuleSlot_27-0
+Added Net: Name=CTRL_8A_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_34 Pin=J8_ModuleSlot_34-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_34 Pin=J9_ModuleSlot_34-0
+Added Net: Name=CTRL_8A_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_38 Pin=J8_ModuleSlot_38-21
+Added Pin To Net: NetName=CTRL_8A_ModuleSlot_38 Pin=J9_ModuleSlot_38-0
+Added Net: Name=CTRL_8A_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_01 Pin=J8_ModuleSlot_01-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_01 Pin=J9_ModuleSlot_01-1
+Added Net: Name=CTRL_8B_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_05 Pin=J8_ModuleSlot_05-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_05 Pin=J9_ModuleSlot_05-1
+Added Net: Name=CTRL_8B_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_12 Pin=J8_ModuleSlot_12-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_12 Pin=J9_ModuleSlot_12-1
+Added Net: Name=CTRL_8B_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_16 Pin=J8_ModuleSlot_16-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_16 Pin=J9_ModuleSlot_16-1
+Added Net: Name=CTRL_8B_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_23 Pin=J8_ModuleSlot_23-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_23 Pin=J9_ModuleSlot_23-1
+Added Net: Name=CTRL_8B_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_27 Pin=J8_ModuleSlot_27-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_27 Pin=J9_ModuleSlot_27-1
+Added Net: Name=CTRL_8B_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_34 Pin=J8_ModuleSlot_34-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_34 Pin=J9_ModuleSlot_34-1
+Added Net: Name=CTRL_8B_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_38 Pin=J8_ModuleSlot_38-22
+Added Pin To Net: NetName=CTRL_8B_ModuleSlot_38 Pin=J9_ModuleSlot_38-1
+Added Net: Name=CTRL_8B_ModuleSlot_38
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_01 Pin=J8_ModuleSlot_01-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_01 Pin=J9_ModuleSlot_01-2
+Added Net: Name=CTRL_8C_ModuleSlot_01
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_05 Pin=J8_ModuleSlot_05-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_05 Pin=J9_ModuleSlot_05-2
+Added Net: Name=CTRL_8C_ModuleSlot_05
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_12 Pin=J8_ModuleSlot_12-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_12 Pin=J9_ModuleSlot_12-2
+Added Net: Name=CTRL_8C_ModuleSlot_12
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_16 Pin=J8_ModuleSlot_16-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_16 Pin=J9_ModuleSlot_16-2
+Added Net: Name=CTRL_8C_ModuleSlot_16
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_23 Pin=J8_ModuleSlot_23-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_23 Pin=J9_ModuleSlot_23-2
+Added Net: Name=CTRL_8C_ModuleSlot_23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_27 Pin=J8_ModuleSlot_27-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_27 Pin=J9_ModuleSlot_27-2
+Added Net: Name=CTRL_8C_ModuleSlot_27
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_34 Pin=J8_ModuleSlot_34-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_34 Pin=J9_ModuleSlot_34-2
+Added Net: Name=CTRL_8C_ModuleSlot_34
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_38 Pin=J8_ModuleSlot_38-23
+Added Pin To Net: NetName=CTRL_8C_ModuleSlot_38 Pin=J9_ModuleSlot_38-2
+Added Net: Name=CTRL_8C_ModuleSlot_38
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J1-12
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_01-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_05-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_05-58
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_12-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_16-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_23-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_27-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_34-48
+Added Pin To Net: NetName=CV_0_ModuleSlot_01 Pin=J8_ModuleSlot_38-48
+Added Net: Name=CV_0_ModuleSlot_01
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J1-13
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_01-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_05-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_12-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_16-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_16-58
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_23-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_27-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_34-49
+Added Pin To Net: NetName=CV_1_ModuleSlot_01 Pin=J8_ModuleSlot_38-49
+Added Net: Name=CV_1_ModuleSlot_01
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J1-14
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_01-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_05-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_12-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_16-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_23-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_27-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_27-58
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_34-50
+Added Pin To Net: NetName=CV_2_ModuleSlot_01 Pin=J8_ModuleSlot_38-50
+Added Net: Name=CV_2_ModuleSlot_01
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J1-15
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_01-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_05-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_12-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_16-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_23-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_27-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_34-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_38-51
+Added Pin To Net: NetName=CV_3_ModuleSlot_01 Pin=J8_ModuleSlot_38-58
+Added Net: Name=CV_3_ModuleSlot_01
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J1-16
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_01-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_05-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_12-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_16-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_23-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_27-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_34-52
+Added Pin To Net: NetName=CV_4_ModuleSlot_01 Pin=J8_ModuleSlot_38-52
+Added Net: Name=CV_4_ModuleSlot_01
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J1-17
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_01-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_05-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_12-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_16-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_23-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_27-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_34-53
+Added Pin To Net: NetName=CV_5_ModuleSlot_01 Pin=J8_ModuleSlot_38-53
+Added Net: Name=CV_5_ModuleSlot_01
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J1-18
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_01-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_05-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_12-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_16-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_23-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_27-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_34-54
+Added Pin To Net: NetName=CV_6_ModuleSlot_01 Pin=J8_ModuleSlot_38-54
+Added Net: Name=CV_6_ModuleSlot_01
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J1-19
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_01-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_05-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_12-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_16-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_23-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_27-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_34-55
+Added Pin To Net: NetName=CV_7_ModuleSlot_01 Pin=J8_ModuleSlot_38-55
+Added Net: Name=CV_7_ModuleSlot_01
+Added Pin To Net: NetName=CV_PRIMARY_ModuleSlot_01 Pin=J8_ModuleSlot_01-58
+Added Net: Name=CV_PRIMARY_ModuleSlot_01
+Added Pin To Net: NetName=CV_PRIMARY_ModuleSlot_12 Pin=J8_ModuleSlot_12-58
+Added Net: Name=CV_PRIMARY_ModuleSlot_12
+Added Pin To Net: NetName=CV_PRIMARY_ModuleSlot_23 Pin=J8_ModuleSlot_23-58
+Added Net: Name=CV_PRIMARY_ModuleSlot_23
+Added Pin To Net: NetName=CV_PRIMARY_ModuleSlot_34 Pin=J8_ModuleSlot_34-58
+Added Net: Name=CV_PRIMARY_ModuleSlot_34
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J1-5
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_01-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_05-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_12-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_16-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_23-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_27-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_34-27
+Added Pin To Net: NetName=GATE_ADSR_0 Pin=J8_ModuleSlot_38-27
+Added Net: Name=GATE_ADSR_0
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J1-8
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_01-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_05-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_12-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_16-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_23-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_27-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_34-30
+Added Pin To Net: NetName=GPIO_0_ModuleSlot_01 Pin=J8_ModuleSlot_38-30
+Added Net: Name=GPIO_0_ModuleSlot_01
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J1-9
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_01-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_05-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_12-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_16-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_23-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_27-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_34-31
+Added Pin To Net: NetName=GPIO_1_ModuleSlot_01 Pin=J8_ModuleSlot_38-31
+Added Net: Name=GPIO_1_ModuleSlot_01
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J1-10
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_01-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_05-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_12-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_16-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_23-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_27-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_34-32
+Added Pin To Net: NetName=GPIO_2_ModuleSlot_01 Pin=J8_ModuleSlot_38-32
+Added Net: Name=GPIO_2_ModuleSlot_01
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J1-11
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_01-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_05-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_12-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_16-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_23-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_27-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_34-33
+Added Pin To Net: NetName=GPIO_3_ModuleSlot_01 Pin=J8_ModuleSlot_38-33
+Added Net: Name=GPIO_3_ModuleSlot_01
+Added Pin To Net: NetName=LFO_ModuleSlot_01 Pin=J8_ModuleSlot_01-57
+Added Pin To Net: NetName=LFO_ModuleSlot_01 Pin=R21_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=LFO_ModuleSlot_01 Pin=U3_LFO_01_SUMMING AMPLIFIER1-1
+Added Net: Name=LFO_ModuleSlot_01
+Added Pin To Net: NetName=LFO_ModuleSlot_05 Pin=J8_ModuleSlot_05-57
+Added Pin To Net: NetName=LFO_ModuleSlot_05 Pin=J8_ModuleSlot_16-57
+Added Pin To Net: NetName=LFO_ModuleSlot_05 Pin=J8_ModuleSlot_27-57
+Added Pin To Net: NetName=LFO_ModuleSlot_05 Pin=J8_ModuleSlot_38-57
+Added Pin To Net: NetName=LFO_ModuleSlot_05 Pin=R21_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=LFO_ModuleSlot_05 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Net: Name=LFO_ModuleSlot_05
+Added Pin To Net: NetName=LFO_ModuleSlot_12 Pin=J8_ModuleSlot_12-57
+Added Pin To Net: NetName=LFO_ModuleSlot_12 Pin=R21_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=LFO_ModuleSlot_12 Pin=U3_LFO_12_SUMMING AMPLIFIER2-1
+Added Net: Name=LFO_ModuleSlot_12
+Added Pin To Net: NetName=LFO_ModuleSlot_23 Pin=J8_ModuleSlot_23-57
+Added Pin To Net: NetName=LFO_ModuleSlot_23 Pin=R21_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=LFO_ModuleSlot_23 Pin=U3_LFO_23_SUMMING AMPLIFIER3-1
+Added Net: Name=LFO_ModuleSlot_23
+Added Pin To Net: NetName=LFO_ModuleSlot_34 Pin=J8_ModuleSlot_34-57
+Added Pin To Net: NetName=LFO_ModuleSlot_34 Pin=R21_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=LFO_ModuleSlot_34 Pin=U3_LFO_34_SUMMING AMPLIFIER4-1
+Added Net: Name=LFO_ModuleSlot_34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_01-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_05-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_12-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_16-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_23-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_27-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_34-34
+Added Pin To Net: NetName=MIDI_IN_ModuleSlot_01 Pin=J8_ModuleSlot_38-34
+Added Net: Name=MIDI_IN_ModuleSlot_01
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_01-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_05-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_12-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_16-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_23-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_27-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_34-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=J8_ModuleSlot_38-59
+Added Pin To Net: NetName=MIDI_IN_USE_ModuleSlot_01 Pin=R1-2
+Added Net: Name=MIDI_IN_USE_ModuleSlot_01
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_01-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_05-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_12-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_16-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_23-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_27-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_34-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=J8_ModuleSlot_38-35
+Added Pin To Net: NetName=MIDI_OUT_ModuleSlot_01 Pin=U7-3
+Added Net: Name=MIDI_OUT_ModuleSlot_01
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_1 Pin=C5_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_1 Pin=R15_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_1 Pin=U2_LFO_01_OSCILLATOR1-6
+Added Net: Name=NetC5_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_2 Pin=C5_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_2 Pin=R8_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_2 Pin=R9_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_2 Pin=R12_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetC5_LFO_01_OSCILLATOR1_2 Pin=U2_LFO_01_OSCILLATOR1-7
+Added Net: Name=NetC5_LFO_01_OSCILLATOR1_2
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_1 Pin=C5_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_1 Pin=R15_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_1 Pin=U2_LFO_12_OSCILLATOR2-6
+Added Net: Name=NetC5_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_2 Pin=C5_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_2 Pin=R8_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_2 Pin=R9_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_2 Pin=R12_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetC5_LFO_12_OSCILLATOR2_2 Pin=U2_LFO_12_OSCILLATOR2-7
+Added Net: Name=NetC5_LFO_12_OSCILLATOR2_2
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_1 Pin=C5_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_1 Pin=R15_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_1 Pin=U2_LFO_23_OSCILLATOR3-6
+Added Net: Name=NetC5_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_2 Pin=C5_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_2 Pin=R8_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_2 Pin=R9_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_2 Pin=R12_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetC5_LFO_23_OSCILLATOR3_2 Pin=U2_LFO_23_OSCILLATOR3-7
+Added Net: Name=NetC5_LFO_23_OSCILLATOR3_2
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_1 Pin=C5_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_1 Pin=R15_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_1 Pin=U2_LFO_34_OSCILLATOR4-6
+Added Net: Name=NetC5_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_2 Pin=C5_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_2 Pin=R8_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_2 Pin=R9_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_2 Pin=R12_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetC5_LFO_34_OSCILLATOR4_2 Pin=U2_LFO_34_OSCILLATOR4-7
+Added Net: Name=NetC5_LFO_34_OSCILLATOR4_2
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_1 Pin=C5_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_1 Pin=R15_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_1 Pin=U2_LFO_OSC5_OSCILLATOR5-6
+Added Net: Name=NetC5_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_2 Pin=C5_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_2 Pin=R8_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_2 Pin=R9_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_2 Pin=R12_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetC5_LFO_OSC5_OSCILLATOR5_2 Pin=U2_LFO_OSC5_OSCILLATOR5-7
+Added Net: Name=NetC5_LFO_OSC5_OSCILLATOR5_2
+Added Pin To Net: NetName=NetC6_LFO_01_SUMMING AMPLIFIER1_1 Pin=C6_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=NetC6_LFO_01_SUMMING AMPLIFIER1_1 Pin=R18_LFO_01_SUMMING AMPLIFIER1-1
+Added Net: Name=NetC6_LFO_01_SUMMING AMPLIFIER1_1
+Added Pin To Net: NetName=NetC6_LFO_01_SUMMING AMPLIFIER1_2 Pin=C6_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetC6_LFO_01_SUMMING AMPLIFIER1_2 Pin=R19_LFO_01_SUMMING AMPLIFIER1-2
+Added Net: Name=NetC6_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetC6_LFO_12_SUMMING AMPLIFIER2_1 Pin=C6_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=NetC6_LFO_12_SUMMING AMPLIFIER2_1 Pin=R18_LFO_12_SUMMING AMPLIFIER2-1
+Added Net: Name=NetC6_LFO_12_SUMMING AMPLIFIER2_1
+Added Pin To Net: NetName=NetC6_LFO_12_SUMMING AMPLIFIER2_2 Pin=C6_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetC6_LFO_12_SUMMING AMPLIFIER2_2 Pin=R19_LFO_12_SUMMING AMPLIFIER2-2
+Added Net: Name=NetC6_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetC6_LFO_23_SUMMING AMPLIFIER3_1 Pin=C6_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=NetC6_LFO_23_SUMMING AMPLIFIER3_1 Pin=R18_LFO_23_SUMMING AMPLIFIER3-1
+Added Net: Name=NetC6_LFO_23_SUMMING AMPLIFIER3_1
+Added Pin To Net: NetName=NetC6_LFO_23_SUMMING AMPLIFIER3_2 Pin=C6_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetC6_LFO_23_SUMMING AMPLIFIER3_2 Pin=R19_LFO_23_SUMMING AMPLIFIER3-2
+Added Net: Name=NetC6_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetC6_LFO_34_SUMMING AMPLIFIER4_1 Pin=C6_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=NetC6_LFO_34_SUMMING AMPLIFIER4_1 Pin=R18_LFO_34_SUMMING AMPLIFIER4-1
+Added Net: Name=NetC6_LFO_34_SUMMING AMPLIFIER4_1
+Added Pin To Net: NetName=NetC6_LFO_34_SUMMING AMPLIFIER4_2 Pin=C6_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetC6_LFO_34_SUMMING AMPLIFIER4_2 Pin=R19_LFO_34_SUMMING AMPLIFIER4-2
+Added Net: Name=NetC6_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetC6_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=C6_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=NetC6_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R18_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Net: Name=NetC6_LFO_OSC5_SUMMING AMPLIFIER5_1
+Added Pin To Net: NetName=NetC6_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=C6_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetC6_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R19_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Net: Name=NetC6_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=NetC7_LFO_01_SUMMING AMPLIFIER1_1 Pin=C7_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=NetC7_LFO_01_SUMMING AMPLIFIER1_1 Pin=R22_LFO_01_SUMMING AMPLIFIER1-1
+Added Net: Name=NetC7_LFO_01_SUMMING AMPLIFIER1_1
+Added Pin To Net: NetName=NetC7_LFO_01_SUMMING AMPLIFIER1_2 Pin=C7_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetC7_LFO_01_SUMMING AMPLIFIER1_2 Pin=R23_LFO_01_SUMMING AMPLIFIER1-2
+Added Net: Name=NetC7_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetC7_LFO_12_SUMMING AMPLIFIER2_1 Pin=C7_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=NetC7_LFO_12_SUMMING AMPLIFIER2_1 Pin=R22_LFO_12_SUMMING AMPLIFIER2-1
+Added Net: Name=NetC7_LFO_12_SUMMING AMPLIFIER2_1
+Added Pin To Net: NetName=NetC7_LFO_12_SUMMING AMPLIFIER2_2 Pin=C7_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetC7_LFO_12_SUMMING AMPLIFIER2_2 Pin=R23_LFO_12_SUMMING AMPLIFIER2-2
+Added Net: Name=NetC7_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetC7_LFO_23_SUMMING AMPLIFIER3_1 Pin=C7_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=NetC7_LFO_23_SUMMING AMPLIFIER3_1 Pin=R22_LFO_23_SUMMING AMPLIFIER3-1
+Added Net: Name=NetC7_LFO_23_SUMMING AMPLIFIER3_1
+Added Pin To Net: NetName=NetC7_LFO_23_SUMMING AMPLIFIER3_2 Pin=C7_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetC7_LFO_23_SUMMING AMPLIFIER3_2 Pin=R23_LFO_23_SUMMING AMPLIFIER3-2
+Added Net: Name=NetC7_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetC7_LFO_34_SUMMING AMPLIFIER4_1 Pin=C7_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=NetC7_LFO_34_SUMMING AMPLIFIER4_1 Pin=R22_LFO_34_SUMMING AMPLIFIER4-1
+Added Net: Name=NetC7_LFO_34_SUMMING AMPLIFIER4_1
+Added Pin To Net: NetName=NetC7_LFO_34_SUMMING AMPLIFIER4_2 Pin=C7_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetC7_LFO_34_SUMMING AMPLIFIER4_2 Pin=R23_LFO_34_SUMMING AMPLIFIER4-2
+Added Net: Name=NetC7_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetC7_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=C7_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=NetC7_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R22_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Net: Name=NetC7_LFO_OSC5_SUMMING AMPLIFIER5_1
+Added Pin To Net: NetName=NetC7_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=C7_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetC7_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R23_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Net: Name=NetC7_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=NetC8_LFO_01_SUMMING AMPLIFIER1_1 Pin=C8_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=NetC8_LFO_01_SUMMING AMPLIFIER1_1 Pin=R25_LFO_01_SUMMING AMPLIFIER1-1
+Added Net: Name=NetC8_LFO_01_SUMMING AMPLIFIER1_1
+Added Pin To Net: NetName=NetC8_LFO_01_SUMMING AMPLIFIER1_2 Pin=C8_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetC8_LFO_01_SUMMING AMPLIFIER1_2 Pin=R26_LFO_01_SUMMING AMPLIFIER1-2
+Added Net: Name=NetC8_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetC8_LFO_12_SUMMING AMPLIFIER2_1 Pin=C8_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=NetC8_LFO_12_SUMMING AMPLIFIER2_1 Pin=R25_LFO_12_SUMMING AMPLIFIER2-1
+Added Net: Name=NetC8_LFO_12_SUMMING AMPLIFIER2_1
+Added Pin To Net: NetName=NetC8_LFO_12_SUMMING AMPLIFIER2_2 Pin=C8_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetC8_LFO_12_SUMMING AMPLIFIER2_2 Pin=R26_LFO_12_SUMMING AMPLIFIER2-2
+Added Net: Name=NetC8_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetC8_LFO_23_SUMMING AMPLIFIER3_1 Pin=C8_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=NetC8_LFO_23_SUMMING AMPLIFIER3_1 Pin=R25_LFO_23_SUMMING AMPLIFIER3-1
+Added Net: Name=NetC8_LFO_23_SUMMING AMPLIFIER3_1
+Added Pin To Net: NetName=NetC8_LFO_23_SUMMING AMPLIFIER3_2 Pin=C8_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetC8_LFO_23_SUMMING AMPLIFIER3_2 Pin=R26_LFO_23_SUMMING AMPLIFIER3-2
+Added Net: Name=NetC8_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetC8_LFO_34_SUMMING AMPLIFIER4_1 Pin=C8_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=NetC8_LFO_34_SUMMING AMPLIFIER4_1 Pin=R25_LFO_34_SUMMING AMPLIFIER4-1
+Added Net: Name=NetC8_LFO_34_SUMMING AMPLIFIER4_1
+Added Pin To Net: NetName=NetC8_LFO_34_SUMMING AMPLIFIER4_2 Pin=C8_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetC8_LFO_34_SUMMING AMPLIFIER4_2 Pin=R26_LFO_34_SUMMING AMPLIFIER4-2
+Added Net: Name=NetC8_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetC8_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=C8_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=NetC8_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R25_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Net: Name=NetC8_LFO_OSC5_SUMMING AMPLIFIER5_1
+Added Pin To Net: NetName=NetC8_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=C8_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetC8_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R26_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Net: Name=NetC8_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=NetD2_LFO_01_OSCILLATOR1_2 Pin=D2_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetD2_LFO_01_OSCILLATOR1_2 Pin=D3_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetD2_LFO_01_OSCILLATOR1_2 Pin=R5_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetD2_LFO_01_OSCILLATOR1_2 Pin=R7_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetD2_LFO_01_OSCILLATOR1_2 Pin=R8_LFO_01_OSCILLATOR1-0
+Added Pin To Net: NetName=NetD2_LFO_01_OSCILLATOR1_2 Pin=R8_LFO_01_OSCILLATOR1-1
+Added Net: Name=NetD2_LFO_01_OSCILLATOR1_2
+Added Pin To Net: NetName=NetD2_LFO_12_OSCILLATOR2_2 Pin=D2_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetD2_LFO_12_OSCILLATOR2_2 Pin=D3_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetD2_LFO_12_OSCILLATOR2_2 Pin=R5_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetD2_LFO_12_OSCILLATOR2_2 Pin=R7_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetD2_LFO_12_OSCILLATOR2_2 Pin=R8_LFO_12_OSCILLATOR2-0
+Added Pin To Net: NetName=NetD2_LFO_12_OSCILLATOR2_2 Pin=R8_LFO_12_OSCILLATOR2-1
+Added Net: Name=NetD2_LFO_12_OSCILLATOR2_2
+Added Pin To Net: NetName=NetD2_LFO_23_OSCILLATOR3_2 Pin=D2_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetD2_LFO_23_OSCILLATOR3_2 Pin=D3_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetD2_LFO_23_OSCILLATOR3_2 Pin=R5_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetD2_LFO_23_OSCILLATOR3_2 Pin=R7_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetD2_LFO_23_OSCILLATOR3_2 Pin=R8_LFO_23_OSCILLATOR3-0
+Added Pin To Net: NetName=NetD2_LFO_23_OSCILLATOR3_2 Pin=R8_LFO_23_OSCILLATOR3-1
+Added Net: Name=NetD2_LFO_23_OSCILLATOR3_2
+Added Pin To Net: NetName=NetD2_LFO_34_OSCILLATOR4_2 Pin=D2_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetD2_LFO_34_OSCILLATOR4_2 Pin=D3_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetD2_LFO_34_OSCILLATOR4_2 Pin=R5_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetD2_LFO_34_OSCILLATOR4_2 Pin=R7_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetD2_LFO_34_OSCILLATOR4_2 Pin=R8_LFO_34_OSCILLATOR4-0
+Added Pin To Net: NetName=NetD2_LFO_34_OSCILLATOR4_2 Pin=R8_LFO_34_OSCILLATOR4-1
+Added Net: Name=NetD2_LFO_34_OSCILLATOR4_2
+Added Pin To Net: NetName=NetD2_LFO_OSC5_OSCILLATOR5_2 Pin=D2_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetD2_LFO_OSC5_OSCILLATOR5_2 Pin=D3_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetD2_LFO_OSC5_OSCILLATOR5_2 Pin=R5_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetD2_LFO_OSC5_OSCILLATOR5_2 Pin=R7_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetD2_LFO_OSC5_OSCILLATOR5_2 Pin=R8_LFO_OSC5_OSCILLATOR5-0
+Added Pin To Net: NetName=NetD2_LFO_OSC5_OSCILLATOR5_2 Pin=R8_LFO_OSC5_OSCILLATOR5-1
+Added Net: Name=NetD2_LFO_OSC5_OSCILLATOR5_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R12-1
+Added Pin To Net: NetName=NetJ1_3 Pin=U6-6
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=R11-2
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetR2_LFO_01_OSCILLATOR1_1 Pin=R2_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR2_LFO_01_OSCILLATOR1_1 Pin=R3_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetR2_LFO_01_OSCILLATOR1_1 Pin=U2_LFO_01_OSCILLATOR1-2
+Added Net: Name=NetR2_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR2_LFO_12_OSCILLATOR2_1 Pin=R2_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR2_LFO_12_OSCILLATOR2_1 Pin=R3_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetR2_LFO_12_OSCILLATOR2_1 Pin=U2_LFO_12_OSCILLATOR2-2
+Added Net: Name=NetR2_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR2_LFO_23_OSCILLATOR3_1 Pin=R2_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR2_LFO_23_OSCILLATOR3_1 Pin=R3_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetR2_LFO_23_OSCILLATOR3_1 Pin=U2_LFO_23_OSCILLATOR3-2
+Added Net: Name=NetR2_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR2_LFO_34_OSCILLATOR4_1 Pin=R2_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR2_LFO_34_OSCILLATOR4_1 Pin=R3_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetR2_LFO_34_OSCILLATOR4_1 Pin=U2_LFO_34_OSCILLATOR4-2
+Added Net: Name=NetR2_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR2_LFO_OSC5_OSCILLATOR5_1 Pin=R2_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR2_LFO_OSC5_OSCILLATOR5_1 Pin=R3_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR2_LFO_OSC5_OSCILLATOR5_1 Pin=U2_LFO_OSC5_OSCILLATOR5-2
+Added Net: Name=NetR2_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR3_LFO_01_OSCILLATOR1_1 Pin=R3_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR3_LFO_01_OSCILLATOR1_1 Pin=R4_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetR3_LFO_01_OSCILLATOR1_1 Pin=U2_LFO_01_OSCILLATOR1-1
+Added Net: Name=NetR3_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR3_LFO_12_OSCILLATOR2_1 Pin=R3_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR3_LFO_12_OSCILLATOR2_1 Pin=R4_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetR3_LFO_12_OSCILLATOR2_1 Pin=U2_LFO_12_OSCILLATOR2-1
+Added Net: Name=NetR3_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR3_LFO_23_OSCILLATOR3_1 Pin=R3_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR3_LFO_23_OSCILLATOR3_1 Pin=R4_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetR3_LFO_23_OSCILLATOR3_1 Pin=U2_LFO_23_OSCILLATOR3-1
+Added Net: Name=NetR3_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR3_LFO_34_OSCILLATOR4_1 Pin=R3_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR3_LFO_34_OSCILLATOR4_1 Pin=R4_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetR3_LFO_34_OSCILLATOR4_1 Pin=U2_LFO_34_OSCILLATOR4-1
+Added Net: Name=NetR3_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR3_LFO_OSC5_OSCILLATOR5_1 Pin=R3_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR3_LFO_OSC5_OSCILLATOR5_1 Pin=R4_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR3_LFO_OSC5_OSCILLATOR5_1 Pin=U2_LFO_OSC5_OSCILLATOR5-1
+Added Net: Name=NetR3_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR4_LFO_01_OSCILLATOR1_1 Pin=R4_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR4_LFO_01_OSCILLATOR1_1 Pin=U2_LFO_01_OSCILLATOR1-12
+Added Net: Name=NetR4_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR4_LFO_12_OSCILLATOR2_1 Pin=R4_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR4_LFO_12_OSCILLATOR2_1 Pin=U2_LFO_12_OSCILLATOR2-12
+Added Net: Name=NetR4_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR4_LFO_23_OSCILLATOR3_1 Pin=R4_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR4_LFO_23_OSCILLATOR3_1 Pin=U2_LFO_23_OSCILLATOR3-12
+Added Net: Name=NetR4_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR4_LFO_34_OSCILLATOR4_1 Pin=R4_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR4_LFO_34_OSCILLATOR4_1 Pin=U2_LFO_34_OSCILLATOR4-12
+Added Net: Name=NetR4_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR4_LFO_OSC5_OSCILLATOR5_1 Pin=R4_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR4_LFO_OSC5_OSCILLATOR5_1 Pin=U2_LFO_OSC5_OSCILLATOR5-12
+Added Net: Name=NetR4_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR5_LFO_01_OSCILLATOR1_1 Pin=R5_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR5_LFO_01_OSCILLATOR1_1 Pin=R6_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR5_LFO_01_OSCILLATOR1_1 Pin=U2_LFO_01_OSCILLATOR1-3
+Added Net: Name=NetR5_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR5_LFO_12_OSCILLATOR2_1 Pin=R5_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR5_LFO_12_OSCILLATOR2_1 Pin=R6_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR5_LFO_12_OSCILLATOR2_1 Pin=U2_LFO_12_OSCILLATOR2-3
+Added Net: Name=NetR5_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR5_LFO_23_OSCILLATOR3_1 Pin=R5_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR5_LFO_23_OSCILLATOR3_1 Pin=R6_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR5_LFO_23_OSCILLATOR3_1 Pin=U2_LFO_23_OSCILLATOR3-3
+Added Net: Name=NetR5_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR5_LFO_34_OSCILLATOR4_1 Pin=R5_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR5_LFO_34_OSCILLATOR4_1 Pin=R6_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR5_LFO_34_OSCILLATOR4_1 Pin=U2_LFO_34_OSCILLATOR4-3
+Added Net: Name=NetR5_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR5_LFO_OSC5_OSCILLATOR5_1 Pin=R5_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR5_LFO_OSC5_OSCILLATOR5_1 Pin=R6_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR5_LFO_OSC5_OSCILLATOR5_1 Pin=U2_LFO_OSC5_OSCILLATOR5-3
+Added Net: Name=NetR5_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR9_LFO_01_OSCILLATOR1_1 Pin=R9_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR9_LFO_01_OSCILLATOR1_1 Pin=R10_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR9_LFO_01_OSCILLATOR1_1 Pin=U3_LFO_01_SUMMING AMPLIFIER1-5
+Added Net: Name=NetR9_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR9_LFO_12_OSCILLATOR2_1 Pin=R9_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR9_LFO_12_OSCILLATOR2_1 Pin=R10_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR9_LFO_12_OSCILLATOR2_1 Pin=U3_LFO_12_SUMMING AMPLIFIER2-5
+Added Net: Name=NetR9_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR9_LFO_23_OSCILLATOR3_1 Pin=R9_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR9_LFO_23_OSCILLATOR3_1 Pin=R10_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR9_LFO_23_OSCILLATOR3_1 Pin=U3_LFO_23_SUMMING AMPLIFIER3-5
+Added Net: Name=NetR9_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR9_LFO_34_OSCILLATOR4_1 Pin=R9_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR9_LFO_34_OSCILLATOR4_1 Pin=R10_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR9_LFO_34_OSCILLATOR4_1 Pin=U3_LFO_34_SUMMING AMPLIFIER4-5
+Added Net: Name=NetR9_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR9_LFO_OSC5_OSCILLATOR5_1 Pin=R9_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR9_LFO_OSC5_OSCILLATOR5_1 Pin=R10_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR9_LFO_OSC5_OSCILLATOR5_1 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-5
+Added Net: Name=NetR9_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_1 Pin=R11_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_1 Pin=R13_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_1 Pin=U3_LFO_01_SUMMING AMPLIFIER1-10
+Added Net: Name=NetR11_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_2 Pin=R11_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_2 Pin=R14_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_2 Pin=R16_LFO_01_OSCILLATOR1-0
+Added Pin To Net: NetName=NetR11_LFO_01_OSCILLATOR1_2 Pin=U2_LFO_01_OSCILLATOR1-8
+Added Net: Name=NetR11_LFO_01_OSCILLATOR1_2
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_1 Pin=R11_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_1 Pin=R13_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_1 Pin=U3_LFO_12_SUMMING AMPLIFIER2-10
+Added Net: Name=NetR11_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_2 Pin=R11_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_2 Pin=R14_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_2 Pin=R16_LFO_12_OSCILLATOR2-0
+Added Pin To Net: NetName=NetR11_LFO_12_OSCILLATOR2_2 Pin=U2_LFO_12_OSCILLATOR2-8
+Added Net: Name=NetR11_LFO_12_OSCILLATOR2_2
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_1 Pin=R11_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_1 Pin=R13_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_1 Pin=U3_LFO_23_SUMMING AMPLIFIER3-10
+Added Net: Name=NetR11_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_2 Pin=R11_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_2 Pin=R14_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_2 Pin=R16_LFO_23_OSCILLATOR3-0
+Added Pin To Net: NetName=NetR11_LFO_23_OSCILLATOR3_2 Pin=U2_LFO_23_OSCILLATOR3-8
+Added Net: Name=NetR11_LFO_23_OSCILLATOR3_2
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_1 Pin=R11_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_1 Pin=R13_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_1 Pin=U3_LFO_34_SUMMING AMPLIFIER4-10
+Added Net: Name=NetR11_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_2 Pin=R11_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_2 Pin=R14_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_2 Pin=R16_LFO_34_OSCILLATOR4-0
+Added Pin To Net: NetName=NetR11_LFO_34_OSCILLATOR4_2 Pin=U2_LFO_34_OSCILLATOR4-8
+Added Net: Name=NetR11_LFO_34_OSCILLATOR4_2
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_1 Pin=R11_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_1 Pin=R13_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_1 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-10
+Added Net: Name=NetR11_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_2 Pin=R11_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_2 Pin=R14_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_2 Pin=R16_LFO_OSC5_OSCILLATOR5-0
+Added Pin To Net: NetName=NetR11_LFO_OSC5_OSCILLATOR5_2 Pin=U2_LFO_OSC5_OSCILLATOR5-8
+Added Net: Name=NetR11_LFO_OSC5_OSCILLATOR5_2
+Added Pin To Net: NetName=NetR12_LFO_01_OSCILLATOR1_2 Pin=R12_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetR12_LFO_01_OSCILLATOR1_2 Pin=R14_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetR12_LFO_01_OSCILLATOR1_2 Pin=U2_LFO_01_OSCILLATOR1-10
+Added Net: Name=NetR12_LFO_01_OSCILLATOR1_2
+Added Pin To Net: NetName=NetR12_LFO_12_OSCILLATOR2_2 Pin=R12_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetR12_LFO_12_OSCILLATOR2_2 Pin=R14_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetR12_LFO_12_OSCILLATOR2_2 Pin=U2_LFO_12_OSCILLATOR2-10
+Added Net: Name=NetR12_LFO_12_OSCILLATOR2_2
+Added Pin To Net: NetName=NetR12_LFO_23_OSCILLATOR3_2 Pin=R12_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetR12_LFO_23_OSCILLATOR3_2 Pin=R14_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetR12_LFO_23_OSCILLATOR3_2 Pin=U2_LFO_23_OSCILLATOR3-10
+Added Net: Name=NetR12_LFO_23_OSCILLATOR3_2
+Added Pin To Net: NetName=NetR12_LFO_34_OSCILLATOR4_2 Pin=R12_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetR12_LFO_34_OSCILLATOR4_2 Pin=R14_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetR12_LFO_34_OSCILLATOR4_2 Pin=U2_LFO_34_OSCILLATOR4-10
+Added Net: Name=NetR12_LFO_34_OSCILLATOR4_2
+Added Pin To Net: NetName=NetR12_LFO_OSC5_OSCILLATOR5_2 Pin=R12_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR12_LFO_OSC5_OSCILLATOR5_2 Pin=R14_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR12_LFO_OSC5_OSCILLATOR5_2 Pin=U2_LFO_OSC5_OSCILLATOR5-10
+Added Net: Name=NetR12_LFO_OSC5_OSCILLATOR5_2
+Added Pin To Net: NetName=NetR15_LFO_01_OSCILLATOR1_1 Pin=R15_LFO_01_OSCILLATOR1-1
+Added Pin To Net: NetName=NetR15_LFO_01_OSCILLATOR1_1 Pin=R16_LFO_01_OSCILLATOR1-1
+Added Net: Name=NetR15_LFO_01_OSCILLATOR1_1
+Added Pin To Net: NetName=NetR15_LFO_12_OSCILLATOR2_1 Pin=R15_LFO_12_OSCILLATOR2-1
+Added Pin To Net: NetName=NetR15_LFO_12_OSCILLATOR2_1 Pin=R16_LFO_12_OSCILLATOR2-1
+Added Net: Name=NetR15_LFO_12_OSCILLATOR2_1
+Added Pin To Net: NetName=NetR15_LFO_23_OSCILLATOR3_1 Pin=R15_LFO_23_OSCILLATOR3-1
+Added Pin To Net: NetName=NetR15_LFO_23_OSCILLATOR3_1 Pin=R16_LFO_23_OSCILLATOR3-1
+Added Net: Name=NetR15_LFO_23_OSCILLATOR3_1
+Added Pin To Net: NetName=NetR15_LFO_34_OSCILLATOR4_1 Pin=R15_LFO_34_OSCILLATOR4-1
+Added Pin To Net: NetName=NetR15_LFO_34_OSCILLATOR4_1 Pin=R16_LFO_34_OSCILLATOR4-1
+Added Net: Name=NetR15_LFO_34_OSCILLATOR4_1
+Added Pin To Net: NetName=NetR15_LFO_OSC5_OSCILLATOR5_1 Pin=R15_LFO_OSC5_OSCILLATOR5-1
+Added Pin To Net: NetName=NetR15_LFO_OSC5_OSCILLATOR5_1 Pin=R16_LFO_OSC5_OSCILLATOR5-1
+Added Net: Name=NetR15_LFO_OSC5_OSCILLATOR5_1
+Added Pin To Net: NetName=NetR16_LFO_01_OSCILLATOR1_2 Pin=R16_LFO_01_OSCILLATOR1-2
+Added Pin To Net: NetName=NetR16_LFO_01_OSCILLATOR1_2 Pin=R17_LFO_01_OSCILLATOR1-2
+Added Net: Name=NetR16_LFO_01_OSCILLATOR1_2
+Added Pin To Net: NetName=NetR16_LFO_12_OSCILLATOR2_2 Pin=R16_LFO_12_OSCILLATOR2-2
+Added Pin To Net: NetName=NetR16_LFO_12_OSCILLATOR2_2 Pin=R17_LFO_12_OSCILLATOR2-2
+Added Net: Name=NetR16_LFO_12_OSCILLATOR2_2
+Added Pin To Net: NetName=NetR16_LFO_23_OSCILLATOR3_2 Pin=R16_LFO_23_OSCILLATOR3-2
+Added Pin To Net: NetName=NetR16_LFO_23_OSCILLATOR3_2 Pin=R17_LFO_23_OSCILLATOR3-2
+Added Net: Name=NetR16_LFO_23_OSCILLATOR3_2
+Added Pin To Net: NetName=NetR16_LFO_34_OSCILLATOR4_2 Pin=R16_LFO_34_OSCILLATOR4-2
+Added Pin To Net: NetName=NetR16_LFO_34_OSCILLATOR4_2 Pin=R17_LFO_34_OSCILLATOR4-2
+Added Net: Name=NetR16_LFO_34_OSCILLATOR4_2
+Added Pin To Net: NetName=NetR16_LFO_OSC5_OSCILLATOR5_2 Pin=R16_LFO_OSC5_OSCILLATOR5-2
+Added Pin To Net: NetName=NetR16_LFO_OSC5_OSCILLATOR5_2 Pin=R17_LFO_OSC5_OSCILLATOR5-2
+Added Net: Name=NetR16_LFO_OSC5_OSCILLATOR5_2
+Added Pin To Net: NetName=NetR18_LFO_01_SUMMING AMPLIFIER1_2 Pin=R18_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetR18_LFO_01_SUMMING AMPLIFIER1_2 Pin=U2_LFO_01_OSCILLATOR1-13
+Added Pin To Net: NetName=NetR18_LFO_01_SUMMING AMPLIFIER1_2 Pin=U2_LFO_01_OSCILLATOR1-14
+Added Net: Name=NetR18_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetR18_LFO_12_SUMMING AMPLIFIER2_2 Pin=R18_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetR18_LFO_12_SUMMING AMPLIFIER2_2 Pin=U2_LFO_12_OSCILLATOR2-13
+Added Pin To Net: NetName=NetR18_LFO_12_SUMMING AMPLIFIER2_2 Pin=U2_LFO_12_OSCILLATOR2-14
+Added Net: Name=NetR18_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetR18_LFO_23_SUMMING AMPLIFIER3_2 Pin=R18_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetR18_LFO_23_SUMMING AMPLIFIER3_2 Pin=U2_LFO_23_OSCILLATOR3-13
+Added Pin To Net: NetName=NetR18_LFO_23_SUMMING AMPLIFIER3_2 Pin=U2_LFO_23_OSCILLATOR3-14
+Added Net: Name=NetR18_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetR18_LFO_34_SUMMING AMPLIFIER4_2 Pin=R18_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetR18_LFO_34_SUMMING AMPLIFIER4_2 Pin=U2_LFO_34_OSCILLATOR4-13
+Added Pin To Net: NetName=NetR18_LFO_34_SUMMING AMPLIFIER4_2 Pin=U2_LFO_34_OSCILLATOR4-14
+Added Net: Name=NetR18_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetR18_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R18_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetR18_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U2_LFO_OSC5_OSCILLATOR5-13
+Added Pin To Net: NetName=NetR18_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U2_LFO_OSC5_OSCILLATOR5-14
+Added Net: Name=NetR18_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=NetR19_LFO_01_SUMMING AMPLIFIER1_1 Pin=R19_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=NetR19_LFO_01_SUMMING AMPLIFIER1_1 Pin=R23_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=NetR19_LFO_01_SUMMING AMPLIFIER1_1 Pin=R24_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetR19_LFO_01_SUMMING AMPLIFIER1_1 Pin=R26_LFO_01_SUMMING AMPLIFIER1-1
+Added Net: Name=NetR19_LFO_01_SUMMING AMPLIFIER1_1
+Added Pin To Net: NetName=NetR19_LFO_12_SUMMING AMPLIFIER2_1 Pin=R19_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=NetR19_LFO_12_SUMMING AMPLIFIER2_1 Pin=R23_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=NetR19_LFO_12_SUMMING AMPLIFIER2_1 Pin=R24_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetR19_LFO_12_SUMMING AMPLIFIER2_1 Pin=R26_LFO_12_SUMMING AMPLIFIER2-1
+Added Net: Name=NetR19_LFO_12_SUMMING AMPLIFIER2_1
+Added Pin To Net: NetName=NetR19_LFO_23_SUMMING AMPLIFIER3_1 Pin=R19_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=NetR19_LFO_23_SUMMING AMPLIFIER3_1 Pin=R23_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=NetR19_LFO_23_SUMMING AMPLIFIER3_1 Pin=R24_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetR19_LFO_23_SUMMING AMPLIFIER3_1 Pin=R26_LFO_23_SUMMING AMPLIFIER3-1
+Added Net: Name=NetR19_LFO_23_SUMMING AMPLIFIER3_1
+Added Pin To Net: NetName=NetR19_LFO_34_SUMMING AMPLIFIER4_1 Pin=R19_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=NetR19_LFO_34_SUMMING AMPLIFIER4_1 Pin=R23_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=NetR19_LFO_34_SUMMING AMPLIFIER4_1 Pin=R24_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetR19_LFO_34_SUMMING AMPLIFIER4_1 Pin=R26_LFO_34_SUMMING AMPLIFIER4-1
+Added Net: Name=NetR19_LFO_34_SUMMING AMPLIFIER4_1
+Added Pin To Net: NetName=NetR19_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R19_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=NetR19_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R23_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=NetR19_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R24_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetR19_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R26_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Net: Name=NetR19_LFO_OSC5_SUMMING AMPLIFIER5_1
+Added Pin To Net: NetName=NetR20_LFO_01_SUMMING AMPLIFIER1_2 Pin=R20_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetR20_LFO_01_SUMMING AMPLIFIER1_2 Pin=R21_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetR20_LFO_01_SUMMING AMPLIFIER1_2 Pin=U3_LFO_01_SUMMING AMPLIFIER1-2
+Added Net: Name=NetR20_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetR20_LFO_12_SUMMING AMPLIFIER2_2 Pin=R20_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetR20_LFO_12_SUMMING AMPLIFIER2_2 Pin=R21_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetR20_LFO_12_SUMMING AMPLIFIER2_2 Pin=U3_LFO_12_SUMMING AMPLIFIER2-2
+Added Net: Name=NetR20_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetR20_LFO_23_SUMMING AMPLIFIER3_2 Pin=R20_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetR20_LFO_23_SUMMING AMPLIFIER3_2 Pin=R21_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetR20_LFO_23_SUMMING AMPLIFIER3_2 Pin=U3_LFO_23_SUMMING AMPLIFIER3-2
+Added Net: Name=NetR20_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetR20_LFO_34_SUMMING AMPLIFIER4_2 Pin=R20_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetR20_LFO_34_SUMMING AMPLIFIER4_2 Pin=R21_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetR20_LFO_34_SUMMING AMPLIFIER4_2 Pin=U3_LFO_34_SUMMING AMPLIFIER4-2
+Added Net: Name=NetR20_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetR20_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R20_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetR20_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R21_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetR20_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Net: Name=NetR20_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=NetR22_LFO_01_SUMMING AMPLIFIER1_2 Pin=R22_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetR22_LFO_01_SUMMING AMPLIFIER1_2 Pin=U3_LFO_01_SUMMING AMPLIFIER1-6
+Added Pin To Net: NetName=NetR22_LFO_01_SUMMING AMPLIFIER1_2 Pin=U3_LFO_01_SUMMING AMPLIFIER1-7
+Added Net: Name=NetR22_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetR22_LFO_12_SUMMING AMPLIFIER2_2 Pin=R22_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetR22_LFO_12_SUMMING AMPLIFIER2_2 Pin=U3_LFO_12_SUMMING AMPLIFIER2-6
+Added Pin To Net: NetName=NetR22_LFO_12_SUMMING AMPLIFIER2_2 Pin=U3_LFO_12_SUMMING AMPLIFIER2-7
+Added Net: Name=NetR22_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetR22_LFO_23_SUMMING AMPLIFIER3_2 Pin=R22_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetR22_LFO_23_SUMMING AMPLIFIER3_2 Pin=U3_LFO_23_SUMMING AMPLIFIER3-6
+Added Pin To Net: NetName=NetR22_LFO_23_SUMMING AMPLIFIER3_2 Pin=U3_LFO_23_SUMMING AMPLIFIER3-7
+Added Net: Name=NetR22_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetR22_LFO_34_SUMMING AMPLIFIER4_2 Pin=R22_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetR22_LFO_34_SUMMING AMPLIFIER4_2 Pin=U3_LFO_34_SUMMING AMPLIFIER4-6
+Added Pin To Net: NetName=NetR22_LFO_34_SUMMING AMPLIFIER4_2 Pin=U3_LFO_34_SUMMING AMPLIFIER4-7
+Added Net: Name=NetR22_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetR22_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R22_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetR22_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-6
+Added Pin To Net: NetName=NetR22_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-7
+Added Net: Name=NetR22_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=NetR24_LFO_01_SUMMING AMPLIFIER1_1 Pin=R24_LFO_01_SUMMING AMPLIFIER1-1
+Added Pin To Net: NetName=NetR24_LFO_01_SUMMING AMPLIFIER1_1 Pin=U3_LFO_01_SUMMING AMPLIFIER1-3
+Added Net: Name=NetR24_LFO_01_SUMMING AMPLIFIER1_1
+Added Pin To Net: NetName=NetR24_LFO_12_SUMMING AMPLIFIER2_1 Pin=R24_LFO_12_SUMMING AMPLIFIER2-1
+Added Pin To Net: NetName=NetR24_LFO_12_SUMMING AMPLIFIER2_1 Pin=U3_LFO_12_SUMMING AMPLIFIER2-3
+Added Net: Name=NetR24_LFO_12_SUMMING AMPLIFIER2_1
+Added Pin To Net: NetName=NetR24_LFO_23_SUMMING AMPLIFIER3_1 Pin=R24_LFO_23_SUMMING AMPLIFIER3-1
+Added Pin To Net: NetName=NetR24_LFO_23_SUMMING AMPLIFIER3_1 Pin=U3_LFO_23_SUMMING AMPLIFIER3-3
+Added Net: Name=NetR24_LFO_23_SUMMING AMPLIFIER3_1
+Added Pin To Net: NetName=NetR24_LFO_34_SUMMING AMPLIFIER4_1 Pin=R24_LFO_34_SUMMING AMPLIFIER4-1
+Added Pin To Net: NetName=NetR24_LFO_34_SUMMING AMPLIFIER4_1 Pin=U3_LFO_34_SUMMING AMPLIFIER4-3
+Added Net: Name=NetR24_LFO_34_SUMMING AMPLIFIER4_1
+Added Pin To Net: NetName=NetR24_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=R24_LFO_OSC5_SUMMING AMPLIFIER5-1
+Added Pin To Net: NetName=NetR24_LFO_OSC5_SUMMING AMPLIFIER5_1 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-3
+Added Net: Name=NetR24_LFO_OSC5_SUMMING AMPLIFIER5_1
+Added Pin To Net: NetName=NetR25_LFO_01_SUMMING AMPLIFIER1_2 Pin=R25_LFO_01_SUMMING AMPLIFIER1-2
+Added Pin To Net: NetName=NetR25_LFO_01_SUMMING AMPLIFIER1_2 Pin=U3_LFO_01_SUMMING AMPLIFIER1-8
+Added Pin To Net: NetName=NetR25_LFO_01_SUMMING AMPLIFIER1_2 Pin=U3_LFO_01_SUMMING AMPLIFIER1-9
+Added Net: Name=NetR25_LFO_01_SUMMING AMPLIFIER1_2
+Added Pin To Net: NetName=NetR25_LFO_12_SUMMING AMPLIFIER2_2 Pin=R25_LFO_12_SUMMING AMPLIFIER2-2
+Added Pin To Net: NetName=NetR25_LFO_12_SUMMING AMPLIFIER2_2 Pin=U3_LFO_12_SUMMING AMPLIFIER2-8
+Added Pin To Net: NetName=NetR25_LFO_12_SUMMING AMPLIFIER2_2 Pin=U3_LFO_12_SUMMING AMPLIFIER2-9
+Added Net: Name=NetR25_LFO_12_SUMMING AMPLIFIER2_2
+Added Pin To Net: NetName=NetR25_LFO_23_SUMMING AMPLIFIER3_2 Pin=R25_LFO_23_SUMMING AMPLIFIER3-2
+Added Pin To Net: NetName=NetR25_LFO_23_SUMMING AMPLIFIER3_2 Pin=U3_LFO_23_SUMMING AMPLIFIER3-8
+Added Pin To Net: NetName=NetR25_LFO_23_SUMMING AMPLIFIER3_2 Pin=U3_LFO_23_SUMMING AMPLIFIER3-9
+Added Net: Name=NetR25_LFO_23_SUMMING AMPLIFIER3_2
+Added Pin To Net: NetName=NetR25_LFO_34_SUMMING AMPLIFIER4_2 Pin=R25_LFO_34_SUMMING AMPLIFIER4-2
+Added Pin To Net: NetName=NetR25_LFO_34_SUMMING AMPLIFIER4_2 Pin=U3_LFO_34_SUMMING AMPLIFIER4-8
+Added Pin To Net: NetName=NetR25_LFO_34_SUMMING AMPLIFIER4_2 Pin=U3_LFO_34_SUMMING AMPLIFIER4-9
+Added Net: Name=NetR25_LFO_34_SUMMING AMPLIFIER4_2
+Added Pin To Net: NetName=NetR25_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=R25_LFO_OSC5_SUMMING AMPLIFIER5-2
+Added Pin To Net: NetName=NetR25_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-8
+Added Pin To Net: NetName=NetR25_LFO_OSC5_SUMMING AMPLIFIER5_2 Pin=U3_LFO_OSC5_SUMMING AMPLIFIER5-9
+Added Net: Name=NetR25_LFO_OSC5_SUMMING AMPLIFIER5_2
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J1-7
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_01-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_05-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_12-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_16-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_23-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_27-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_34-28
+Added Pin To Net: NetName=PWM_0_ModuleSlot_01 Pin=J8_ModuleSlot_38-28
+Added Net: Name=PWM_0_ModuleSlot_01
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J1-6
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_01-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_05-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_12-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_16-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_23-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_27-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_34-29
+Added Pin To Net: NetName=PWM_1_ModuleSlot_01 Pin=J8_ModuleSlot_38-29
+Added Net: Name=PWM_1_ModuleSlot_01
+Added Class: Name=LFO_01_OSCILLATOR1
+Added Class: Name=LFO_01_SUMMING AMPLIFIER1
+Added Class: Name=LFO_12_OSCILLATOR2
+Added Class: Name=LFO_12_SUMMING AMPLIFIER2
+Added Class: Name=LFO_23_OSCILLATOR3
+Added Class: Name=LFO_23_SUMMING AMPLIFIER3
+Added Class: Name=LFO_34_OSCILLATOR4
+Added Class: Name=LFO_34_SUMMING AMPLIFIER4
+Added Class: Name=LFO_OSC5_OSCILLATOR5
+Added Class: Name=LFO_OSC5_SUMMING AMPLIFIER5
+Added Class: Name=MIDI-CV_Converter
+Added Class: Name=MIDI_IN
+Added Class: Name=MIDI_OUT
+Added Class: Name=ModuleSlot_01
+Added Class: Name=ModuleSlot_05
+Added Class: Name=ModuleSlot_12
+Added Class: Name=ModuleSlot_16
+Added Class: Name=ModuleSlot_23
+Added Class: Name=ModuleSlot_27
+Added Class: Name=ModuleSlot_34
+Added Class: Name=ModuleSlot_38
+Added Class: Name=POWER SUPPLY
+Added Class: Name=ADSR_555
+Added Room: Name=LFO_01_OSCILLATOR1
+Added Room: Name=LFO_01_SUMMING AMPLIFIER1
+Added Room: Name=LFO_12_OSCILLATOR2
+Added Room: Name=LFO_12_SUMMING AMPLIFIER2
+Added Room: Name=LFO_23_OSCILLATOR3
+Added Room: Name=LFO_23_SUMMING AMPLIFIER3
+Added Room: Name=LFO_34_OSCILLATOR4
+Added Room: Name=LFO_34_SUMMING AMPLIFIER4
+Added Room: Name=LFO_OSC5_OSCILLATOR5
+Added Room: Name=LFO_OSC5_SUMMING AMPLIFIER5
+Added Room: Name=MIDI-CV_Converter
+Added Room: Name=MIDI_IN
+Added Room: Name=MIDI_OUT
+Added Room: Name=ModuleSlot_01
+Added Room: Name=ModuleSlot_05
+Added Room: Name=ModuleSlot_12
+Added Room: Name=ModuleSlot_16
+Added Room: Name=ModuleSlot_23
+Added Room: Name=ModuleSlot_27
+Added Room: Name=ModuleSlot_34
+Added Room: Name=ModuleSlot_38
+Added Room: Name=POWER SUPPLY

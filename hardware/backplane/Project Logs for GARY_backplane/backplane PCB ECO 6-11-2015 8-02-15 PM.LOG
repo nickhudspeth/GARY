@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetU12_1 Pin=U12-1
+Removed Pin From Net: NetName=NetR130_1 Pin=U12-2
+Removed Member From Class: ClassName=OSCILLATOR_0 Member=J11
+Removed Member From Class: ClassName=ModuleSlot_1 Member=J19
+Removed Member From Class: ClassName=ModuleSlot_3 Member=J55
+Removed Member From Class: ClassName=MIDI_IN Member=MCVC_CON1
+Added Component: Designator=U12(N014)
+Added Pin To Net: NetName=NetU12_1 Pin=U12-1
+Added Pin To Net: NetName=NetR130_1 Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-7
+Added Pin To Net: NetName=VCC Pin=U12-14
+Added Member To Class: ClassName=MIDI_IN Member=Component J10 (J1) MIDI INPUT
+Added Member To Class: ClassName=OSCILLATOR_0 Member=Component J12 (J1) CTRL_INPUT_Generic
+Added Member To Class: ClassName=ModuleSlot_1 Member=Component J21 (J1) CTRL_INPUT_Generic
+Added Member To Class: ClassName=ModuleSlot_3 Member=Component J57 (J1) CTRL_INPUT_Generic

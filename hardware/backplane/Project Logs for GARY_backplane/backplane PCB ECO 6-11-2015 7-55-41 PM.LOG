@@ -1,0 +1,108 @@
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=C21
+Removed Member From Class: ClassName=LFO_12_OSCILLATOR2 Member=C22
+Removed Member From Class: ClassName=LFO_23_OSCILLATOR3 Member=C23
+Removed Member From Class: ClassName=LFO_34_OSCILLATOR4 Member=C24
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=D11
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=D12
+Removed Member From Class: ClassName=ModuleSlot_0 Member=J10
+Removed Member From Class: ClassName=ModuleSlot_0 Member=J11
+Removed Member From Class: ClassName=ModuleSlot_0 Member=J12
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=R126
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=R127
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=R128
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=R129
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=R130
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=R131
+Removed Member From Class: ClassName=LFO_23_SUMMING AMPLIFIER3 Member=R132
+Removed Member From Class: ClassName=LFO_01_SUMMING AMPLIFIER1 Member=U11
+Removed Member From Class: ClassName=LFO_12_SUMMING AMPLIFIER2 Member=U12
+Removed Member From Class: ClassName=LFO_01_OSCILLATOR1 Member=U13
+Change Component Designator: OldDesignator=J10 NewDesignator=MCVC_CON1
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J12 NewDesignator=J11
+Change Component Designator: OldDesignator=J13 NewDesignator=J12
+Change Component Designator: OldDesignator=J14 NewDesignator=J13
+Change Component Designator: OldDesignator=J15 NewDesignator=J14
+Change Component Designator: OldDesignator=J16 NewDesignator=J15
+Change Component Designator: OldDesignator=J17 NewDesignator=J16
+Change Component Designator: OldDesignator=J18 NewDesignator=J17
+Change Component Designator: OldDesignator=J19 NewDesignator=J18
+Change Component Designator: OldDesignator=J20 NewDesignator=J19
+Change Component Designator: OldDesignator=J21 NewDesignator=J20
+Change Component Designator: OldDesignator=J22 NewDesignator=J21
+Change Component Designator: OldDesignator=J23 NewDesignator=J22
+Change Component Designator: OldDesignator=J24 NewDesignator=J23
+Change Component Designator: OldDesignator=J25 NewDesignator=J24
+Change Component Designator: OldDesignator=J26 NewDesignator=J25
+Change Component Designator: OldDesignator=J27 NewDesignator=J26
+Change Component Designator: OldDesignator=J28 NewDesignator=J27
+Change Component Designator: OldDesignator=J29 NewDesignator=J28
+Change Component Designator: OldDesignator=J30 NewDesignator=J29
+Change Component Designator: OldDesignator=J31 NewDesignator=J30
+Change Component Designator: OldDesignator=J32 NewDesignator=J31
+Change Component Designator: OldDesignator=J33 NewDesignator=J32
+Change Component Designator: OldDesignator=J34 NewDesignator=J33
+Change Component Designator: OldDesignator=J35 NewDesignator=J34
+Change Component Designator: OldDesignator=J36 NewDesignator=J35
+Change Component Designator: OldDesignator=J37 NewDesignator=J36
+Change Component Designator: OldDesignator=J38 NewDesignator=J37
+Change Component Designator: OldDesignator=J39 NewDesignator=J38
+Change Component Designator: OldDesignator=J40 NewDesignator=J39
+Change Component Designator: OldDesignator=J41 NewDesignator=J40
+Change Component Designator: OldDesignator=J42 NewDesignator=J41
+Change Component Designator: OldDesignator=J43 NewDesignator=J42
+Change Component Designator: OldDesignator=J44 NewDesignator=J43
+Change Component Designator: OldDesignator=J45 NewDesignator=J44
+Change Component Designator: OldDesignator=J46 NewDesignator=J45
+Change Component Designator: OldDesignator=J47 NewDesignator=J46
+Change Component Designator: OldDesignator=J48 NewDesignator=J47
+Change Component Designator: OldDesignator=J49 NewDesignator=J48
+Change Component Designator: OldDesignator=J50 NewDesignator=J49
+Change Component Designator: OldDesignator=J51 NewDesignator=J50
+Change Component Designator: OldDesignator=J52 NewDesignator=J51
+Change Component Designator: OldDesignator=J53 NewDesignator=J52
+Change Component Designator: OldDesignator=J54 NewDesignator=J53
+Change Component Designator: OldDesignator=J55 NewDesignator=J54
+Change Component Designator: OldDesignator=J56 NewDesignator=J55
+Change Component Designator: OldDesignator=J57 NewDesignator=J56
+Change Component Designator: OldDesignator=J58 NewDesignator=J57
+Change Component Designator: OldDesignator=J59 NewDesignator=J58
+Change Component Designator: OldDesignator=J60 NewDesignator=J59
+Change Component Designator: OldDesignator=J61 NewDesignator=J60
+Change Component Designator: OldDesignator=J62 NewDesignator=J61
+Change Component Designator: OldDesignator=J63 NewDesignator=J62
+Change Component Designator: OldDesignator=J64 NewDesignator=J63
+Change Component Designator: OldDesignator=J65 NewDesignator=J64
+Change Component Designator: OldDesignator=J66 NewDesignator=J65
+Change Component Designator: OldDesignator=J67 NewDesignator=J66
+Change Component Designator: OldDesignator=J68 NewDesignator=J67
+Change Component Designator: OldDesignator=J69 NewDesignator=J68
+Change Component Designator: OldDesignator=J70 NewDesignator=J69
+Change Component Designator: OldDesignator=J71 NewDesignator=J70
+Change Component Designator: OldDesignator=J72 NewDesignator=J71
+Change Component Designator: OldDesignator=J73 NewDesignator=J72
+Change Component Designator: OldDesignator=J74 NewDesignator=J73
+Change Component Designator: OldDesignator=J75 NewDesignator=J74
+Change Net Name : Old Net Name=NetJ10_3 New Net Name=NetMCVC_CON1_3
+Change Net Name : Old Net Name=NetJ11_4 New Net Name=NetJ10_4
+Change Net Name : Old Net Name=NetJ12_4 New Net Name=NetJ11_4
+Change Net Name : Old Net Name=NetJ12_5 New Net Name=NetJ11_5
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component C1 (C5) Cap2
+Added Member To Class: ClassName=LFO_12_OSCILLATOR2 Member=Component C2 (C5) Cap2
+Added Member To Class: ClassName=LFO_23_OSCILLATOR3 Member=Component C3 (C5) Cap2
+Added Member To Class: ClassName=LFO_34_OSCILLATOR4 Member=Component C4 (C5) Cap2
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component D1 (D2) 1N914
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component D2 (D3) 1N914
+Added Member To Class: ClassName=ModuleSlot_0 Member=Component J1 CTRL_INPUT_Generic
+Added Member To Class: ClassName=ModuleSlot_0 Member=Component J2 CTRL_INPUT_Generic
+Added Member To Class: ClassName=ModuleSlot_0 Member=Component J4 CTRL_INPUT_Generic
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component R1 (R2) Res1
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component R2 (R3) Res1
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component R3 (R4) Res1
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component R11 (R12) Res1
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component R12 (R13) Res1
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component R13 (R14) Res1
+Added Member To Class: ClassName=LFO_23_SUMMING AMPLIFIER3 Member=Component R99 (R18) SIN_AMT
+Added Member To Class: ClassName=LFO_01_OSCILLATOR1 Member=Component U1 (U2A) LM148J
+Added Member To Class: ClassName=LFO_01_SUMMING AMPLIFIER1 Member=Component U6 (U3A) LM148J
+Added Member To Class: ClassName=LFO_12_SUMMING AMPLIFIER2 Member=Component U7 (U3A) LM148J

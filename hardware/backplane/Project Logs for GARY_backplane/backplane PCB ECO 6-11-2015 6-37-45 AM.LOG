@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=U?1 Member=D11
+Removed Member From Class: ClassName=MIDI_IN Member=J73
+Removed Member From Class: ClassName=U?1 Member=R126
+Removed Member From Class: ClassName=U?1 Member=R128
+Change Class Name : Old Net Name=S1 New Net Name=MIDI-CV_CONVERTER
+Added Member To Class: ClassName=U?1 Member=Component D2 1N914
+Added Member To Class: ClassName=MIDI_IN Member=Component J74 (J1) MIDI INPUT
+Added Member To Class: ClassName=U?1 Member=Component R11 Res1
+Added Member To Class: ClassName=U?1 Member=Component R13 Res1
+Added Room: Name=MIDI-CV_CONVERTER

@@ -1,0 +1,67 @@
+Added Component: Designator=J1(MIDI-CV CONVERTER MODULE)
+Added Pin To Net: NetName=+5 Pin=J1-0
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=-12 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=CV_0_A Pin=J1-12
+Added Pin To Net: NetName=CV_0_B Pin=J1-13
+Added Pin To Net: NetName=CV_1_B Pin=J1-14
+Added Pin To Net: NetName=CV_1_A Pin=J1-15
+Added Pin To Net: NetName=CV_2_A Pin=J1-16
+Added Pin To Net: NetName=CV_2_B Pin=J1-17
+Added Pin To Net: NetName=CV_3_A Pin=J1-18
+Added Pin To Net: NetName=CV_3_B Pin=J1-19
+Change Net Name : Old Net Name=CV_1_A New Net Name=CV_1_B
+Change Net Name : Old Net Name=CV_1_B New Net Name=CV_1_A
+Added Pin To Net: NetName=0 Pin=J1-24
+Added Net: Name=0
+Added Pin To Net: NetName=1 Pin=J1-20
+Added Pin To Net: NetName=1 Pin=J1-25
+Added Pin To Net: NetName=1 Pin=J1-26
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=J1-21
+Added Pin To Net: NetName=2 Pin=J1-27
+Added Pin To Net: NetName=2 Pin=J1-28
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=J1-32
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=J1-22
+Added Pin To Net: NetName=4 Pin=J1-23
+Added Pin To Net: NetName=4 Pin=J1-29
+Added Pin To Net: NetName=4 Pin=J1-30
+Added Pin To Net: NetName=4 Pin=J1-31
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=J1-33
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=J1-34
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=J1-35
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=J1-36
+Added Net: Name=8
+Added Pin To Net: NetName=9 Pin=J1-37
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=J1-38
+Added Net: Name=10
+Added Pin To Net: NetName=11 Pin=J1-39
+Added Net: Name=11
+Added Pin To Net: NetName=12 Pin=J1-40
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=J1-41
+Added Net: Name=13
+Added Pin To Net: NetName=14 Pin=J1-42
+Added Net: Name=14
+Added Pin To Net: NetName=15 Pin=J1-43
+Added Net: Name=15
+Added Pin To Net: NetName=16 Pin=J1-44
+Added Net: Name=16
+Added Pin To Net: NetName=17 Pin=J1-45
+Added Net: Name=17
+Added Pin To Net: NetName=18 Pin=J1-46
+Added Net: Name=18
+Added Pin To Net: NetName=19 Pin=J1-47
+Added Net: Name=19
+Added Pin To Net: NetName=MIDI_IN Pin=J1-3
+Added Net: Name=MIDI_IN
+Added Class: Name=Top Sheet
+Added Room: Name=Top Sheet
